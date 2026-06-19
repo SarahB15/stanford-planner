@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import json
 from pathlib import Path
+from streamlit_local_storage import LocalStorage
 
 st.set_page_config(
     page_title="Stanford ChemE 4-Year Planner",
@@ -227,8 +228,44 @@ def _empty_df():
         "Grade":  [""]  * SLOTS,
     })
 
+def _serialize_plan(plan):
+    return {yr: {q: plan[yr][q].fillna("").to_dict("records") for q in QUARTERS} for yr in YEARS}
+
+def _deserialize_plan(data):
+    plan = {}
+    for yr in YEARS:
+        plan[yr] = {}
+        for q in QUARTERS:
+            records = data.get(yr, {}).get(q, [])
+            df = pd.DataFrame(records) if records else _empty_df()
+            for col in ["Course", "Units", "Grade"]:
+                if col not in df.columns:
+                    df[col] = "" if col != "Units" else 0
+            df["Units"] = pd.to_numeric(df["Units"], errors="coerce").fillna(0).astype(int)
+            plan[yr][q] = df[["Course", "Units", "Grade"]].head(SLOTS)
+    return plan
+
+_ls = LocalStorage()
+_LS_KEY = "stanford_cheme_plan_v1"
+
 if "plan" not in st.session_state:
     st.session_state.plan = {yr: {q: _empty_df() for q in QUARTERS} for yr in YEARS}
+    st.session_state._ls_attempts = 0
+    st.session_state._ls_ready = False
+
+# Try to load from localStorage until confirmed (component needs 1-2 reruns to mount)
+if not st.session_state._ls_ready:
+    _saved = _ls.getItem(_LS_KEY)
+    if _saved is not None:
+        try:
+            st.session_state.plan = _deserialize_plan(_saved)
+        except Exception:
+            pass
+        st.session_state._ls_ready = True
+    else:
+        st.session_state._ls_attempts += 1
+        if st.session_state._ls_attempts >= 2:
+            st.session_state._ls_ready = True  # confirmed: nothing saved
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
@@ -475,3 +512,7 @@ for col, (req_name, req) in zip(req_cols, REQUIREMENTS.items()):
         missing_req = [c for c in req["required"] if c not in codes_now and alts.get(c,"") not in codes_now]
         if missing_req:
             st.caption("Need: " + ", ".join(missing_req[:3]) + ("…" if len(missing_req) > 3 else ""))
+
+# ── Auto-save to browser localStorage ────────────────────────────────────────
+if st.session_state._ls_ready:
+    _ls.setItem(_LS_KEY, _serialize_plan(st.session_state.plan))
