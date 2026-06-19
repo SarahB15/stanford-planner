@@ -301,9 +301,10 @@ with st.sidebar:
         search = st.text_input("🔍 Search courses", placeholder="e.g. thermo, CHEMENG 110, BIO")
         cat_filter = st.selectbox("Category", ["All"] + list(CAT_COLORS.keys()), label_visibility="collapsed")
 
+        _q = search.lower().replace(" ", "")
         filtered = [
             c for c in CATALOG
-            if (search.lower() in c["code"].lower() or search.lower() in c["name"].lower()
+            if (_q in c["code"].lower().replace(" ", "") or search.lower() in c["name"].lower()
                 or search.lower() in c["desc"].lower())
             and (cat_filter == "All" or c["cat"] == cat_filter)
         ][:120]  # cap at 120 to keep sidebar snappy
