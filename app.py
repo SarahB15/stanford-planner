@@ -302,12 +302,18 @@ with st.sidebar:
         cat_filter = st.selectbox("Category", ["All"] + list(CAT_COLORS.keys()), label_visibility="collapsed")
 
         _q = search.lower().replace(" ", "")
-        filtered = [
-            c for c in CATALOG
-            if (_q in c["code"].lower().replace(" ", "") or search.lower() in c["name"].lower()
-                or search.lower() in c["desc"].lower())
-            and (cat_filter == "All" or c["cat"] == cat_filter)
-        ][:120]  # cap at 120 to keep sidebar snappy
+        _sl = search.lower()
+        def _rank(c):
+            code_match = _q in c["code"].lower().replace(" ", "")
+            name_match = _sl in c["name"].lower()
+            return 0 if code_match else (1 if name_match else 2)
+        filtered = sorted(
+            [c for c in CATALOG
+             if (_q in c["code"].lower().replace(" ", "") or _sl in c["name"].lower()
+                 or _sl in c["desc"].lower())
+             and (cat_filter == "All" or c["cat"] == cat_filter)],
+            key=_rank
+        )[:120]
 
         if not filtered:
             st.info("No courses match. Try a different search.")
