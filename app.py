@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import json
-import re
 from pathlib import Path
 from streamlit_local_storage import LocalStorage
 
@@ -146,6 +145,12 @@ CAT_COLORS = {
 }
 
 @st.cache_data
+def load_prereqs():
+    path = Path(__file__).parent / "prereqs.json"
+    with open(path) as f:
+        return json.load(f)
+
+@st.cache_data
 def load_catalog():
     path = Path(__file__).parent / "courses.json"
     with open(path) as f:
@@ -174,6 +179,7 @@ def load_catalog():
 CATALOG = load_catalog()
 CATALOG_BY_CODE = {c["code"]: c for c in CATALOG}
 COURSE_CODES = [""] + [c["code"] for c in CATALOG]
+PREREQS = load_prereqs()
 
 # ── ChemE BS Requirements ─────────────────────────────────────────────────────
 
@@ -523,31 +529,6 @@ for col, (req_name, req) in zip(req_cols, REQUIREMENTS.items()):
 
 # ── Prerequisite Checker ─────────────────────────────────────────────────────
 
-def _parse_prereq_groups(desc, own_subject=""):
-    """Return list of OR-groups from prereq text. Each group = list of alternatives (any one satisfies it)."""
-    m = re.search(r'[Pp]re(?:-?\/?[Cc]o)?requisites?:?\s*(.*?)(?=\.\s|\.\n|Recommended|Note:|$)', desc, re.DOTALL)
-    if not m:
-        return []
-    text = m.group(1)
-    groups = []
-    for chunk in re.split(r'[,;]', text):
-        alts = re.split(r'\s+or\s+', chunk, flags=re.IGNORECASE)
-        codes = []
-        for alt in alts:
-            # Full codes like "CHEMENG 110A"
-            found = re.findall(r'\b([A-Z]{2,8}(?:&[A-Z]{1,5})?)\s+(\d{1,4}[A-Z]*)\b', alt)
-            codes.extend(f"{s} {n}" for s, n in found if f"{s} {n}" in CATALOG_BY_CODE)
-            # Number-only refs like "106A" — try inferring subject from the course's own subject
-            if not found and own_subject:
-                nums = re.findall(r'\b(\d{1,4}[A-Z]*)\b', alt)
-                for n in nums:
-                    candidate = f"{own_subject} {n}"
-                    if candidate in CATALOG_BY_CODE:
-                        codes.append(candidate)
-        if codes:
-            groups.append(codes)
-    return groups
-
 def _plan_timeline():
     """Return {course_code: (year_idx, quarter_idx)} for every non-empty planned course."""
     tl = {}
@@ -563,20 +544,17 @@ def _check_prereqs():
     tl = _plan_timeline()
     warnings = []
     for code, (yi, qi) in tl.items():
-        course = CATALOG_BY_CODE.get(code)
-        if not course:
+        groups = PREREQS.get(code, [])
+        if not groups:
             continue
-        groups = _parse_prereq_groups(course.get("desc", ""), course.get("subject", ""))
         unmet = []
         for group in groups:
-            satisfied = any(
-                alt in tl and tl[alt] < (yi, qi)
-                for alt in group
-            )
+            satisfied = any(alt in tl and tl[alt] < (yi, qi) for alt in group)
             if not satisfied:
                 unmet.append(" or ".join(group))
         if unmet:
-            warnings.append({"code": code, "name": course["name"],
+            course = CATALOG_BY_CODE.get(code, {})
+            warnings.append({"code": code, "name": course.get("name", code),
                              "year": YEARS[yi], "quarter": QUARTERS[qi], "unmet": unmet})
     return warnings
 
