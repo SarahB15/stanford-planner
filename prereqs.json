@@ -2,28 +2,11 @@
   "AA 92SI": [],
   "AA 100": [],
   "AA 102": [],
-  "AA 103": [
-    [
-      "AA 100"
-    ],
-    [
-      "ME 30"
-    ],
-    [
-      "ME 70"
-    ]
-  ],
+  "AA 103": [],
   "AA 107": [],
   "AA 108N": [],
   "AA 109Q": [],
-  "AA 113": [
-    [
-      "ENGR 14"
-    ],
-    [
-      "ME 30"
-    ]
-  ],
+  "AA 113": [],
   "AA 114Q": [],
   "AA 115Q": [],
   "AA 118N": [],
@@ -32,35 +15,13 @@
   "AA 121Q": [],
   "AA 124": [],
   "AA 126": [],
-  "AA 131": [
-    [
-      "AA 100"
-    ]
-  ],
+  "AA 131": [],
   "AA 132": [],
   "AA 133": [],
   "AA 136A": [],
   "AA 136B": [],
-  "AA 141": [
-    [
-      "MATH 20"
-    ],
-    [
-      "AA 100"
-    ]
-  ],
-  "AA 146A": [
-    [
-      "MATH 19"
-    ],
-    [
-      "CME 100"
-    ],
-    [
-      "CME 102",
-      "MATH 51"
-    ]
-  ],
+  "AA 141": [],
+  "AA 146A": [],
   "AA 146B": [],
   "AA 149": [],
   "AA 151": [],
@@ -68,210 +29,60 @@
   "AA 160": [],
   "AA 172": [],
   "AA 173": [],
-  "AA 174A": [
-    [
-      "CS 106A"
-    ],
-    [
-      "CME 100"
-    ],
-    [
-      "CME 106"
-    ]
-  ],
-  "AA 174B": [
-    [
-      "CME 100"
-    ],
-    [
-      "CME 106"
-    ]
-  ],
-  "AA 179": [
-    [
-      "ENGR 15"
-    ],
-    [
-      "CME 100"
-    ],
-    [
-      "CME 102",
-      "MATH 51"
-    ],
-    [
-      "MATH 53"
-    ]
-  ],
+  "AA 174A": [],
+  "AA 174B": [],
+  "AA 179": [],
   "AA 190": [],
   "AA 191": [],
   "AA 199": [],
   "AA 200": [],
   "AA 201A": [],
-  "AA 201B": [
-    [
-      "AA 201A"
-    ]
-  ],
+  "AA 201B": [],
   "AA 203": [],
   "AA 204": [],
-  "AA 205": [
-    [
-      "ME 362A"
-    ]
-  ],
+  "AA 205": [],
   "AA 210A": [],
-  "AA 212": [
-    [
-      "ENGR 105"
-    ]
-  ],
-  "AA 214": [
-    [
-      "CME 206"
-    ]
-  ],
-  "AA 216": [
-    [
-      "CME 200"
-    ],
-    [
-      "CME 263"
-    ]
-  ],
+  "AA 212": [],
+  "AA 214": [],
+  "AA 216": [],
   "AA 222": [],
   "AA 228": [],
   "AA 228V": [],
-  "AA 229": [
-    [
-      "AA 228",
-      "CS 238",
-      "CS 221"
-    ]
-  ],
+  "AA 229": [],
   "AA 232": [],
   "AA 233": [],
   "AA 234": [],
   "AA 236A": [],
-  "AA 236B": [
-    [
-      "AA 236A"
-    ]
-  ],
-  "AA 240": [
-    [
-      "ENGR 14"
-    ]
-  ],
+  "AA 236B": [],
+  "AA 240": [],
   "AA 240B": [],
   "AA 241A": [],
-  "AA 241B": [
-    [
-      "AA 241A"
-    ]
-  ],
-  "AA 242A": [
-    [
-      "ENGR 15"
-    ]
-  ],
-  "AA 242B": [
-    [
-      "AA 242A"
-    ]
-  ],
+  "AA 241B": [],
+  "AA 242A": [],
+  "AA 242B": [],
   "AA 244A": [],
   "AA 244B": [],
   "AA 245": [],
-  "AA 251": [
-    [
-      "AA 244A"
-    ]
-  ],
+  "AA 251": [],
   "AA 252": [],
-  "AA 256": [
-    [
-      "AA 156",
-      "ME 80"
-    ]
-  ],
-  "AA 257": [
-    [
-      "AA 240"
-    ]
-  ],
+  "AA 256": [],
+  "AA 257": [],
   "AA 260": [],
   "AA 261": [],
   "AA 262": [],
-  "AA 271A": [
-    [
-      "ENGR 105"
-    ]
-  ],
+  "AA 271A": [],
   "AA 272": [],
   "AA 273": [],
-  "AA 274A": [
-    [
-      "CS 106A"
-    ],
-    [
-      "CME 100"
-    ],
-    [
-      "CME 106"
-    ]
-  ],
-  "AA 274B": [
-    [
-      "CME 100"
-    ],
-    [
-      "CME 106"
-    ]
-  ],
-  "AA 275": [
-    [
-      "AA 222"
-    ],
-    [
-      "EE 278",
-      "EE 263"
-    ]
-  ],
+  "AA 274A": [],
+  "AA 274B": [],
+  "AA 275": [],
   "AA 276": [],
   "AA 277": [],
   "AA 278": [],
-  "AA 279A": [
-    [
-      "ENGR 15"
-    ]
-  ],
-  "AA 279B": [
-    [
-      "AA 279A"
-    ]
-  ],
-  "AA 279C": [
-    [
-      "AA 242A"
-    ],
-    [
-      "ENGR 105"
-    ],
-    [
-      "AA 279A"
-    ]
-  ],
-  "AA 279D": [
-    [
-      "AA 242A"
-    ],
-    [
-      "ENGR 105"
-    ],
-    [
-      "AA 279A"
-    ]
-  ],
+  "AA 279A": [],
+  "AA 279B": [],
+  "AA 279C": [],
+  "AA 279D": [],
   "AA 280": [],
   "AA 283": [],
   "AA 290": [],
@@ -314,17 +125,9 @@
   "ACCT 802": [],
   "AFRICAAM 10": [],
   "AFRICAAM 18A": [],
-  "AFRICAAM 18B": [
-    [
-      "AFRICAAM 18A"
-    ]
-  ],
+  "AFRICAAM 18B": [],
   "AFRICAAM 19": [],
-  "AFRICAAM 20A": [
-    [
-      "AFRICAAM 19"
-    ]
-  ],
+  "AFRICAAM 20A": [],
   "AFRICAAM 27H": [],
   "AFRICAAM 29C": [],
   "AFRICAAM 30": [],
@@ -515,26 +318,10 @@
   "ALP 308": [],
   "AMHRLANG 1": [],
   "AMHRLANG 2": [],
-  "AMHRLANG 3": [
-    [
-      "AMHRLANG 2"
-    ]
-  ],
-  "AMHRLANG 21": [
-    [
-      "AMHRLANG 3"
-    ]
-  ],
-  "AMHRLANG 22": [
-    [
-      "AMHRLANG 21"
-    ]
-  ],
-  "AMHRLANG 23": [
-    [
-      "AMHRLANG 22"
-    ]
-  ],
+  "AMHRLANG 3": [],
+  "AMHRLANG 21": [],
+  "AMHRLANG 22": [],
+  "AMHRLANG 23": [],
   "AMHRLANG 395": [],
   "AMSTUD 1B": [],
   "AMSTUD 4": [],
@@ -542,11 +329,7 @@
   "AMSTUD 12A": [],
   "AMSTUD 16N": [],
   "AMSTUD 18A": [],
-  "AMSTUD 18B": [
-    [
-      "AMSTUD 18A"
-    ]
-  ],
+  "AMSTUD 18B": [],
   "AMSTUD 25": [],
   "AMSTUD 33": [],
   "AMSTUD 41N": [],
@@ -988,39 +771,19 @@
   "APPPHYS 220": [],
   "APPPHYS 222": [],
   "APPPHYS 223": [],
-  "APPPHYS 228": [
-    [
-      "PHYSICS 130",
-      "APPPHYS 203"
-    ]
-  ],
+  "APPPHYS 228": [],
   "APPPHYS 229": [],
   "APPPHYS 230": [],
   "APPPHYS 232": [],
   "APPPHYS 235": [],
   "APPPHYS 237": [],
-  "APPPHYS 270": [
-    [
-      "PHYSICS 172",
-      "MATSCI 209"
-    ]
-  ],
+  "APPPHYS 270": [],
   "APPPHYS 272": [],
-  "APPPHYS 273": [
-    [
-      "APPPHYS 272",
-      "PHYSICS 172"
-    ]
-  ],
+  "APPPHYS 273": [],
   "APPPHYS 280": [],
   "APPPHYS 282": [],
   "APPPHYS 283": [],
-  "APPPHYS 284": [
-    [
-      "APPPHYS 203",
-      "APPPHYS 228"
-    ]
-  ],
+  "APPPHYS 284": [],
   "APPPHYS 285": [],
   "APPPHYS 290": [],
   "APPPHYS 291": [],
@@ -1040,76 +803,23 @@
   "APPPHYS 802": [],
   "ARABLANG 1": [],
   "ARABLANG 1A": [],
-  "ARABLANG 2": [
-    [
-      "ARABLANG 1"
-    ]
-  ],
-  "ARABLANG 2A": [
-    [
-      "ARABLANG 1A"
-    ]
-  ],
-  "ARABLANG 3": [
-    [
-      "ARABLANG 2"
-    ]
-  ],
+  "ARABLANG 2": [],
+  "ARABLANG 2A": [],
+  "ARABLANG 3": [],
   "ARABLANG 10": [],
-  "ARABLANG 21": [
-    [
-      "ARABLANG 3"
-    ]
-  ],
-  "ARABLANG 21A": [
-    [
-      "ARABLANG 2A",
-      "ARABLANG 3"
-    ]
-  ],
+  "ARABLANG 21": [],
+  "ARABLANG 21A": [],
   "ARABLANG 22": [],
-  "ARABLANG 22A": [
-    [
-      "ARABLANG 21A"
-    ]
-  ],
-  "ARABLANG 23": [
-    [
-      "ARABLANG 22"
-    ]
-  ],
+  "ARABLANG 22A": [],
+  "ARABLANG 23": [],
   "ARABLANG 24": [],
-  "ARABLANG 125A": [
-    [
-      "ARABLANG 2"
-    ]
-  ],
-  "ARABLANG 125B": [
-    [
-      "ARABLANG 125A"
-    ]
-  ],
-  "ARABLANG 125C": [
-    [
-      "ARABLANG 3"
-    ]
-  ],
+  "ARABLANG 125A": [],
+  "ARABLANG 125B": [],
+  "ARABLANG 125C": [],
   "ARABLANG 127": [],
-  "ARABLANG 131": [
-    [
-      "ARABLANG 23"
-    ]
-  ],
-  "ARABLANG 132": [
-    [
-      "ARABLANG 131"
-    ]
-  ],
-  "ARABLANG 133": [
-    [
-      "ARABLANG 132"
-    ]
-  ],
+  "ARABLANG 131": [],
+  "ARABLANG 132": [],
+  "ARABLANG 133": [],
   "ARABLANG 297": [],
   "ARABLANG 394": [],
   "ARABLANG 395": [],
@@ -1212,22 +922,10 @@
   "ARMELANG 2": [],
   "ARMELANG 3": [],
   "ARMELANG 22": [],
-  "ARMELANG 23": [
-    [
-      "ARMELANG 22"
-    ]
-  ],
+  "ARMELANG 23": [],
   "ARMELANG 101": [],
-  "ARMELANG 102": [
-    [
-      "ARMELANG 101"
-    ]
-  ],
-  "ARMELANG 103": [
-    [
-      "ARMELANG 102"
-    ]
-  ],
+  "ARMELANG 102": [],
+  "ARMELANG 103": [],
   "ARMELANG 395": [],
   "ARTHIST 1A": [],
   "ARTHIST 1B": [],
@@ -1532,11 +1230,7 @@
   "ARTSTUDI 145S": [],
   "ARTSTUDI 146M": [],
   "ARTSTUDI 147": [],
-  "ARTSTUDI 148": [
-    [
-      "ARTSTUDI 140"
-    ]
-  ],
+  "ARTSTUDI 148": [],
   "ARTSTUDI 148A": [],
   "ARTSTUDI 148B": [],
   "ARTSTUDI 148P": [],
@@ -1560,11 +1254,7 @@
   "ARTSTUDI 163": [],
   "ARTSTUDI 164M": [],
   "ARTSTUDI 165A": [],
-  "ARTSTUDI 166": [
-    [
-      "ARTSTUDI 266"
-    ]
-  ],
+  "ARTSTUDI 166": [],
   "ARTSTUDI 166S": [],
   "ARTSTUDI 167": [],
   "ARTSTUDI 167M": [],
@@ -1603,51 +1293,18 @@
   "ARTSTUDI 199S": [],
   "ARTSTUDI 201": [],
   "ARTSTUDI 209": [],
-  "ARTSTUDI 213": [
-    [
-      "ARTSTUDI 170",
-      "ARTSTUDI 171",
-      "ARTSTUDI 173E"
-    ]
-  ],
+  "ARTSTUDI 213": [],
   "ARTSTUDI 230": [],
   "ARTSTUDI 231A": [],
   "ARTSTUDI 236": [],
-  "ARTSTUDI 239": [
-    [
-      "FILMPROD 114"
-    ],
-    [
-      "ARTSTUDI 131"
-    ],
-    [
-      "ARTSTUDI 167"
-    ],
-    [
-      "ARTSTUDI 177"
-    ],
-    [
-      "ARTSTUDI 179"
-    ]
-  ],
-  "ARTSTUDI 240": [
-    [
-      "ARTSTUDI 140"
-    ]
-  ],
+  "ARTSTUDI 239": [],
+  "ARTSTUDI 240": [],
   "ARTSTUDI 241": [],
   "ARTSTUDI 241A": [],
   "ARTSTUDI 242": [],
   "ARTSTUDI 242A": [],
   "ARTSTUDI 243": [],
-  "ARTSTUDI 245": [
-    [
-      "ARTSTUDI 140"
-    ],
-    [
-      "ARTSTUDI 145"
-    ]
-  ],
+  "ARTSTUDI 245": [],
   "ARTSTUDI 246": [],
   "ARTSTUDI 247": [],
   "ARTSTUDI 247A": [],
@@ -1667,52 +1324,15 @@
   "ARTSTUDI 261": [],
   "ARTSTUDI 262A": [],
   "ARTSTUDI 265": [],
-  "ARTSTUDI 266": [
-    [
-      "ARTSTUDI 266"
-    ]
-  ],
+  "ARTSTUDI 266": [],
   "ARTSTUDI 268": [],
-  "ARTSTUDI 270": [
-    [
-      "ARTSTUDI 171"
-    ]
-  ],
+  "ARTSTUDI 270": [],
   "ARTSTUDI 270A": [],
-  "ARTSTUDI 271A": [
-    [
-      "ARTSTUDI 170",
-      "ARTSTUDI 171",
-      "ARTSTUDI 173E"
-    ]
-  ],
-  "ARTSTUDI 271B": [
-    [
-      "ARTSTUDI 170",
-      "ARTSTUDI 171",
-      "ARTSTUDI 173E"
-    ]
-  ],
-  "ARTSTUDI 271C": [
-    [
-      "ARTSTUDI 170",
-      "ARTSTUDI 171",
-      "ARTSTUDI 173E"
-    ]
-  ],
-  "ARTSTUDI 271D": [
-    [
-      "ARTSTUDI 170",
-      "ARTSTUDI 171",
-      "ARTSTUDI 173E"
-    ]
-  ],
-  "ARTSTUDI 271E": [
-    [
-      "ARTSTUDI 170",
-      "ARTSTUDI 171"
-    ]
-  ],
+  "ARTSTUDI 271A": [],
+  "ARTSTUDI 271B": [],
+  "ARTSTUDI 271C": [],
+  "ARTSTUDI 271D": [],
+  "ARTSTUDI 271E": [],
   "ARTSTUDI 271F": [],
   "ARTSTUDI 272": [],
   "ARTSTUDI 273": [],
@@ -1724,13 +1344,7 @@
   "ARTSTUDI 286B": [],
   "ARTSTUDI 287": [],
   "ARTSTUDI 287A": [],
-  "ARTSTUDI 288": [
-    [
-      "ARTSTUDI 170",
-      "ARTSTUDI 171",
-      "ARTSTUDI 173E"
-    ]
-  ],
+  "ARTSTUDI 288": [],
   "ARTSTUDI 290": [],
   "ARTSTUDI 295": [],
   "ARTSTUDI 297": [],
@@ -1747,32 +1361,12 @@
   "ARTSTUDI 801": [],
   "ASLLANG 1": [],
   "ASLLANG 1A": [],
-  "ASLLANG 2": [
-    [
-      "ASLLANG 1"
-    ]
-  ],
+  "ASLLANG 2": [],
   "ASLLANG 2A": [],
-  "ASLLANG 3": [
-    [
-      "ASLLANG 2"
-    ]
-  ],
-  "ASLLANG 21": [
-    [
-      "ASLLANG 3"
-    ]
-  ],
-  "ASLLANG 22": [
-    [
-      "ASLLANG 21"
-    ]
-  ],
-  "ASLLANG 23": [
-    [
-      "ASLLANG 22"
-    ]
-  ],
+  "ASLLANG 3": [],
+  "ASLLANG 21": [],
+  "ASLLANG 22": [],
+  "ASLLANG 23": [],
   "ASLLANG 395": [],
   "ASNAMST 1SI": [],
   "ASNAMST 4A": [],
@@ -1827,12 +1421,7 @@
   "ASNAMST 298": [],
   "ATHLETIC 10": [],
   "ATHLETIC 11": [],
-  "ATHLETIC 50": [
-    [
-      "ATHLETIC 60",
-      "ATHLETIC 10"
-    ]
-  ],
+  "ATHLETIC 50": [],
   "ATHLETIC 60": [],
   "ATHLETIC 62": [],
   "BIOC 199": [],
@@ -1864,14 +1453,26 @@
   "BIOE 80": [],
   "BIOE 101": [
     [
-      "BIOE 100",
-      "BIO 82"
+      "CME 102"
+    ],
+    [
+      "BIO 83"
+    ],
+    [
+      "BIO 84"
     ]
   ],
   "BIOE 103": [],
   "BIOE 103B": [
     [
-      "BIOE 103"
+      "CME 102"
+    ],
+    [
+      "PHYSICS 41"
+    ],
+    [
+      "BIO 82",
+      "BIO 83"
     ]
   ],
   "BIOE 122": [],
@@ -1879,7 +1480,9 @@
   "BIOE 131": [],
   "BIOE 141A": [
     [
-      "BIOE 123",
+      "BIOE 123"
+    ],
+    [
       "BIOE 44"
     ]
   ],
@@ -1889,6 +1492,9 @@
     ],
     [
       "BIOE 44"
+    ],
+    [
+      "BIOE 141A"
     ]
   ],
   "BIOE 150": [
@@ -1911,7 +1517,13 @@
   "BIOE 206": [],
   "BIOE 209": [
     [
-      "BIOE 51"
+      "MATH 51"
+    ],
+    [
+      "MATH 52"
+    ],
+    [
+      "MATH 53"
     ]
   ],
   "BIOE 210": [
@@ -1925,24 +1537,14 @@
       "BIO 84"
     ]
   ],
-  "BIOE 212": [
-    [
-      "BIOE 214",
-      "BIOE 217",
-      "BIOE 260"
-    ]
-  ],
+  "BIOE 212": [],
   "BIOE 213": [],
   "BIOE 214": [
     [
       "CS 106B"
     ]
   ],
-  "BIOE 217": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "BIOE 217": [],
   "BIOE 218": [],
   "BIOE 219": [],
   "BIOE 220": [],
@@ -1957,6 +1559,7 @@
   "BIOE 230": [],
   "BIOE 231": [
     [
+      "CHEM 141",
       "BIOE 241"
     ]
   ],
@@ -1980,11 +1583,7 @@
   "BIOE 273": [],
   "BIOE 274": [],
   "BIOE 277": [],
-  "BIOE 279": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "BIOE 279": [],
   "BIOE 281": [],
   "BIOE 282": [],
   "BIOE 283": [],
@@ -2010,9 +1609,7 @@
   "BIOE 312": [],
   "BIOE 313": [
     [
-      "BIOE 101"
-    ],
-    [
+      "BIOE 101",
       "BIOE 300B",
       "EE 101A"
     ]
@@ -2020,6 +1617,7 @@
   "BIOE 320": [],
   "BIOE 331": [
     [
+      "CHEM 141",
       "BIOE 241"
     ]
   ],
@@ -2062,11 +1660,7 @@
   "BIOPHYS 242": [],
   "BIOPHYS 244": [],
   "BIOPHYS 250": [],
-  "BIOPHYS 279": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "BIOPHYS 279": [],
   "BIOPHYS 294": [],
   "BIOPHYS 297": [],
   "BIOPHYS 300": [],
@@ -2208,33 +1802,11 @@
   "BMDS 202": [],
   "BMDS 205": [],
   "BMDS 210": [],
-  "BMDS 212": [
-    [
-      "BMDS 214",
-      "BMDS 215",
-      "BMDS 217",
-      "BMDS 260"
-    ]
-  ],
-  "BMDS 214": [
-    [
-      "CS 106B"
-    ]
-  ],
-  "BMDS 215": [
-    [
-      "CS 106A"
-    ],
-    [
-      "STATS 60"
-    ]
-  ],
+  "BMDS 212": [],
+  "BMDS 214": [],
+  "BMDS 215": [],
   "BMDS 216": [],
-  "BMDS 217": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "BMDS 217": [],
   "BMDS 218": [],
   "BMDS 219": [],
   "BMDS 221": [],
@@ -2242,67 +1814,31 @@
   "BMDS 223": [],
   "BMDS 224": [],
   "BMDS 228": [],
-  "BMDS 235": [
-    [
-      "ECON 50",
-      "ECON 102A"
-    ]
-  ],
+  "BMDS 235": [],
   "BMDS 236": [],
   "BMDS 237": [],
   "BMDS 238": [],
-  "BMDS 240": [
-    [
-      "STATS 191"
-    ]
-  ],
+  "BMDS 240": [],
   "BMDS 241": [],
   "BMDS 243": [],
   "BMDS 244": [],
-  "BMDS 245": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "BMDS 245": [],
   "BMDS 246": [],
   "BMDS 250": [],
-  "BMDS 251": [
-    [
-      "BMDS 250"
-    ]
-  ],
+  "BMDS 251": [],
   "BMDS 252": [],
   "BMDS 254": [],
-  "BMDS 260": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "BMDS 260": [],
   "BMDS 270": [],
-  "BMDS 271": [
-    [
-      "CS 229"
-    ]
-  ],
+  "BMDS 271": [],
   "BMDS 272": [],
-  "BMDS 273": [
-    [
-      "CS 109"
-    ],
-    [
-      "CS 229"
-    ]
-  ],
+  "BMDS 273": [],
   "BMDS 274": [],
   "BMDS 276": [],
   "BMDS 280A": [],
   "BMDS 280B": [],
   "BMDS 280C": [],
-  "BMDS 281": [
-    [
-      "MED 213"
-    ]
-  ],
+  "BMDS 281": [],
   "BMDS 282": [],
   "BMDS 283": [],
   "BMDS 284": [],
@@ -2334,11 +1870,7 @@
   "BMP 225": [],
   "BMP 226": [],
   "BMP 227": [],
-  "BMP 229": [
-    [
-      "EE 369B"
-    ]
-  ],
+  "BMP 229": [],
   "BMP 230": [],
   "BMP 235": [],
   "BMP 251": [],
@@ -2347,11 +1879,7 @@
   "BMP 254": [],
   "BMP 256": [],
   "BMP 257": [],
-  "BMP 260": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "BMP 260": [],
   "BMP 269A": [],
   "BMP 269B": [],
   "BMP 290": [],
@@ -2376,16 +1904,8 @@
   "BUSGEN 133": [],
   "BUSGEN 143": [],
   "CATLANG 1A": [],
-  "CATLANG 2A": [
-    [
-      "CATLANG 1A"
-    ]
-  ],
-  "CATLANG 11A": [
-    [
-      "CATLANG 2A"
-    ]
-  ],
+  "CATLANG 2A": [],
+  "CATLANG 11A": [],
   "CATLANG 199": [],
   "CATLANG 395": [],
   "CBIO 101": [],
@@ -2441,51 +1961,17 @@
   "CEE 83": [],
   "CEE 86Q": [],
   "CEE 100": [],
-  "CEE 101A": [
-    [
-      "ENGR 14"
-    ]
-  ],
-  "CEE 101B": [
-    [
-      "CME 100"
-    ]
-  ],
-  "CEE 101C": [
-    [
-      "ENGR 14"
-    ]
-  ],
+  "CEE 101A": [],
+  "CEE 101B": [],
+  "CEE 101C": [],
   "CEE 101D": [],
-  "CEE 101E": [
-    [
-      "CME 100"
-    ]
-  ],
+  "CEE 101E": [],
   "CEE 102A": [],
   "CEE 102F": [],
   "CEE 102W": [],
   "CEE 107A": [],
-  "CEE 107D": [
-    [
-      "CEE 107R"
-    ]
-  ],
-  "CEE 107R": [
-    [
-      "CEE 107A"
-    ],
-    [
-      "CEE 107S",
-      "CEE 207S"
-    ],
-    [
-      "CEE 176A"
-    ],
-    [
-      "CEE 176B"
-    ]
-  ],
+  "CEE 107D": [],
+  "CEE 107R": [],
   "CEE 107S": [],
   "CEE 108A": [],
   "CEE 108B": [],
@@ -2501,11 +1987,7 @@
   "CEE 120C": [],
   "CEE 121": [],
   "CEE 122A": [],
-  "CEE 122B": [
-    [
-      "CEE 122A"
-    ]
-  ],
+  "CEE 122B": [],
   "CEE 124": [],
   "CEE 126Y": [],
   "CEE 126Z": [],
@@ -2514,11 +1996,7 @@
   "CEE 131C": [],
   "CEE 131E": [],
   "CEE 131F": [],
-  "CEE 131G": [
-    [
-      "CEE 31Q"
-    ]
-  ],
+  "CEE 131G": [],
   "CEE 132A": [],
   "CEE 132B": [],
   "CEE 132C": [],
@@ -2527,12 +2005,7 @@
   "CEE 133A": [],
   "CEE 133B": [],
   "CEE 133C": [],
-  "CEE 133D": [
-    [
-      "CEE 120A",
-      "CEE 133B"
-    ]
-  ],
+  "CEE 133D": [],
   "CEE 133E": [],
   "CEE 133F": [],
   "CEE 134A": [],
@@ -2545,73 +2018,25 @@
   "CEE 141B": [],
   "CEE 141C": [],
   "CEE 145E": [],
-  "CEE 146S": [
-    [
-      "MATH 19"
-    ]
-  ],
+  "CEE 146S": [],
   "CEE 147": [],
   "CEE 147C": [],
   "CEE 151": [],
-  "CEE 154": [
-    [
-      "CME 100"
-    ]
-  ],
+  "CEE 154": [],
   "CEE 155": [],
   "CEE 156": [],
   "CEE 161C": [],
-  "CEE 161I": [
-    [
-      "MATH 51",
-      "PHYSICS 41"
-    ]
-  ],
-  "CEE 162D": [
-    [
-      "PHYSICS 41"
-    ]
-  ],
-  "CEE 162E": [
-    [
-      "CEE 101B"
-    ]
-  ],
-  "CEE 162F": [
-    [
-      "PHYSICS 41"
-    ]
-  ],
-  "CEE 162I": [
-    [
-      "MATH 51"
-    ],
-    [
-      "PHYSICS 41"
-    ]
-  ],
+  "CEE 161I": [],
+  "CEE 162D": [],
+  "CEE 162E": [],
+  "CEE 162F": [],
+  "CEE 162I": [],
   "CEE 164H": [],
   "CEE 165H": [],
-  "CEE 166A": [
-    [
-      "CEE 101B",
-      "CEE 101E"
-    ]
-  ],
-  "CEE 166B": [
-    [
-      "CEE 101B"
-    ]
-  ],
+  "CEE 166A": [],
+  "CEE 166B": [],
   "CEE 170": [],
-  "CEE 172": [
-    [
-      "CEE 70"
-    ],
-    [
-      "MATH 51"
-    ]
-  ],
+  "CEE 172": [],
   "CEE 173": [],
   "CEE 173S": [],
   "CEE 175A": [],
@@ -2632,18 +2057,10 @@
   "CEE 178": [],
   "CEE 179D": [],
   "CEE 179E": [],
-  "CEE 180": [
-    [
-      "ENGR 14"
-    ]
-  ],
+  "CEE 180": [],
   "CEE 182": [],
   "CEE 183": [],
-  "CEE 192": [
-    [
-      "CME 100"
-    ]
-  ],
+  "CEE 192": [],
   "CEE 198": [],
   "CEE 199": [],
   "CEE 199A": [],
@@ -2655,42 +2072,15 @@
   "CEE 200B": [],
   "CEE 200C": [],
   "CEE 201D": [],
-  "CEE 201E": [
-    [
-      "CME 102",
-      "CME 104"
-    ]
-  ],
+  "CEE 201E": [],
   "CEE 201F": [],
   "CEE 202": [],
   "CEE 202P": [],
   "CEE 203": [],
-  "CEE 204": [
-    [
-      "CEE 203"
-    ]
-  ],
-  "CEE 206": [
-    [
-      "CEE 203"
-    ]
-  ],
+  "CEE 204": [],
+  "CEE 206": [],
   "CEE 207A": [],
-  "CEE 207R": [
-    [
-      "CEE 107A"
-    ],
-    [
-      "CEE 107S",
-      "CEE 207S"
-    ],
-    [
-      "CEE 176A"
-    ],
-    [
-      "CEE 176B"
-    ]
-  ],
+  "CEE 207R": [],
   "CEE 207S": [],
   "CEE 208A": [],
   "CEE 208B": [],
@@ -2707,11 +2097,7 @@
   "CEE 220C": [],
   "CEE 221": [],
   "CEE 222A": [],
-  "CEE 222B": [
-    [
-      "CEE 222A"
-    ]
-  ],
+  "CEE 222B": [],
   "CEE 223": [],
   "CEE 224A": [],
   "CEE 224B": [],
@@ -2721,22 +2107,13 @@
   "CEE 233A": [],
   "CEE 233B": [],
   "CEE 233C": [],
-  "CEE 233D": [
-    [
-      "CEE 120A",
-      "CEE 133B"
-    ]
-  ],
+  "CEE 233D": [],
   "CEE 233E": [],
   "CEE 233F": [],
   "CEE 240": [],
   "CEE 240C": [],
   "CEE 240S": [],
-  "CEE 241": [
-    [
-      "CEE 100"
-    ]
-  ],
+  "CEE 241": [],
   "CEE 241A": [],
   "CEE 241B": [],
   "CEE 241C": [],
@@ -2758,73 +2135,29 @@
   "CEE 250": [],
   "CEE 251": [],
   "CEE 252": [],
-  "CEE 254": [
-    [
-      "CME 100"
-    ]
-  ],
+  "CEE 254": [],
   "CEE 255": [],
   "CEE 256": [],
   "CEE 258": [],
   "CEE 259A": [],
   "CEE 259B": [],
   "CEE 260A": [],
-  "CEE 260C": [
-    [
-      "ESS 220",
-      "CEE 260A"
-    ]
-  ],
+  "CEE 260C": [],
   "CEE 260D": [],
   "CEE 260G": [],
   "CEE 261A": [],
   "CEE 261C": [],
   "CEE 261D": [],
-  "CEE 261I": [
-    [
-      "MATH 51",
-      "PHYSICS 41"
-    ]
-  ],
-  "CEE 262A": [
-    [
-      "CEE 101B"
-    ]
-  ],
+  "CEE 261I": [],
+  "CEE 262A": [],
   "CEE 262B": [],
-  "CEE 262C": [
-    [
-      "CEE 262A"
-    ],
-    [
-      "CME 206"
-    ]
-  ],
-  "CEE 262D": [
-    [
-      "PHYSICS 41"
-    ]
-  ],
-  "CEE 262E": [
-    [
-      "CEE 101B"
-    ]
-  ],
-  "CEE 262F": [
-    [
-      "CEE 262A"
-    ]
-  ],
+  "CEE 262C": [],
+  "CEE 262D": [],
+  "CEE 262E": [],
+  "CEE 262F": [],
   "CEE 262G": [],
   "CEE 262H": [],
-  "CEE 262I": [
-    [
-      "MATH 51"
-    ],
-    [
-      "PHYSICS 41"
-    ]
-  ],
+  "CEE 262I": [],
   "CEE 263C": [],
   "CEE 263D": [],
   "CEE 263E": [],
@@ -2836,57 +2169,18 @@
   "CEE 265F": [],
   "CEE 265H": [],
   "CEE 265I": [],
-  "CEE 266A": [
-    [
-      "CEE 101B",
-      "CEE 101E"
-    ]
-  ],
-  "CEE 266B": [
-    [
-      "CEE 101B"
-    ]
-  ],
-  "CEE 266C": [
-    [
-      "CEE 266A"
-    ],
-    [
-      "CEE 266B"
-    ]
-  ],
-  "CEE 266F": [
-    [
-      "CEE 266A"
-    ]
-  ],
-  "CEE 266G": [
-    [
-      "CEE 166A"
-    ]
-  ],
+  "CEE 266A": [],
+  "CEE 266B": [],
+  "CEE 266C": [],
+  "CEE 266F": [],
+  "CEE 266G": [],
   "CEE 269": [],
   "CEE 270": [],
-  "CEE 270B": [
-    [
-      "CEE 270"
-    ],
-    [
-      "CEE 31B"
-    ]
-  ],
+  "CEE 270B": [],
   "CEE 270F": [],
   "CEE 270M": [],
   "CEE 271A": [],
-  "CEE 271B": [
-    [
-      "CEE 270"
-    ],
-    [
-      "CEE 177",
-      "CEE 274A"
-    ]
-  ],
+  "CEE 271B": [],
   "CEE 271C": [],
   "CEE 272": [],
   "CEE 272M": [],
@@ -2897,27 +2191,9 @@
   "CEE 273S": [],
   "CEE 273T": [],
   "CEE 273W": [],
-  "CEE 274A": [
-    [
-      "CHEM 33"
-    ],
-    [
-      "CHEM 121"
-    ],
-    [
-      "CHEMENG 181"
-    ]
-  ],
-  "CEE 274B": [
-    [
-      "CHEMENG 174"
-    ]
-  ],
-  "CEE 274D": [
-    [
-      "CEE 274A"
-    ]
-  ],
+  "CEE 274A": [],
+  "CEE 274B": [],
+  "CEE 274D": [],
   "CEE 274P": [],
   "CEE 275A": [],
   "CEE 275D": [],
@@ -2929,88 +2205,30 @@
   "CEE 277A": [],
   "CEE 277L": [],
   "CEE 277Q": [],
-  "CEE 278A": [
-    [
-      "MATH 51"
-    ]
-  ],
+  "CEE 278A": [],
   "CEE 279D": [],
   "CEE 279E": [],
   "CEE 279X": [],
   "CEE 280": [],
   "CEE 281": [],
-  "CEE 282": [
-    [
-      "CEE 280"
-    ],
-    [
-      "CEE 285A"
-    ],
-    [
-      "CEE 285B"
-    ]
-  ],
+  "CEE 282": [],
   "CEE 283": [],
-  "CEE 284": [
-    [
-      "CEE 280"
-    ],
-    [
-      "CEE 283"
-    ]
-  ],
-  "CEE 284F": [
-    [
-      "CEE 280"
-    ]
-  ],
+  "CEE 284": [],
+  "CEE 284F": [],
   "CEE 284W": [],
   "CEE 285": [],
   "CEE 285A": [],
   "CEE 285B": [],
   "CEE 285C": [],
-  "CEE 286": [
-    [
-      "CEE 203",
-      "CEE 254"
-    ],
-    [
-      "CEE 283"
-    ],
-    [
-      "CS 106A"
-    ]
-  ],
-  "CEE 287": [
-    [
-      "CEE 283",
-      "CEE 285A",
-      "CEE 285B"
-    ]
-  ],
-  "CEE 288": [
-    [
-      "CEE 203"
-    ]
-  ],
-  "CEE 289": [
-    [
-      "CEE 203"
-    ]
-  ],
+  "CEE 286": [],
+  "CEE 287": [],
+  "CEE 288": [],
+  "CEE 289": [],
   "CEE 290": [],
   "CEE 291": [],
-  "CEE 293": [
-    [
-      "CEE 101C"
-    ]
-  ],
+  "CEE 293": [],
   "CEE 295A": [],
-  "CEE 297M": [
-    [
-      "CEE 203"
-    ]
-  ],
+  "CEE 297M": [],
   "CEE 298": [],
   "CEE 299": [],
   "CEE 299I": [],
@@ -3018,29 +2236,11 @@
   "CEE 300": [],
   "CEE 301": [],
   "CEE 305": [],
-  "CEE 306": [
-    [
-      "CEE 281"
-    ],
-    [
-      "CEE 291"
-    ]
-  ],
+  "CEE 306": [],
   "CEE 308": [],
-  "CEE 310": [
-    [
-      "CEE 281"
-    ],
-    [
-      "CEE 291"
-    ]
-  ],
+  "CEE 310": [],
   "CEE 314": [],
-  "CEE 315": [
-    [
-      "CEE 281"
-    ]
-  ],
+  "CEE 315": [],
   "CEE 316": [],
   "CEE 321": [],
   "CEE 322": [],
@@ -3053,38 +2253,14 @@
   "CEE 329": [],
   "CEE 330": [],
   "CEE 330B": [],
-  "CEE 341": [
-    [
-      "CEE 100"
-    ]
-  ],
+  "CEE 341": [],
   "CEE 342": [],
-  "CEE 362A": [
-    [
-      "CME 106"
-    ]
-  ],
-  "CEE 363B": [
-    [
-      "CEE 262A",
-      "ME 351A"
-    ]
-  ],
-  "CEE 363C": [
-    [
-      "CME 200"
-    ],
-    [
-      "CME 206"
-    ]
-  ],
+  "CEE 362A": [],
+  "CEE 363B": [],
+  "CEE 363C": [],
   "CEE 363D": [],
   "CEE 363E": [],
-  "CEE 363F": [
-    [
-      "CEE 262A"
-    ]
-  ],
+  "CEE 363F": [],
   "CEE 363H": [],
   "CEE 363J": [],
   "CEE 363W": [],
@@ -3110,17 +2286,7 @@
   "CEE 379": [],
   "CEE 380": [],
   "CEE 381": [],
-  "CEE 385": [
-    [
-      "CEE 282"
-    ],
-    [
-      "CEE 287"
-    ],
-    [
-      "CEE 288"
-    ]
-  ],
+  "CEE 385": [],
   "CEE 398": [],
   "CEE 399": [],
   "CEE 400": [],
@@ -3142,25 +2308,26 @@
   "CHEM 31S": [],
   "CHEM 33": [
     [
-      "CHEM 31A",
-      "CHEM 31B"
+      "CHEM 31B",
+      "CHEM 31E"
     ]
   ],
   "CHEM 90": [
     [
-      "CHEM 31A"
-    ],
-    [
-      "CHEM 31B"
-    ],
-    [
+      "CHEM 31A",
+      "CHEM 31B",
+      "CHEM 31E",
       "CHEM 33"
     ]
   ],
   "CHEM 91": [],
   "CHEM 93": [],
   "CHEM 100": [],
-  "CHEM 121": [],
+  "CHEM 121": [
+    [
+      "CHEM 33"
+    ]
+  ],
   "CHEM 123": [],
   "CHEM 124": [
     [
@@ -3199,20 +2366,26 @@
     ]
   ],
   "CHEM 153": [],
-  "CHEM 161": [
-    [
-      "CHEM 171"
-    ]
-  ],
+  "CHEM 161": [],
   "CHEM 171": [
     [
-      "CHEM 33"
+      "CHEM 31B",
+      "CHEM 31E"
     ],
     [
       "PHYSICS 41"
     ],
     [
-      "MATH 51",
+      "CS 106A"
+    ],
+    [
+      "MATH 51"
+    ],
+    [
+      "MATH 61CM"
+    ],
+    [
+      "MATH 61DM",
       "CME 100"
     ]
   ],
@@ -3238,12 +2411,15 @@
     [
       "CHEM 181",
       "CHEM 141",
-      "CHEMENG 181"
+      "CHEMENG 181",
+      "CHEMENG 281"
     ]
   ],
   "CHEM 184": [
     [
-      "CHEM 131",
+      "CHEM 131"
+    ],
+    [
       "CHEM 181"
     ]
   ],
@@ -3268,20 +2444,17 @@
   "CHEM 221": [],
   "CHEM 223": [
     [
-      "CHEM 123",
-      "CHEM 131"
+      "CHEM 123"
     ]
   ],
   "CHEM 225": [],
   "CHEM 232": [],
-  "CHEM 251": [
-    [
-      "CHEM 153"
-    ]
-  ],
+  "CHEM 251": [],
   "CHEM 253": [
     [
-      "CHEM 151",
+      "CHEM 151"
+    ],
+    [
       "CHEM 173",
       "CHEM 171"
     ]
@@ -3289,27 +2462,23 @@
   "CHEM 255": [],
   "CHEM 257": [
     [
-      "CHEM 153",
+      "CHEM 153"
+    ],
+    [
       "CHEM 173"
     ]
   ],
   "CHEM 258C": [],
-  "CHEM 261": [
-    [
-      "CHEM 171"
-    ]
-  ],
+  "CHEM 261": [],
   "CHEM 263": [
     [
-      "CHEM 173",
       "CHEM 175"
     ]
   ],
   "CHEM 271": [],
   "CHEM 273": [
     [
-      "CHEM 173",
-      "CHEM 171"
+      "CHEM 173"
     ]
   ],
   "CHEM 274": [
@@ -3353,10 +2522,11 @@
   "CHEMENG 110A": [
     [
       "CHEM 33",
-      "CHEM 31A"
+      "CHEM 121"
     ],
     [
-      "PHYSICS 41"
+      "PHYSICS 41",
+      "PHYSICS 41E"
     ],
     [
       "MATH 51",
@@ -3436,12 +2606,17 @@
     ]
   ],
   "CHEMENG 180": [],
-  "CHEMENG 181": [],
+  "CHEMENG 181": [
+    [
+      "CHEM 121"
+    ]
+  ],
   "CHEMENG 183": [
     [
       "CHEM 181",
       "CHEM 141",
-      "CHEMENG 181"
+      "CHEMENG 181",
+      "CHEMENG 281"
     ]
   ],
   "CHEMENG 185A": [
@@ -3485,12 +2660,17 @@
       "CS 106A"
     ]
   ],
-  "CHEMENG 281": [],
+  "CHEMENG 281": [
+    [
+      "CHEM 121"
+    ]
+  ],
   "CHEMENG 283": [
     [
       "CHEM 181",
       "CHEM 141",
-      "CHEMENG 181"
+      "CHEMENG 181",
+      "CHEMENG 281"
     ]
   ],
   "CHEMENG 289": [],
@@ -3498,7 +2678,9 @@
   "CHEMENG 300": [
     [
       "CME 102",
-      "ENGR 155A",
+      "ENGR 155A"
+    ],
+    [
       "CME 104",
       "ENGR 155B"
     ]
@@ -3517,13 +2699,17 @@
   "CHEMENG 311": [],
   "CHEMENG 320": [
     [
-      "CHEMENG 130A",
+      "CHEMENG 130A"
+    ],
+    [
       "CHEMENG 130B"
     ]
   ],
   "CHEMENG 340": [
     [
-      "CHEMENG 110A",
+      "CHEMENG 110A"
+    ],
+    [
       "CHEMENG 110B"
     ]
   ],
@@ -3545,13 +2731,20 @@
   "CHEMENG 424": [],
   "CHEMENG 432": [
     [
+      "CHEM 31A",
+      "CHEM 31B",
+      "CHEM 31E"
+    ],
+    [
       "CHEM 33"
     ],
     [
-      "CHEMENG 110A"
+      "CHEMENG 110A",
+      "CHEMENG 110B"
     ],
     [
-      "CHEMENG 130A"
+      "CHEMENG 130A",
+      "CHEMENG 130B"
     ]
   ],
   "CHEMENG 440": [],
@@ -3570,20 +2763,22 @@
   "CHEMENG 464": [],
   "CHEMENG 466": [
     [
-      "CHEMENG 110A"
+      "CHEM 33"
+    ],
+    [
+      "CHEMENG 110A",
+      "CHEM 171"
     ],
     [
       "CHEMENG 105",
-      "CME 102",
+      "CME 102"
+    ],
+    [
       "CME 104"
     ]
   ],
   "CHEMENG 467": [],
-  "CHEMENG 468": [
-    [
-      "CHEMENG 340"
-    ]
-  ],
+  "CHEMENG 468": [],
   "CHEMENG 469": [],
   "CHEMENG 470": [
     [
@@ -3645,16 +2840,8 @@
   "CHINA 24": [],
   "CHINA 81N": [],
   "CHINA 93": [],
-  "CHINA 105": [
-    [
-      "CHINLANG 23"
-    ]
-  ],
-  "CHINA 106": [
-    [
-      "CHINA 105"
-    ]
-  ],
+  "CHINA 105": [],
+  "CHINA 106": [],
   "CHINA 107": [],
   "CHINA 111": [],
   "CHINA 112": [],
@@ -3676,33 +2863,13 @@
   "CHINA 183": [],
   "CHINA 185": [],
   "CHINA 185A": [],
-  "CHINA 190": [
-    [
-      "CHINA 191"
-    ]
-  ],
-  "CHINA 191": [
-    [
-      "CHINLANG 3"
-    ]
-  ],
+  "CHINA 190": [],
+  "CHINA 191": [],
   "CHINA 192": [],
-  "CHINA 205": [
-    [
-      "CHINLANG 23"
-    ]
-  ],
-  "CHINA 206": [
-    [
-      "CHINA 105"
-    ]
-  ],
+  "CHINA 205": [],
+  "CHINA 206": [],
   "CHINA 207": [],
-  "CHINA 208": [
-    [
-      "CHINA 107"
-    ]
-  ],
+  "CHINA 208": [],
   "CHINA 209": [],
   "CHINA 211": [],
   "CHINA 212": [],
@@ -3724,16 +2891,8 @@
   "CHINA 279": [],
   "CHINA 285": [],
   "CHINA 288": [],
-  "CHINA 290": [
-    [
-      "CHINA 191"
-    ]
-  ],
-  "CHINA 291": [
-    [
-      "CHINLANG 3"
-    ]
-  ],
+  "CHINA 290": [],
+  "CHINA 291": [],
   "CHINA 292B": [],
   "CHINA 295J": [],
   "CHINA 328A": [],
@@ -3756,343 +2915,85 @@
   "CHINLANG 1": [],
   "CHINLANG 1A": [],
   "CHINLANG 1B": [],
-  "CHINLANG 2": [
-    [
-      "CHINLANG 1"
-    ]
-  ],
-  "CHINLANG 2B": [
-    [
-      "CHINLANG 1B"
-    ]
-  ],
-  "CHINLANG 3": [
-    [
-      "CHINLANG 2"
-    ]
-  ],
-  "CHINLANG 3B": [
-    [
-      "CHINLANG 2B"
-    ]
-  ],
+  "CHINLANG 2": [],
+  "CHINLANG 2B": [],
+  "CHINLANG 3": [],
+  "CHINLANG 3B": [],
   "CHINLANG 4W": [],
   "CHINLANG 6": [],
-  "CHINLANG 7": [
-    [
-      "CHINLANG 6"
-    ]
-  ],
-  "CHINLANG 8": [
-    [
-      "CHINLANG 7"
-    ]
-  ],
-  "CHINLANG 9A": [
-    [
-      "CHINLANG 6"
-    ],
-    [
-      "CHINLANG 7"
-    ],
-    [
-      "CHINLANG 8"
-    ]
-  ],
-  "CHINLANG 9B": [
-    [
-      "CHINLANG 9A"
-    ]
-  ],
-  "CHINLANG 9C": [
-    [
-      "CHINLANG 9B"
-    ]
-  ],
+  "CHINLANG 7": [],
+  "CHINLANG 8": [],
+  "CHINLANG 9A": [],
+  "CHINLANG 9B": [],
+  "CHINLANG 9C": [],
   "CHINLANG 10": [],
   "CHINLANG 11": [],
-  "CHINLANG 12": [
-    [
-      "CHINLANG 11"
-    ]
-  ],
+  "CHINLANG 12": [],
   "CHINLANG 14A": [],
   "CHINLANG 14B": [],
   "CHINLANG 14C": [],
   "CHINLANG 15": [],
   "CHINLANG 15M": [],
   "CHINLANG 16": [],
-  "CHINLANG 16M": [
-    [
-      "CHINLANG 15M"
-    ]
-  ],
-  "CHINLANG 17": [
-    [
-      "CHINLANG 16"
-    ]
-  ],
-  "CHINLANG 17M": [
-    [
-      "CHINLANG 16M"
-    ]
-  ],
+  "CHINLANG 16M": [],
+  "CHINLANG 17": [],
+  "CHINLANG 17M": [],
   "CHINLANG 18": [],
   "CHINLANG 19": [],
   "CHINLANG 20": [],
-  "CHINLANG 20A": [
-    [
-      "CHINLANG 20"
-    ]
-  ],
-  "CHINLANG 20B": [
-    [
-      "CHINLANG 20A"
-    ]
-  ],
-  "CHINLANG 20C": [
-    [
-      "CHINLANG 20B"
-    ]
-  ],
-  "CHINLANG 21": [
-    [
-      "CHINLANG 3"
-    ]
-  ],
-  "CHINLANG 21B": [
-    [
-      "CHINLANG 3B"
-    ]
-  ],
-  "CHINLANG 22": [
-    [
-      "CHINLANG 21"
-    ]
-  ],
-  "CHINLANG 22B": [
-    [
-      "CHINLANG 21B"
-    ]
-  ],
-  "CHINLANG 23": [
-    [
-      "CHINLANG 22"
-    ]
-  ],
-  "CHINLANG 23B": [
-    [
-      "CHINLANG 22B"
-    ]
-  ],
+  "CHINLANG 20A": [],
+  "CHINLANG 20B": [],
+  "CHINLANG 20C": [],
+  "CHINLANG 21": [],
+  "CHINLANG 21B": [],
+  "CHINLANG 22": [],
+  "CHINLANG 22B": [],
+  "CHINLANG 23": [],
+  "CHINLANG 23B": [],
   "CHINLANG 25A": [],
   "CHINLANG 25B": [],
   "CHINLANG 25C": [],
-  "CHINLANG 27": [
-    [
-      "CHINLANG 3"
-    ]
-  ],
-  "CHINLANG 28": [
-    [
-      "CHINLANG 27"
-    ]
-  ],
-  "CHINLANG 29": [
-    [
-      "CHINLANG 28"
-    ]
-  ],
-  "CHINLANG 41": [
-    [
-      "CHINLANG 23"
-    ]
-  ],
-  "CHINLANG 42": [
-    [
-      "CHINLANG 23"
-    ]
-  ],
-  "CHINLANG 43": [
-    [
-      "CHINLANG 23"
-    ]
-  ],
-  "CHINLANG 51": [
-    [
-      "CHINLANG 2"
-    ]
-  ],
+  "CHINLANG 27": [],
+  "CHINLANG 28": [],
+  "CHINLANG 29": [],
+  "CHINLANG 41": [],
+  "CHINLANG 42": [],
+  "CHINLANG 43": [],
+  "CHINLANG 51": [],
   "CHINLANG 99": [],
-  "CHINLANG 101": [
-    [
-      "CHINLANG 23"
-    ]
-  ],
-  "CHINLANG 101B": [
-    [
-      "CHINLANG 23B"
-    ]
-  ],
-  "CHINLANG 102": [
-    [
-      "CHINLANG 101"
-    ]
-  ],
-  "CHINLANG 102B": [
-    [
-      "CHINLANG 101B"
-    ]
-  ],
-  "CHINLANG 103": [
-    [
-      "CHINLANG 102"
-    ]
-  ],
-  "CHINLANG 103B": [
-    [
-      "CHINLANG 102B"
-    ]
-  ],
+  "CHINLANG 101": [],
+  "CHINLANG 101B": [],
+  "CHINLANG 102": [],
+  "CHINLANG 102B": [],
+  "CHINLANG 103": [],
+  "CHINLANG 103B": [],
   "CHINLANG 121": [],
-  "CHINLANG 122": [
-    [
-      "CHINLANG 121"
-    ]
-  ],
-  "CHINLANG 123": [
-    [
-      "CHINLANG 122"
-    ]
-  ],
-  "CHINLANG 125": [
-    [
-      "CHINLANG 103"
-    ],
-    [
-      "CHINLANG 103B"
-    ]
-  ],
-  "CHINLANG 131": [
-    [
-      "CHINLANG 103"
-    ]
-  ],
-  "CHINLANG 132": [
-    [
-      "CHINLANG 131"
-    ]
-  ],
-  "CHINLANG 133": [
-    [
-      "CHINLANG 132"
-    ]
-  ],
+  "CHINLANG 122": [],
+  "CHINLANG 123": [],
+  "CHINLANG 125": [],
+  "CHINLANG 131": [],
+  "CHINLANG 132": [],
+  "CHINLANG 133": [],
   "CHINLANG 199": [],
   "CHINLANG 200": [],
-  "CHINLANG 211": [
-    [
-      "CHINLANG 103"
-    ]
-  ],
-  "CHINLANG 211B": [
-    [
-      "CHINLANG 103B"
-    ]
-  ],
-  "CHINLANG 212": [
-    [
-      "CHINLANG 211"
-    ]
-  ],
-  "CHINLANG 212B": [
-    [
-      "CHINLANG 211B"
-    ]
-  ],
-  "CHINLANG 213": [
-    [
-      "CHINLANG 212"
-    ]
-  ],
-  "CHINLANG 213B": [
-    [
-      "CHINLANG 212B"
-    ]
-  ],
-  "CHINLANG 225": [
-    [
-      "CHINLANG 103"
-    ],
-    [
-      "CHINLANG 103B"
-    ]
-  ],
+  "CHINLANG 211": [],
+  "CHINLANG 211B": [],
+  "CHINLANG 212": [],
+  "CHINLANG 212B": [],
+  "CHINLANG 213": [],
+  "CHINLANG 213B": [],
+  "CHINLANG 225": [],
   "CHINLANG 231A": [],
-  "CHINLANG 231B": [
-    [
-      "CHINLANG 213"
-    ],
-    [
-      "CHINLANG 213B"
-    ]
-  ],
-  "CHINLANG 232A": [
-    [
-      "CHINLANG 231A"
-    ],
-    [
-      "CHINLANG 231B"
-    ]
-  ],
-  "CHINLANG 232B": [
-    [
-      "CHINLANG 231B"
-    ],
-    [
-      "CHINLANG 231A"
-    ]
-  ],
-  "CHINLANG 233A": [
-    [
-      "CHINLANG 232A"
-    ],
-    [
-      "CHINLANG 232B"
-    ]
-  ],
-  "CHINLANG 233B": [
-    [
-      "CHINLANG 232B"
-    ],
-    [
-      "CHINLANG 232A"
-    ]
-  ],
-  "CHINLANG 251": [
-    [
-      "CHINLANG 213",
-      "CHINLANG 213B"
-    ]
-  ],
+  "CHINLANG 231B": [],
+  "CHINLANG 232A": [],
+  "CHINLANG 232B": [],
+  "CHINLANG 233A": [],
+  "CHINLANG 233B": [],
+  "CHINLANG 251": [],
   "CHINLANG 394": [],
   "CHINLANG 395": [],
-  "CHPR 113": [
-    [
-      "HUMBIO 2A"
-    ],
-    [
-      "HUMBIO 3A"
-    ],
-    [
-      "HUMBIO 4A"
-    ]
-  ],
-  "CHPR 130": [
-    [
-      "BIO 82"
-    ]
-  ],
+  "CHPR 113": [],
+  "CHPR 130": [],
   "CHPR 141": [],
   "CHPR 166": [],
   "CHPR 199": [],
@@ -4113,39 +3014,19 @@
   "CHPR 236": [],
   "CHPR 237": [],
   "CHPR 239": [],
-  "CHPR 240": [
-    [
-      "CHPR 201"
-    ]
-  ],
+  "CHPR 240": [],
   "CHPR 241": [],
   "CHPR 242": [],
   "CHPR 243": [],
   "CHPR 244": [],
   "CHPR 247": [],
   "CHPR 249": [],
-  "CHPR 250": [
-    [
-      "CHPR 201"
-    ]
-  ],
-  "CHPR 256": [
-    [
-      "HUMBIO 125"
-    ]
-  ],
-  "CHPR 270": [
-    [
-      "CHPR 201"
-    ]
-  ],
+  "CHPR 250": [],
+  "CHPR 256": [],
+  "CHPR 270": [],
   "CHPR 272": [],
   "CHPR 275": [],
-  "CHPR 282": [
-    [
-      "EPI 272"
-    ]
-  ],
+  "CHPR 282": [],
   "CHPR 288": [],
   "CHPR 290": [],
   "CHPR 299": [],
@@ -4153,11 +3034,7 @@
   "CHPR 801": [],
   "CHRKELNG 1": [],
   "CHRKELNG 2": [],
-  "CHRKELNG 3": [
-    [
-      "CHRKELNG 2"
-    ]
-  ],
+  "CHRKELNG 3": [],
   "CIM 200": [],
   "CIM 202": [],
   "CIM 203": [],
@@ -4177,21 +3054,9 @@
   "CLASSICS 1G": [],
   "CLASSICS 1L": [],
   "CLASSICS 2G": [],
-  "CLASSICS 2L": [
-    [
-      "CLASSICS 1L"
-    ]
-  ],
-  "CLASSICS 3G": [
-    [
-      "CLASSICS 2G"
-    ]
-  ],
-  "CLASSICS 3L": [
-    [
-      "CLASSICS 2L"
-    ]
-  ],
+  "CLASSICS 2L": [],
+  "CLASSICS 3G": [],
+  "CLASSICS 3L": [],
   "CLASSICS 4G": [],
   "CLASSICS 4L": [],
   "CLASSICS 6G": [],
@@ -4427,26 +3292,36 @@
   "CME 104": [
     [
       "CME 102",
-      "MATH 53"
+      "ENGR 155A"
     ]
   ],
   "CME 106": [
     [
-      "CME 102",
-      "MATH 53"
+      "CME 100",
+      "MATH 51",
+      "MATH 52",
+      "ENGR 154"
     ]
   ],
   "CME 106ACE": [],
   "CME 107": [],
   "CME 108": [
     [
-      "CME 102"
+      "CME 100",
+      "CME 102",
+      "MATH 51",
+      "MATH 52",
+      "MATH 53"
     ]
   ],
   "CME 187": [],
   "CME 192": [],
   "CME 193": [],
-  "CME 200": [],
+  "CME 200": [
+    [
+      "MATH 51"
+    ]
+  ],
   "CME 204": [
     [
       "CME 200",
@@ -4463,7 +3338,17 @@
       "ME 300B"
     ]
   ],
-  "CME 209": [],
+  "CME 209": [
+    [
+      "MATH 51"
+    ],
+    [
+      "MATH 52"
+    ],
+    [
+      "MATH 53"
+    ]
+  ],
   "CME 213": [],
   "CME 215": [],
   "CME 216": [],
@@ -4477,19 +3362,8 @@
   "CME 251": [],
   "CME 262": [],
   "CME 263": [],
-  "CME 270": [
-    [
-      "CME 106"
-    ],
-    [
-      "CME 200"
-    ]
-  ],
-  "CME 279": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "CME 270": [],
+  "CME 279": [],
   "CME 285": [],
   "CME 290": [],
   "CME 291": [],
@@ -4497,25 +3371,36 @@
   "CME 294": [],
   "CME 295": [],
   "CME 296": [],
-  "CME 298": [],
+  "CME 298": [
+    [
+      "MATH 53"
+    ],
+    [
+      "MATH 151",
+      "STATS 117"
+    ]
+  ],
   "CME 299": [],
   "CME 300": [],
   "CME 300Q": [],
   "CME 302": [
     [
       "CME 108"
+    ],
+    [
+      "MATH 104",
+      "MATH 113"
     ]
   ],
   "CME 303": [],
-  "CME 305": [
-    [
-      "CS 161"
-    ]
-  ],
+  "CME 305": [],
   "CME 306": [],
   "CME 307": [
     [
       "MATH 113"
+    ],
+    [
+      "MATH 115"
     ]
   ],
   "CME 308": [],
@@ -4526,16 +3411,13 @@
   ],
   "CME 310": [],
   "CME 322": [],
-  "CME 323": [
-    [
-      "CS 161",
-      "CS 106A"
-    ]
-  ],
+  "CME 323": [],
   "CME 330": [
     [
       "CME 102",
-      "ENGR 155A",
+      "ENGR 155A"
+    ],
+    [
       "CME 104",
       "ENGR 155B"
     ]
@@ -4642,30 +3524,15 @@
   "COMM 176": [],
   "COMM 177A": [],
   "COMM 177B": [],
-  "COMM 177C": [
-    [
-      "EARTHSYS 191"
-    ]
-  ],
+  "COMM 177C": [],
   "COMM 177D": [],
-  "COMM 177E": [
-    [
-      "COMM 104W"
-    ]
-  ],
+  "COMM 177E": [],
   "COMM 177G": [],
   "COMM 177I": [],
   "COMM 177M": [],
   "COMM 177SW": [],
   "COMM 177T": [],
-  "COMM 177Y": [
-    [
-      "COMM 104W"
-    ],
-    [
-      "COMM 279"
-    ]
-  ],
+  "COMM 177Y": [],
   "COMM 178A": [],
   "COMM 180": [],
   "COMM 184": [],
@@ -4700,39 +3567,20 @@
   "COMM 272": [],
   "COMM 273A": [],
   "COMM 273D": [],
-  "COMM 274D": [
-    [
-      "COMM 273D"
-    ]
-  ],
+  "COMM 274D": [],
   "COMM 275": [],
   "COMM 276": [],
   "COMM 277A": [],
   "COMM 277B": [],
-  "COMM 277C": [
-    [
-      "EARTHSYS 191"
-    ]
-  ],
+  "COMM 277C": [],
   "COMM 277D": [],
-  "COMM 277E": [
-    [
-      "COMM 104W"
-    ]
-  ],
+  "COMM 277E": [],
   "COMM 277G": [],
   "COMM 277I": [],
   "COMM 277M": [],
   "COMM 277S": [],
   "COMM 277T": [],
-  "COMM 277Y": [
-    [
-      "COMM 104W"
-    ],
-    [
-      "COMM 279"
-    ]
-  ],
+  "COMM 277Y": [],
   "COMM 278A": [],
   "COMM 279": [],
   "COMM 280": [],
@@ -4900,11 +3748,7 @@
   "COMPLIT 240": [],
   "COMPLIT 240C": [],
   "COMPLIT 241B": [],
-  "COMPLIT 242": [
-    [
-      "COMPLIT 100"
-    ]
-  ],
+  "COMPLIT 242": [],
   "COMPLIT 242C": [],
   "COMPLIT 243B": [],
   "COMPLIT 243G": [],
@@ -4913,11 +3757,7 @@
   "COMPLIT 248": [],
   "COMPLIT 248A": [],
   "COMPLIT 248B": [],
-  "COMPLIT 248C": [
-    [
-      "COMPLIT 248A"
-    ]
-  ],
+  "COMPLIT 248C": [],
   "COMPLIT 249": [],
   "COMPLIT 249A": [],
   "COMPLIT 249B": [],
@@ -5068,17 +3908,23 @@
   "CS 21SI": [],
   "CS 22A": [],
   "CS 24": [],
-  "CS 25": [],
+  "CS 25": [
+    [
+      "CS 224N",
+      "CS 231N",
+      "CS 230"
+    ]
+  ],
   "CS 25N": [],
   "CS 26SI": [],
   "CS 29N": [],
   "CS 31N": [],
-  "CS 40": [
+  "CS 40": [],
+  "CS 41": [
     [
-      "CS 107"
+      "CS 106B"
     ]
   ],
-  "CS 41": [],
   "CS 42SI": [],
   "CS 44N": [],
   "CS 45": [],
@@ -5091,16 +3937,13 @@
   "CS 53N": [],
   "CS 56N": [],
   "CS 57N": [],
-  "CS 59SI": [
-    [
-      "CS 106A"
-    ],
+  "CS 59SI": [],
+  "CS 64": [],
+  "CS 80E": [
     [
       "CS 106B"
     ]
   ],
-  "CS 64": [],
-  "CS 80E": [],
   "CS 80Q": [],
   "CS 83N": [],
   "CS 91": [],
@@ -5108,7 +3951,11 @@
   "CS 99": [],
   "CS 100ACE": [],
   "CS 100BACE": [],
-  "CS 103": [],
+  "CS 103": [
+    [
+      "CS 106B"
+    ]
+  ],
   "CS 103ACE": [],
   "CS 104": [],
   "CS 105": [],
@@ -5124,8 +3971,7 @@
   "CS 106EA": [],
   "CS 106L": [
     [
-      "CS 106A",
-      "CS 106AX"
+      "CS 106B"
     ]
   ],
   "CS 106M": [],
@@ -5136,7 +3982,11 @@
     ]
   ],
   "CS 107ACE": [],
-  "CS 107E": [],
+  "CS 107E": [
+    [
+      "CS 106B"
+    ]
+  ],
   "CS 108": [
     [
       "CS 107"
@@ -5164,19 +4014,31 @@
     ]
   ],
   "CS 111ACE": [],
-  "CS 112": [],
+  "CS 112": [
+    [
+      "CS 111"
+    ]
+  ],
   "CS 114": [],
   "CS 120": [],
   "CS 121": [],
   "CS 123": [],
-  "CS 124": [],
-  "CS 125": [],
-  "CS 129": [
+  "CS 124": [
     [
-      "CS 51"
+      "CS 106B"
+    ],
+    [
+      "CS 109"
     ]
   ],
-  "CS 129X": [],
+  "CS 125": [],
+  "CS 129": [],
+  "CS 129X": [
+    [
+      "CS 224N",
+      "CS 224U"
+    ]
+  ],
   "CS 131": [],
   "CS 132": [],
   "CS 137A": [
@@ -5193,7 +4055,11 @@
   "CS 139": [],
   "CS 140": [],
   "CS 140E": [],
-  "CS 141": [],
+  "CS 141": [
+    [
+      "CS 106A"
+    ]
+  ],
   "CS 142": [
     [
       "CS 107"
@@ -5202,13 +4068,21 @@
   "CS 143": [
     [
       "CS 103"
-    ],
-    [
-      "CS 107"
     ]
   ],
-  "CS 144": [],
-  "CS 145": [],
+  "CS 144": [
+    [
+      "CS 110"
+    ]
+  ],
+  "CS 145": [
+    [
+      "CS 106B"
+    ],
+    [
+      "CS 103"
+    ]
+  ],
   "CS 146": [],
   "CS 146J": [
     [
@@ -5221,7 +4095,11 @@
       "CS 106B"
     ]
   ],
-  "CS 147L": [],
+  "CS 147L": [
+    [
+      "CS 106B"
+    ]
+  ],
   "CS 148": [],
   "CS 149": [],
   "CS 151": [
@@ -5244,16 +4122,40 @@
   "CS 157": [],
   "CS 161": [
     [
-      "CS 107"
+      "CS 106B"
+    ],
+    [
+      "CS 103"
     ],
     [
       "CS 109"
     ]
   ],
   "CS 161ACE": [],
-  "CS 163": [],
-  "CS 166": [],
-  "CS 168": [],
+  "CS 163": [
+    [
+      "CS 161"
+    ],
+    [
+      "CS 154"
+    ]
+  ],
+  "CS 166": [
+    [
+      "CS 107"
+    ],
+    [
+      "CS 161"
+    ]
+  ],
+  "CS 168": [
+    [
+      "CS 107"
+    ],
+    [
+      "CS 161"
+    ]
+  ],
   "CS 170": [],
   "CS 171": [],
   "CS 173A": [],
@@ -5261,8 +4163,16 @@
   "CS 180": [],
   "CS 181": [],
   "CS 181W": [],
-  "CS 182": [],
-  "CS 182W": [],
+  "CS 182": [
+    [
+      "CS 106A"
+    ]
+  ],
+  "CS 182W": [
+    [
+      "CS 106A"
+    ]
+  ],
   "CS 183E": [],
   "CS 184": [],
   "CS 185": [],
@@ -5289,17 +4199,39 @@
       "CS 106B"
     ]
   ],
-  "CS 194": [],
+  "CS 194": [
+    [
+      "CS 109"
+    ],
+    [
+      "CS 161"
+    ]
+  ],
   "CS 194A": [],
   "CS 194H": [
     [
       "CS 147"
     ]
   ],
-  "CS 194W": [],
+  "CS 194W": [
+    [
+      "CS 109"
+    ],
+    [
+      "CS 161"
+    ]
+  ],
   "CS 195": [],
-  "CS 197": [],
-  "CS 197C": [],
+  "CS 197": [
+    [
+      "CS 106B"
+    ]
+  ],
+  "CS 197C": [
+    [
+      "CS 106B"
+    ]
+  ],
   "CS 198": [],
   "CS 198B": [],
   "CS 199": [],
@@ -5308,7 +4240,11 @@
   "CS 204": [],
   "CS 205L": [
     [
-      "CS 51"
+      "MATH 51"
+    ],
+    [
+      "MATH 104",
+      "MATH 113"
     ]
   ],
   "CS 206": [],
@@ -5340,9 +4276,26 @@
   "CS 223A": [],
   "CS 224C": [],
   "CS 224G": [],
-  "CS 224N": [],
+  "CS 224N": [
+    [
+      "CS 124"
+    ],
+    [
+      "CS 221"
+    ],
+    [
+      "CS 229"
+    ]
+  ],
   "CS 224R": [],
-  "CS 224S": [],
+  "CS 224S": [
+    [
+      "CS 124",
+      "CS 221",
+      "CS 224N",
+      "CS 229"
+    ]
+  ],
   "CS 224U": [
     [
       "CS 224N",
@@ -5351,22 +4304,18 @@
   ],
   "CS 224V": [
     [
-      "LINGUIST 180"
-    ],
-    [
-      "CS 124"
-    ],
-    [
-      "CS 224N"
-    ],
-    [
-      "CS 224S"
-    ],
-    [
+      "LINGUIST 280",
+      "CS 124",
+      "CS 224N",
+      "CS 224S",
       "CS 224U"
     ]
   ],
-  "CS 224W": [],
+  "CS 224W": [
+    [
+      "CS 109"
+    ]
+  ],
   "CS 225": [],
   "CS 225A": [
     [
@@ -5379,22 +4328,23 @@
   "CS 228": [],
   "CS 229": [
     [
+      "CS 106A",
       "CS 106B"
     ],
     [
-      "MATH 51",
-      "CME 100"
-    ],
-    [
-      "STATS 116"
+      "CS 109",
+      "MATH 151"
     ]
   ],
   "CS 229B": [],
   "CS 229M": [
     [
-      "MATH 51",
-      "STATS 117",
-      "CS 229",
+      "MATH 51"
+    ],
+    [
+      "STATS 117"
+    ],
+    [
       "STATS 315A"
     ]
   ],
@@ -5410,24 +4360,26 @@
       "CS 229"
     ]
   ],
-  "CS 235": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "CS 235": [],
   "CS 236": [
     [
-      "CS 221"
-    ],
-    [
-      "CS 228"
-    ],
-    [
+      "CS 221",
+      "CS 228",
       "CS 229",
       "CS 230"
     ]
   ],
-  "CS 236G": [],
+  "CS 236G": [
+    [
+      "CS 106B"
+    ],
+    [
+      "CS 229"
+    ],
+    [
+      "CS 221"
+    ]
+  ],
   "CS 237A": [
     [
       "CS 106A"
@@ -5440,6 +4392,9 @@
     ]
   ],
   "CS 237B": [
+    [
+      "CS 106A"
+    ],
     [
       "CME 100"
     ],
@@ -5461,7 +4416,11 @@
       "CS 140"
     ]
   ],
-  "CS 240LX": [],
+  "CS 240LX": [
+    [
+      "CS 140E"
+    ]
+  ],
   "CS 241": [],
   "CS 242": [
     [
@@ -5489,7 +4448,11 @@
       "CS 144"
     ]
   ],
-  "CS 244C": [],
+  "CS 244C": [
+    [
+      "CS 144"
+    ]
+  ],
   "CS 245": [
     [
       "CS 145"
@@ -5498,17 +4461,33 @@
       "CS 161"
     ]
   ],
-  "CS 246": [],
-  "CS 247A": [],
+  "CS 246": [
+    [
+      "CS 145"
+    ]
+  ],
+  "CS 247A": [
+    [
+      "CS 147"
+    ]
+  ],
   "CS 247B": [],
-  "CS 247E": [],
+  "CS 247E": [
+    [
+      "CS 147"
+    ]
+  ],
   "CS 247G": [],
   "CS 247I": [
     [
       "CS 147"
     ]
   ],
-  "CS 247S": [],
+  "CS 247S": [
+    [
+      "CS 147"
+    ]
+  ],
   "CS 248A": [
     [
       "CS 107"
@@ -5517,7 +4496,14 @@
       "MATH 51"
     ]
   ],
-  "CS 248B": [],
+  "CS 248B": [
+    [
+      "CS 107"
+    ],
+    [
+      "MATH 51"
+    ]
+  ],
   "CS 249I": [
     [
       "CS 144"
@@ -5527,7 +4513,11 @@
     ]
   ],
   "CS 250": [],
-  "CS 251": [],
+  "CS 251": [
+    [
+      "CS 110"
+    ]
+  ],
   "CS 253": [
     [
       "CS 142"
@@ -5538,13 +4528,13 @@
       "CS 154"
     ]
   ],
-  "CS 254B": [],
-  "CS 255": [],
-  "CS 256": [
+  "CS 254B": [
     [
-      "CS 161"
+      "CS 254"
     ]
   ],
+  "CS 255": [],
+  "CS 256": [],
   "CS 257": [],
   "CS 258": [],
   "CS 259Q": [],
@@ -5553,17 +4543,33 @@
       "CS 161"
     ]
   ],
-  "CS 263": [],
+  "CS 263": [
+    [
+      "CS 161"
+    ]
+  ],
   "CS 264": [],
   "CS 265": [
     [
       "CS 161"
     ]
   ],
-  "CS 266Z": [],
-  "CS 269I": [],
+  "CS 266Z": [
+    [
+      "CS 161"
+    ]
+  ],
+  "CS 269I": [
+    [
+      "CS 161"
+    ]
+  ],
   "CS 269O": [],
-  "CS 270": [],
+  "CS 270": [
+    [
+      "CS 106A"
+    ]
+  ],
   "CS 271": [],
   "CS 272": [
     [
@@ -5572,14 +4578,7 @@
     ]
   ],
   "CS 272H": [],
-  "CS 273B": [
-    [
-      "CS 109"
-    ],
-    [
-      "CS 229"
-    ]
-  ],
+  "CS 273B": [],
   "CS 273C": [],
   "CS 273D": [],
   "CS 274": [
@@ -5587,11 +4586,7 @@
       "CS 106B"
     ]
   ],
-  "CS 275": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "CS 275": [],
   "CS 275A": [],
   "CS 275B": [
     [
@@ -5600,9 +4595,6 @@
   ],
   "CS 277": [
     [
-      "CS 229"
-    ],
-    [
       "CS 231N"
     ],
     [
@@ -5610,11 +4602,7 @@
     ]
   ],
   "CS 278": [],
-  "CS 279": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "CS 279": [],
   "CS 281": [],
   "CS 282": [],
   "CS 283": [],
@@ -5625,6 +4613,9 @@
   "CS 294S": [
     [
       "CS 103"
+    ],
+    [
+      "CS 107"
     ]
   ],
   "CS 294W": [],
@@ -5645,10 +4636,6 @@
       "PSYCH 1"
     ],
     [
-      "SYMSYS 1",
-      "CS 24"
-    ],
-    [
       "CS 221"
     ],
     [
@@ -5658,9 +4645,6 @@
   "CS 323": [],
   "CS 324": [],
   "CS 324H": [
-    [
-      "CS 224C"
-    ],
     [
       "CS 329X"
     ],
@@ -5676,8 +4660,17 @@
     ]
   ],
   "CS 328": [],
-  "CS 329A": [],
-  "CS 329D": [],
+  "CS 329A": [
+    [
+      "CS 224N",
+      "CS 229S"
+    ]
+  ],
+  "CS 329D": [
+    [
+      "CS 229"
+    ]
+  ],
   "CS 329E": [
     [
       "CS 107"
@@ -5691,15 +4684,23 @@
   ],
   "CS 329H": [],
   "CS 329M": [],
-  "CS 329P": [
-    [
-      "CS 229"
-    ]
-  ],
+  "CS 329P": [],
   "CS 329R": [],
   "CS 329S": [],
-  "CS 329T": [],
-  "CS 329X": [],
+  "CS 329T": [
+    [
+      "CS 229"
+    ],
+    [
+      "CS 231N"
+    ]
+  ],
+  "CS 329X": [
+    [
+      "CS 224N",
+      "CS 224U"
+    ]
+  ],
   "CS 330": [
     [
       "CS 229"
@@ -5731,29 +4732,58 @@
   "CS 340LX": [],
   "CS 340R": [],
   "CS 342": [],
-  "CS 343D": [],
+  "CS 343D": [
+    [
+      "CS 143"
+    ]
+  ],
   "CS 343S": [],
   "CS 344": [],
-  "CS 345": [],
-  "CS 347": [],
+  "CS 345": [
+    [
+      "CS 123"
+    ],
+    [
+      "CS 107"
+    ],
+    [
+      "MATH 51"
+    ]
+  ],
+  "CS 347": [
+    [
+      "CS 147"
+    ]
+  ],
   "CS 348A": [],
   "CS 348B": [],
   "CS 348C": [],
-  "CS 348E": [],
-  "CS 348I": [],
+  "CS 348E": [
+    [
+      "CS 148"
+    ]
+  ],
+  "CS 348I": [
+    [
+      "CS 148"
+    ],
+    [
+      "CS 231N"
+    ]
+  ],
   "CS 348K": [
     [
       "CS 107"
     ]
   ],
-  "CS 348N": [],
+  "CS 348N": [
+    [
+      "CS 148"
+    ]
+  ],
   "CS 349D": [
     [
-      "CS 111"
-    ],
-    [
-      "CS 144",
-      "CS 244"
+      "CS 240"
     ],
     [
       "CS 244B",
@@ -5762,8 +4792,20 @@
   ],
   "CS 349F": [],
   "CS 349G": [],
-  "CS 349H": [],
-  "CS 349M": [],
+  "CS 349H": [
+    [
+      "CS 107",
+      "CS 107E"
+    ],
+    [
+      "EE 180"
+    ]
+  ],
+  "CS 349M": [
+    [
+      "CS 295"
+    ]
+  ],
   "CS 350": [],
   "CS 350S": [],
   "CS 351": [],
@@ -5774,22 +4816,26 @@
       "CS 161"
     ]
   ],
-  "CS 355": [],
+  "CS 355": [
+    [
+      "CS 255"
+    ]
+  ],
   "CS 356": [],
   "CS 357S": [],
   "CS 358A": [],
   "CS 359A": [],
   "CS 359D": [],
-  "CS 360": [],
+  "CS 360": [
+    [
+      "ECON 203"
+    ]
+  ],
   "CS 361": [],
   "CS 362": [],
   "CS 366": [
     [
-      "CS 212",
       "CS 161"
-    ],
-    [
-      "CS 221"
     ]
   ],
   "CS 368": [],
@@ -5804,9 +4850,6 @@
   "CS 377U": [
     [
       "CS 147"
-    ],
-    [
-      "CS 193P"
     ]
   ],
   "CS 379C": [],
@@ -5814,6 +4857,9 @@
   "CS 384": [
     [
       "CS 224N"
+    ],
+    [
+      "CS 224U"
     ]
   ],
   "CS 389": [],
@@ -5824,13 +4870,26 @@
   "CS 398": [
     [
       "CS 106B"
+    ],
+    [
+      "CS 109"
     ]
   ],
   "CS 399": [],
   "CS 399P": [],
   "CS 407": [],
   "CS 421": [],
-  "CS 422": [],
+  "CS 422": [
+    [
+      "CS 229"
+    ],
+    [
+      "CS 231N"
+    ],
+    [
+      "CS 234"
+    ]
+  ],
   "CS 428A": [],
   "CS 428B": [],
   "CS 431": [],
@@ -5860,11 +4919,7 @@
   "CSB 221": [],
   "CSB 224": [],
   "CSB 240A": [],
-  "CSB 240B": [
-    [
-      "CSB 240A"
-    ]
-  ],
+  "CSB 240B": [],
   "CSB 242": [],
   "CSB 243": [],
   "CSB 245": [],
@@ -6178,31 +5233,11 @@
   "CTS 398A": [],
   "CTS 399": [],
   "CZECLANG 1": [],
-  "CZECLANG 2": [
-    [
-      "CZECLANG 1"
-    ]
-  ],
-  "CZECLANG 3": [
-    [
-      "CZECLANG 2"
-    ]
-  ],
-  "CZECLANG 21": [
-    [
-      "CZECLANG 3"
-    ]
-  ],
-  "CZECLANG 22": [
-    [
-      "CZECLANG 21"
-    ]
-  ],
-  "CZECLANG 23": [
-    [
-      "CZECLANG 22"
-    ]
-  ],
+  "CZECLANG 2": [],
+  "CZECLANG 3": [],
+  "CZECLANG 21": [],
+  "CZECLANG 22": [],
+  "CZECLANG 23": [],
   "CZECLANG 395": [],
   "DANCE 1": [],
   "DANCE 11": [],
@@ -6233,30 +5268,14 @@
   "DANCE 122": [],
   "DANCE 123": [],
   "DANCE 128": [],
-  "DANCE 133": [
-    [
-      "DANCE 46"
-    ]
-  ],
+  "DANCE 133": [],
   "DANCE 140": [],
   "DANCE 141": [],
-  "DANCE 146": [
-    [
-      "DANCE 46"
-    ]
-  ],
-  "DANCE 147": [
-    [
-      "DANCE 46"
-    ]
-  ],
+  "DANCE 146": [],
+  "DANCE 147": [],
   "DANCE 148": [],
   "DANCE 149": [],
-  "DANCE 156": [
-    [
-      "DANCE 46"
-    ]
-  ],
+  "DANCE 156": [],
   "DANCE 160J": [],
   "DANCE 161J": [],
   "DANCE 162P": [],
@@ -6266,11 +5285,7 @@
   "DANCE 224": [],
   "DATASCI 32": [],
   "DATASCI 54": [],
-  "DATASCI 112": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "DATASCI 112": [],
   "DATASCI 120": [],
   "DATASCI 154": [],
   "DATASCI 156": [],
@@ -6279,37 +5294,11 @@
   "DATASCI 192A": [],
   "DATASCI 192B": [],
   "DATASCI 193": [],
-  "DATASCI 194B": [
-    [
-      "STATS 200"
-    ],
-    [
-      "DATASCI 112",
-      "STATS 202"
-    ],
-    [
-      "ENGR 108",
-      "MATH 104",
-      "STATS 203"
-    ]
-  ],
+  "DATASCI 194B": [],
   "DATASCI 194C": [],
   "DATASCI 194D": [],
   "DATASCI 194L": [],
-  "DATASCI 194N": [
-    [
-      "STATS 200"
-    ],
-    [
-      "DATASCI 112",
-      "STATS 202"
-    ],
-    [
-      "ENGR 108",
-      "MATH 104",
-      "STATS 203"
-    ]
-  ],
+  "DATASCI 194N": [],
   "DATASCI 194W": [],
   "DATASCI 196": [],
   "DATASCI 197": [],
@@ -6318,37 +5307,11 @@
   "DATASCI 199W": [],
   "DATASCI 200Q": [],
   "DATASCI 211": [],
-  "DATASCI 294B": [
-    [
-      "STATS 200"
-    ],
-    [
-      "DATASCI 112",
-      "STATS 202"
-    ],
-    [
-      "ENGR 108",
-      "MATH 104",
-      "STATS 203"
-    ]
-  ],
+  "DATASCI 294B": [],
   "DATASCI 294C": [],
   "DATASCI 294D": [],
   "DATASCI 294L": [],
-  "DATASCI 294N": [
-    [
-      "STATS 200"
-    ],
-    [
-      "DATASCI 112",
-      "STATS 202"
-    ],
-    [
-      "ENGR 108",
-      "MATH 104",
-      "STATS 203"
-    ]
-  ],
+  "DATASCI 294N": [],
   "DATASCI 294W": [],
   "DBIO 173A": [],
   "DBIO 199": [],
@@ -6376,32 +5339,9 @@
   "DESIGN 11": [],
   "DESIGN 60": [],
   "DESIGN 101": [],
-  "DESIGN 121": [
-    [
-      "DESIGN 1",
-      "DESIGN 11"
-    ],
-    [
-      "DESIGN 101"
-    ]
-  ],
-  "DESIGN 131": [
-    [
-      "DESIGN 121",
-      "DESIGN 141"
-    ]
-  ],
-  "DESIGN 141": [
-    [
-      "DESIGN 1"
-    ],
-    [
-      "DESIGN 11"
-    ],
-    [
-      "DESIGN 121"
-    ]
-  ],
+  "DESIGN 121": [],
+  "DESIGN 131": [],
+  "DESIGN 141": [],
   "DESIGN 151": [],
   "DESIGN 160": [],
   "DESIGN 160R": [],
@@ -6498,32 +5438,7 @@
   "DLCL 204": [],
   "DLCL 205": [],
   "DLCL 221": [],
-  "DLCL 222": [
-    [
-      "DLCL 222",
-      "PHIL 81",
-      "CLASSICS 42"
-    ],
-    [
-      "COMPLIT 181"
-    ],
-    [
-      "ENGLISH 81"
-    ],
-    [
-      "FRENCH 181"
-    ],
-    [
-      "GERMAN 181"
-    ],
-    [
-      "ITALIAN 181"
-    ],
-    [
-      "SLAVIC 181",
-      "DLCL 222"
-    ]
-  ],
+  "DLCL 222": [],
   "DLCL 223": [],
   "DLCL 224": [],
   "DLCL 229": [],
@@ -6534,11 +5449,7 @@
   "DLCL 293": [],
   "DLCL 298": [],
   "DLCL 301": [],
-  "DLCL 302": [
-    [
-      "DLCL 301"
-    ]
-  ],
+  "DLCL 302": [],
   "DLCL 303": [],
   "DLCL 305": [],
   "DLCL 311": [],
@@ -6547,22 +5458,10 @@
   "DLCL 333": [],
   "DLCL 369": [],
   "DUTCHLNG 1": [],
-  "DUTCHLNG 2": [
-    [
-      "DUTCHLNG 1"
-    ]
-  ],
-  "DUTCHLNG 3": [
-    [
-      "DUTCHLNG 2"
-    ]
-  ],
+  "DUTCHLNG 2": [],
+  "DUTCHLNG 3": [],
   "DUTCHLNG 22": [],
-  "DUTCHLNG 23": [
-    [
-      "DUTCHLNG 22"
-    ]
-  ],
+  "DUTCHLNG 23": [],
   "DUTCHLNG 101": [],
   "DUTCHLNG 102": [],
   "DUTCHLNG 103": [],
@@ -6634,20 +5533,12 @@
   "EARTHSYS 109": [],
   "EARTHSYS 109CSN": [],
   "EARTHSYS 110": [],
-  "EARTHSYS 111": [
-    [
-      "BIO 81"
-    ]
-  ],
+  "EARTHSYS 111": [],
   "EARTHSYS 112": [],
   "EARTHSYS 112G": [],
   "EARTHSYS 113": [],
   "EARTHSYS 114": [],
-  "EARTHSYS 115": [
-    [
-      "EARTHSYS 10"
-    ]
-  ],
+  "EARTHSYS 115": [],
   "EARTHSYS 116A": [],
   "EARTHSYS 118G": [],
   "EARTHSYS 119": [],
@@ -6675,26 +5566,10 @@
   "EARTHSYS 143H": [],
   "EARTHSYS 144": [],
   "EARTHSYS 145": [],
-  "EARTHSYS 146A": [
-    [
-      "MATH 51",
-      "PHYSICS 41"
-    ]
-  ],
-  "EARTHSYS 146B": [
-    [
-      "MATH 51"
-    ],
-    [
-      "PHYSICS 41"
-    ]
-  ],
+  "EARTHSYS 146A": [],
+  "EARTHSYS 146B": [],
   "EARTHSYS 146J": [],
-  "EARTHSYS 147": [
-    [
-      "EARTHSYS 111"
-    ]
-  ],
+  "EARTHSYS 147": [],
   "EARTHSYS 149": [],
   "EARTHSYS 150": [],
   "EARTHSYS 151": [],
@@ -6706,11 +5581,7 @@
   "EARTHSYS 160": [],
   "EARTHSYS 162": [],
   "EARTHSYS 163": [],
-  "EARTHSYS 164": [
-    [
-      "PHYSICS 41"
-    ]
-  ],
+  "EARTHSYS 164": [],
   "EARTHSYS 165": [],
   "EARTHSYS 166": [],
   "EARTHSYS 168": [],
@@ -6719,11 +5590,7 @@
   "EARTHSYS 171": [],
   "EARTHSYS 171M": [],
   "EARTHSYS 176M": [],
-  "EARTHSYS 177C": [
-    [
-      "EARTHSYS 191"
-    ]
-  ],
+  "EARTHSYS 177C": [],
   "EARTHSYS 177M": [],
   "EARTHSYS 178M": [],
   "EARTHSYS 179": [],
@@ -6738,11 +5605,7 @@
   "EARTHSYS 182C": [],
   "EARTHSYS 183": [],
   "EARTHSYS 185": [],
-  "EARTHSYS 191": [
-    [
-      "EARTHSYS 10"
-    ]
-  ],
+  "EARTHSYS 191": [],
   "EARTHSYS 192": [],
   "EARTHSYS 194": [],
   "EARTHSYS 194A": [],
@@ -6758,32 +5621,16 @@
   "EARTHSYS 208": [],
   "EARTHSYS 209": [],
   "EARTHSYS 209CSN": [],
-  "EARTHSYS 210A": [
-    [
-      "EARTHSYS 260"
-    ]
-  ],
-  "EARTHSYS 210B": [
-    [
-      "EARTHSYS 260"
-    ]
-  ],
+  "EARTHSYS 210A": [],
+  "EARTHSYS 210B": [],
   "EARTHSYS 210P": [],
   "EARTHSYS 212": [],
   "EARTHSYS 212G": [],
   "EARTHSYS 213": [],
   "EARTHSYS 214": [],
-  "EARTHSYS 215": [
-    [
-      "EARTHSYS 10"
-    ]
-  ],
+  "EARTHSYS 215": [],
   "EARTHSYS 216A": [],
-  "EARTHSYS 217": [
-    [
-      "BIO 81"
-    ]
-  ],
+  "EARTHSYS 217": [],
   "EARTHSYS 218G": [],
   "EARTHSYS 219": [],
   "EARTHSYS 220": [],
@@ -6801,17 +5648,8 @@
   "EARTHSYS 242": [],
   "EARTHSYS 243H": [],
   "EARTHSYS 245": [],
-  "EARTHSYS 246A": [
-    [
-      "MATH 51",
-      "PHYSICS 41"
-    ]
-  ],
-  "EARTHSYS 247": [
-    [
-      "EARTHSYS 111"
-    ]
-  ],
+  "EARTHSYS 246A": [],
+  "EARTHSYS 247": [],
   "EARTHSYS 249": [],
   "EARTHSYS 250": [],
   "EARTHSYS 251": [],
@@ -6825,11 +5663,7 @@
   "EARTHSYS 271": [],
   "EARTHSYS 271M": [],
   "EARTHSYS 276M": [],
-  "EARTHSYS 277C": [
-    [
-      "EARTHSYS 191"
-    ]
-  ],
+  "EARTHSYS 277C": [],
   "EARTHSYS 277M": [],
   "EARTHSYS 279": [],
   "EARTHSYS 280": [],
@@ -6837,17 +5671,9 @@
   "EARTHSYS 282A": [],
   "EARTHSYS 282B": [],
   "EARTHSYS 282C": [],
-  "EARTHSYS 285": [
-    [
-      "EARTHSYS 192"
-    ]
-  ],
+  "EARTHSYS 285": [],
   "EARTHSYS 290": [],
-  "EARTHSYS 291": [
-    [
-      "EARTHSYS 10"
-    ]
-  ],
+  "EARTHSYS 291": [],
   "EARTHSYS 292": [],
   "EARTHSYS 293": [],
   "EARTHSYS 294": [],
@@ -6947,420 +5773,114 @@
   "ECON 10": [],
   "ECON 11N": [],
   "ECON 14": [],
-  "ECON 17N": [
-    [
-      "ECON 1"
-    ]
-  ],
+  "ECON 17N": [],
   "ECON 21SI": [],
   "ECON 25N": [],
   "ECON 28N": [],
   "ECON 30": [],
-  "ECON 39": [
-    [
-      "ECON 102A"
-    ]
-  ],
-  "ECON 40": [
-    [
-      "ECON 1"
-    ]
-  ],
-  "ECON 41": [
-    [
-      "ECON 1"
-    ]
-  ],
+  "ECON 39": [],
+  "ECON 40": [],
+  "ECON 41": [],
   "ECON 42": [],
   "ECON 43": [],
-  "ECON 44": [
-    [
-      "ECON 1"
-    ]
-  ],
+  "ECON 44": [],
   "ECON 46": [],
-  "ECON 47": [
-    [
-      "ECON 1"
-    ],
-    [
-      "STATS 60"
-    ]
-  ],
+  "ECON 47": [],
   "ECON 48": [],
   "ECON 50": [],
   "ECON 50Q": [],
   "ECON 51": [],
-  "ECON 52": [
-    [
-      "ECON 50"
-    ]
-  ],
+  "ECON 52": [],
   "ECON 101": [],
-  "ECON 102A": [
-    [
-      "MATH 20"
-    ]
-  ],
-  "ECON 102B": [
-    [
-      "ECON 102A"
-    ]
-  ],
+  "ECON 102A": [],
+  "ECON 102B": [],
   "ECON 102C": [],
   "ECON 102D": [],
   "ECON 104": [],
-  "ECON 105": [
-    [
-      "ECON 102B"
-    ]
-  ],
+  "ECON 105": [],
   "ECON 106": [],
   "ECON 107": [],
   "ECON 108": [],
   "ECON 109": [],
   "ECON 110": [],
-  "ECON 111": [
-    [
-      "ECON 50"
-    ],
-    [
-      "ECON 52"
-    ]
-  ],
-  "ECON 113": [
-    [
-      "ECON 1"
-    ]
-  ],
+  "ECON 111": [],
+  "ECON 113": [],
   "ECON 114": [],
   "ECON 115": [],
-  "ECON 118": [
-    [
-      "ECON 50"
-    ],
-    [
-      "ECON 102B"
-    ]
-  ],
+  "ECON 118": [],
   "ECON 122": [],
-  "ECON 125": [
-    [
-      "ECON 51",
-      "ECON 102B"
-    ]
-  ],
-  "ECON 126": [
-    [
-      "ECON 50",
-      "ECON 102A"
-    ]
-  ],
-  "ECON 127": [
-    [
-      "ECON 50",
-      "ECON 102B"
-    ]
-  ],
+  "ECON 125": [],
+  "ECON 126": [],
+  "ECON 127": [],
   "ECON 131": [],
-  "ECON 132": [
-    [
-      "ECON 1"
-    ]
-  ],
-  "ECON 133": [
-    [
-      "ECON 1"
-    ]
-  ],
+  "ECON 132": [],
+  "ECON 133": [],
   "ECON 134": [],
-  "ECON 135": [
-    [
-      "MATH 51"
-    ],
-    [
-      "ECON 50"
-    ],
-    [
-      "ECON 102A"
-    ]
-  ],
+  "ECON 135": [],
   "ECON 136": [],
-  "ECON 137": [
-    [
-      "ECON 102A"
-    ]
-  ],
+  "ECON 137": [],
   "ECON 138": [],
   "ECON 139D": [],
   "ECON 140": [],
   "ECON 141": [],
   "ECON 143": [],
   "ECON 144": [],
-  "ECON 146": [
-    [
-      "ECON 50"
-    ],
-    [
-      "ECON 102B"
-    ]
-  ],
+  "ECON 146": [],
   "ECON 148": [],
-  "ECON 149": [
-    [
-      "ECON 51"
-    ],
-    [
-      "ECON 102B"
-    ]
-  ],
-  "ECON 150": [
-    [
-      "PUBLPOL 50",
-      "ECON 50"
-    ]
-  ],
-  "ECON 151": [
-    [
-      "ECON 102A"
-    ]
-  ],
-  "ECON 152": [
-    [
-      "ECON 51",
-      "ECON 50"
-    ]
-  ],
+  "ECON 149": [],
+  "ECON 150": [],
+  "ECON 151": [],
+  "ECON 152": [],
   "ECON 153": [],
-  "ECON 154": [
-    [
-      "ECON 50",
-      "PUBLPOL 50"
-    ]
-  ],
-  "ECON 155": [
-    [
-      "ECON 1"
-    ]
-  ],
+  "ECON 154": [],
+  "ECON 155": [],
   "ECON 156": [],
   "ECON 156L": [],
-  "ECON 157": [
-    [
-      "ECON 51",
-      "PUBLPOL 301A",
-      "INTLPOL 204A"
-    ],
-    [
-      "ECON 102A"
-    ]
-  ],
+  "ECON 157": [],
   "ECON 160": [],
   "ECON 162": [],
   "ECON 163": [],
   "ECON 165": [],
-  "ECON 166": [
-    [
-      "ECON 51"
-    ]
-  ],
+  "ECON 166": [],
   "ECON 167G": [],
   "ECON 169": [],
   "ECON 175": [],
   "ECON 177": [],
-  "ECON 178": [
-    [
-      "ECON 50",
-      "ECON 102A"
-    ]
-  ],
-  "ECON 179": [
-    [
-      "ECON 51"
-    ],
-    [
-      "ECON 102A"
-    ]
-  ],
+  "ECON 178": [],
+  "ECON 179": [],
   "ECON 180": [],
   "ECON 184": [],
-  "ECON 185": [
-    [
-      "ECON 108"
-    ],
-    [
-      "CS 129"
-    ],
-    [
-      "HUMBIO 88"
-    ],
-    [
-      "POLISCI 150C"
-    ],
-    [
-      "STATS 60",
-      "ECON 101"
-    ]
-  ],
+  "ECON 185": [],
   "ECON 198": [],
   "ECON 199D": [],
   "ECON 200": [],
   "ECON 202": [],
   "ECON 202N": [],
-  "ECON 203": [
-    [
-      "ECON 202"
-    ]
-  ],
-  "ECON 204": [
-    [
-      "ECON 202"
-    ]
-  ],
+  "ECON 203": [],
+  "ECON 204": [],
   "ECON 206": [],
   "ECON 210": [],
-  "ECON 211": [
-    [
-      "ECON 210"
-    ]
-  ],
-  "ECON 212": [
-    [
-      "ECON 203"
-    ],
-    [
-      "ECON 210"
-    ],
-    [
-      "ECON 211"
-    ]
-  ],
-  "ECON 214": [
-    [
-      "ECON 202",
-      "ECON 202N"
-    ],
-    [
-      "ECON 270"
-    ]
-  ],
-  "ECON 215": [
-    [
-      "ECON 202",
-      "ECON 202N"
-    ],
-    [
-      "ECON 270"
-    ]
-  ],
-  "ECON 216": [
-    [
-      "ECON 202"
-    ],
-    [
-      "ECON 203"
-    ],
-    [
-      "ECON 204"
-    ],
-    [
-      "ECON 210"
-    ],
-    [
-      "ECON 211"
-    ],
-    [
-      "ECON 212"
-    ],
-    [
-      "ECON 270"
-    ],
-    [
-      "ECON 271"
-    ],
-    [
-      "ECON 272"
-    ]
-  ],
-  "ECON 217": [
-    [
-      "ECON 214"
-    ],
-    [
-      "ECON 215"
-    ]
-  ],
+  "ECON 211": [],
+  "ECON 212": [],
+  "ECON 214": [],
+  "ECON 215": [],
+  "ECON 216": [],
+  "ECON 217": [],
   "ECON 220": [],
-  "ECON 221": [
-    [
-      "POLISCI 356A"
-    ]
-  ],
+  "ECON 221": [],
   "ECON 222": [],
   "ECON 226": [],
   "ECON 229": [],
   "ECON 233": [],
   "ECON 234": [],
   "ECON 235": [],
-  "ECON 236": [
-    [
-      "ECON 210"
-    ],
-    [
-      "ECON 211"
-    ],
-    [
-      "ECON 212"
-    ]
-  ],
+  "ECON 236": [],
   "ECON 237": [],
   "ECON 238": [],
   "ECON 239D": [],
-  "ECON 241": [
-    [
-      "ECON 202"
-    ],
-    [
-      "ECON 210"
-    ],
-    [
-      "ECON 270"
-    ],
-    [
-      "ECON 271"
-    ]
-  ],
-  "ECON 242": [
-    [
-      "ECON 202"
-    ],
-    [
-      "ECON 203"
-    ],
-    [
-      "ECON 204"
-    ],
-    [
-      "ECON 210"
-    ]
-  ],
-  "ECON 243": [
-    [
-      "ECON 202"
-    ],
-    [
-      "ECON 203"
-    ],
-    [
-      "ECON 204"
-    ],
-    [
-      "ECON 270"
-    ],
-    [
-      "ECON 271"
-    ]
-  ],
+  "ECON 241": [],
+  "ECON 242": [],
+  "ECON 243": [],
   "ECON 244": [],
   "ECON 245": [],
   "ECON 246": [],
@@ -7370,107 +5890,34 @@
   "ECON 250": [],
   "ECON 253": [],
   "ECON 254": [],
-  "ECON 255": [
-    [
-      "ECON 202",
-      "ECON 210"
-    ]
-  ],
+  "ECON 255": [],
   "ECON 256": [],
   "ECON 256L": [],
   "ECON 257": [],
-  "ECON 258": [
-    [
-      "ECON 257"
-    ]
-  ],
-  "ECON 260": [
-    [
-      "ECON 257"
-    ],
-    [
-      "ECON 258"
-    ]
-  ],
+  "ECON 258": [],
+  "ECON 260": [],
   "ECON 261": [],
   "ECON 266": [],
   "ECON 267": [],
   "ECON 268": [],
-  "ECON 269": [
-    [
-      "ECON 210"
-    ],
-    [
-      "ECON 211"
-    ],
-    [
-      "ECON 212",
-      "ECON 268"
-    ]
-  ],
+  "ECON 269": [],
   "ECON 270": [],
   "ECON 271": [],
   "ECON 272": [],
   "ECON 273": [],
   "ECON 274": [],
-  "ECON 275": [
-    [
-      "ECON 202"
-    ],
-    [
-      "ECON 203"
-    ],
-    [
-      "ECON 204"
-    ],
-    [
-      "ECON 270"
-    ],
-    [
-      "ECON 271"
-    ],
-    [
-      "ECON 272"
-    ]
-  ],
-  "ECON 278": [
-    [
-      "ECON 204",
-      "ECON 271"
-    ]
-  ],
-  "ECON 279": [
-    [
-      "ECON 204",
-      "ECON 271"
-    ]
-  ],
-  "ECON 280": [
-    [
-      "ECON 204",
-      "ECON 271"
-    ]
-  ],
+  "ECON 275": [],
+  "ECON 278": [],
+  "ECON 279": [],
+  "ECON 280": [],
   "ECON 281": [],
   "ECON 282": [],
-  "ECON 284": [
-    [
-      "ECON 203"
-    ]
-  ],
+  "ECON 284": [],
   "ECON 285": [],
-  "ECON 286": [
-    [
-      "ECON 203"
-    ]
-  ],
+  "ECON 286": [],
   "ECON 287": [],
   "ECON 288": [],
-  "ECON 289": [
-    [
-      "ECON 285"
-    ]
-  ],
+  "ECON 289": [],
   "ECON 290": [],
   "ECON 291": [],
   "ECON 292": [],
@@ -7479,23 +5926,11 @@
   "ECON 295": [],
   "ECON 299": [],
   "ECON 300": [],
-  "ECON 310": [
-    [
-      "ECON 210"
-    ],
-    [
-      "ECON 211",
-      "ECON 212"
-    ]
-  ],
+  "ECON 310": [],
   "ECON 315": [],
   "ECON 325": [],
   "ECON 335": [],
-  "ECON 341": [
-    [
-      "ECON 241"
-    ]
-  ],
+  "ECON 341": [],
   "ECON 345": [],
   "ECON 354": [],
   "ECON 355": [],
@@ -7769,11 +6204,7 @@
   "EDUC 352A": [],
   "EDUC 352B": [],
   "EDUC 352C": [],
-  "EDUC 353A": [
-    [
-      "EDUC 252"
-    ]
-  ],
+  "EDUC 353A": [],
   "EDUC 355": [],
   "EDUC 358": [],
   "EDUC 359B": [],
@@ -7841,11 +6272,7 @@
   "EDUC 427": [],
   "EDUC 428": [],
   "EDUC 430A": [],
-  "EDUC 430B": [
-    [
-      "ECON 102B"
-    ]
-  ],
+  "EDUC 430B": [],
   "EDUC 430C": [],
   "EDUC 431": [],
   "EDUC 432": [],
@@ -7923,25 +6350,9 @@
   "EE 65": [],
   "EE 84N": [],
   "EE 100": [],
-  "EE 101A": [
-    [
-      "PHYSICS 43"
-    ],
-    [
-      "MATH 53",
-      "CME 104"
-    ]
-  ],
+  "EE 101A": [],
   "EE 101B": [],
-  "EE 102A": [
-    [
-      "MATH 53",
-      "CME 104"
-    ],
-    [
-      "PHYSICS 43"
-    ]
-  ],
+  "EE 102A": [],
   "EE 102B": [],
   "EE 104": [],
   "EE 108": [],
@@ -7956,7 +6367,9 @@
   "EE 120": [],
   "EE 124": [
     [
-      "EE 101A",
+      "EE 101A"
+    ],
+    [
       "EE 102A"
     ]
   ],
@@ -7964,20 +6377,10 @@
   "EE 134": [],
   "EE 142": [
     [
-      "PHYSICS 43"
-    ],
-    [
       "PHYSICS 81"
     ],
     [
-      "EE 42",
-      "CME 100"
-    ],
-    [
       "CME 102"
-    ],
-    [
-      "MATH 52"
     ],
     [
       "MATH 52"
@@ -8023,11 +6426,7 @@
   "EE 205": [],
   "EE 207": [
     [
-      "BIOE 101"
-    ],
-    [
-      "BIOE 300B",
-      "EE 101A"
+      "BIOE 300B"
     ]
   ],
   "EE 212": [],
@@ -8052,7 +6451,9 @@
   "EE 236A": [],
   "EE 236B": [
     [
-      "EE 236A",
+      "EE 236A"
+    ],
+    [
       "EE 242"
     ]
   ],
@@ -8063,11 +6464,7 @@
   ],
   "EE 237": [],
   "EE 237L": [],
-  "EE 238": [
-    [
-      "EE 142"
-    ]
-  ],
+  "EE 238": [],
   "EE 242": [],
   "EE 244": [],
   "EE 247": [],
@@ -8075,14 +6472,7 @@
   "EE 253": [],
   "EE 254": [],
   "EE 256": [],
-  "EE 258": [
-    [
-      "EE 102A"
-    ],
-    [
-      "EE 178"
-    ]
-  ],
+  "EE 258": [],
   "EE 259": [],
   "EE 260A": [
     [
@@ -8096,6 +6486,9 @@
     ]
   ],
   "EE 260B": [
+    [
+      "CS 106A"
+    ],
     [
       "CME 100"
     ],
@@ -8111,12 +6504,7 @@
       "EE 264"
     ]
   ],
-  "EE 264W": [
-    [
-      "EE 102A",
-      "EE 102B"
-    ]
-  ],
+  "EE 264W": [],
   "EE 267": [],
   "EE 267W": [
     [
@@ -8128,22 +6516,14 @@
   "EE 270": [],
   "EE 271": [],
   "EE 272": [],
-  "EE 273": [],
-  "EE 274": [],
-  "EE 276": [],
-  "EE 277": [
+  "EE 273": [
     [
-      "EE 178",
-      "CS 109"
-    ],
-    [
-      "EE 104",
-      "CME 107"
-    ],
-    [
-      "CS 229"
+      "EE 101A"
     ]
   ],
+  "EE 274": [],
+  "EE 276": [],
+  "EE 277": [],
   "EE 278": [],
   "EE 279": [],
   "EE 282": [],
@@ -8151,117 +6531,15 @@
   "EE 284": [],
   "EE 284A": [],
   "EE 285": [],
-  "EE 290A": [
-    [
-      "EE 290B"
-    ],
-    [
-      "EE 290C"
-    ],
-    [
-      "EE 290B"
-    ],
-    [
-      "EE 290D"
-    ],
-    [
-      "EE 290C"
-    ]
-  ],
-  "EE 290B": [
-    [
-      "EE 290B"
-    ],
-    [
-      "EE 290C"
-    ],
-    [
-      "EE 290B"
-    ],
-    [
-      "EE 290D"
-    ],
-    [
-      "EE 290C"
-    ]
-  ],
-  "EE 290C": [
-    [
-      "EE 290B"
-    ],
-    [
-      "EE 290C"
-    ],
-    [
-      "EE 290B"
-    ],
-    [
-      "EE 290D"
-    ],
-    [
-      "EE 290C"
-    ]
-  ],
-  "EE 290D": [
-    [
-      "EE 290B"
-    ],
-    [
-      "EE 290C"
-    ],
-    [
-      "EE 290B"
-    ],
-    [
-      "EE 290D"
-    ],
-    [
-      "EE 290C"
-    ]
-  ],
-  "EE 290E": [
-    [
-      "EE 290B"
-    ],
-    [
-      "EE 290C"
-    ],
-    [
-      "EE 290B"
-    ],
-    [
-      "EE 290D"
-    ],
-    [
-      "EE 290C"
-    ],
-    [
-      "EE 290E"
-    ],
-    [
-      "EE 290D"
-    ]
-  ],
-  "EE 290F": [
-    [
-      "EE 290E"
-    ]
-  ],
-  "EE 290G": [
-    [
-      "EE 290F"
-    ]
-  ],
-  "EE 290H": [
-    [
-      "EE 290G"
-    ]
-  ],
-  "EE 290I": [
-    [
-      "EE 290H"
-    ]
-  ],
+  "EE 290A": [],
+  "EE 290B": [],
+  "EE 290C": [],
+  "EE 290D": [],
+  "EE 290E": [],
+  "EE 290F": [],
+  "EE 290G": [],
+  "EE 290H": [],
+  "EE 290I": [],
   "EE 292A": [],
   "EE 292B": [],
   "EE 292C": [],
@@ -8306,17 +6584,25 @@
   "EE 329": [],
   "EE 332": [],
   "EE 334": [],
-  "EE 336": [
-    [
-      "EE 242"
-    ]
-  ],
+  "EE 336": [],
   "EE 340": [],
   "EE 346": [],
   "EE 347": [],
   "EE 348": [],
-  "EE 349": [],
-  "EE 355": [],
+  "EE 349": [
+    [
+      "CS 107",
+      "CS 107E"
+    ],
+    [
+      "EE 180"
+    ]
+  ],
+  "EE 355": [
+    [
+      "EE 261"
+    ]
+  ],
   "EE 356A": [],
   "EE 356B": [],
   "EE 358": [],
@@ -8332,7 +6618,14 @@
   "EE 369C": [],
   "EE 372": [],
   "EE 374": [],
-  "EE 376C": [],
+  "EE 376C": [
+    [
+      "EE 276"
+    ],
+    [
+      "EE 278"
+    ]
+  ],
   "EE 377": [],
   "EE 378A": [],
   "EE 379": [],
@@ -8368,16 +6661,8 @@
   "EE 801": [],
   "EE 802": [],
   "EMED 101": [],
-  "EMED 111A": [
-    [
-      "EMED 111B"
-    ]
-  ],
-  "EMED 111B": [
-    [
-      "EMED 111A"
-    ]
-  ],
+  "EMED 111A": [],
+  "EMED 111B": [],
   "EMED 111C": [],
   "EMED 112": [],
   "EMED 122": [],
@@ -8388,16 +6673,8 @@
   "EMED 199": [],
   "EMED 201": [],
   "EMED 201A": [],
-  "EMED 211A": [
-    [
-      "EMED 111B"
-    ]
-  ],
-  "EMED 211B": [
-    [
-      "EMED 111A"
-    ]
-  ],
+  "EMED 211A": [],
+  "EMED 211B": [],
   "EMED 211C": [],
   "EMED 212": [],
   "EMED 220": [],
@@ -8430,14 +6707,7 @@
   "ENERGY 141": [],
   "ENERGY 153": [],
   "ENERGY 155": [],
-  "ENERGY 160": [
-    [
-      "CME 104"
-    ],
-    [
-      "CME 106"
-    ]
-  ],
+  "ENERGY 160": [],
   "ENERGY 161": [],
   "ENERGY 167": [],
   "ENERGY 175": [],
@@ -8463,11 +6733,7 @@
   "ENERGY 208X": [],
   "ENERGY 221": [],
   "ENERGY 222": [],
-  "ENERGY 223": [
-    [
-      "CME 200"
-    ]
-  ],
+  "ENERGY 223": [],
   "ENERGY 224": [],
   "ENERGY 225": [],
   "ENERGY 240": [],
@@ -8477,14 +6743,7 @@
   "ENERGY 253": [],
   "ENERGY 255": [],
   "ENERGY 259": [],
-  "ENERGY 260": [
-    [
-      "CME 104"
-    ],
-    [
-      "CME 106"
-    ]
-  ],
+  "ENERGY 260": [],
   "ENERGY 261": [],
   "ENERGY 263": [],
   "ENERGY 267": [],
@@ -8495,11 +6754,7 @@
   "ENERGY 277A": [],
   "ENERGY 277B": [],
   "ENERGY 281": [],
-  "ENERGY 283": [
-    [
-      "MATH 51"
-    ]
-  ],
+  "ENERGY 283": [],
   "ENERGY 285": [],
   "ENERGY 291": [],
   "ENERGY 295": [],
@@ -8518,17 +6773,7 @@
   "ENERGY 363": [],
   "ENERGY 365": [],
   "ENERGY 424": [],
-  "ENERGY 432": [
-    [
-      "CHEM 33"
-    ],
-    [
-      "CHEMENG 110A"
-    ],
-    [
-      "CHEMENG 130A"
-    ]
-  ],
+  "ENERGY 432": [],
   "ENERGY 801": [],
   "ENERGY 802": [],
   "ENGLISH 1C": [],
@@ -8769,24 +7014,9 @@
   "ENGLISH 190F": [],
   "ENGLISH 190G": [],
   "ENGLISH 190H": [],
-  "ENGLISH 190HO": [
-    [
-      "ENGLISH 90",
-      "ENGLISH 190"
-    ]
-  ],
+  "ENGLISH 190HO": [],
   "ENGLISH 190L": [],
-  "ENGLISH 190LC": [
-    [
-      "ENGLISH 90"
-    ],
-    [
-      "ENGLISH 91"
-    ],
-    [
-      "ENGLISH 92"
-    ]
-  ],
+  "ENGLISH 190LC": [],
   "ENGLISH 190NS": [],
   "ENGLISH 190QN": [],
   "ENGLISH 190S": [],
@@ -8872,12 +7102,7 @@
   "ENGLISH 316": [],
   "ENGLISH 317": [],
   "ENGLISH 318": [],
-  "ENGLISH 318A": [
-    [
-      "DLCL 312",
-      "FEMGEN 312F"
-    ]
-  ],
+  "ENGLISH 318A": [],
   "ENGLISH 319A": [],
   "ENGLISH 319C": [],
   "ENGLISH 320": [],
@@ -8944,10 +7169,20 @@
   "ENGR 10": [],
   "ENGR 14": [
     [
-      "ENGR 1"
+      "PHYSICS 41",
+      "PHYSICS 41E",
+      "PHYSICS 61"
     ]
   ],
-  "ENGR 15": [],
+  "ENGR 15": [
+    [
+      "MATH 19",
+      "MATH 20"
+    ],
+    [
+      "ENGR 14"
+    ]
+  ],
   "ENGR 20": [],
   "ENGR 21": [],
   "ENGR 40A": [],
@@ -8962,7 +7197,7 @@
   "ENGR 60": [
     [
       "MATH 19",
-      "ENGR 20"
+      "MATH 20"
     ]
   ],
   "ENGR 62": [
@@ -8972,11 +7207,7 @@
     ]
   ],
   "ENGR 65": [],
-  "ENGR 76": [
-    [
-      "PHYSICS 41"
-    ]
-  ],
+  "ENGR 76": [],
   "ENGR 80": [],
   "ENGR 90": [],
   "ENGR 100": [],
@@ -8990,9 +7221,6 @@
     [
       "MATH 51",
       "CME 100"
-    ],
-    [
-      "CS 106A"
     ]
   ],
   "ENGR 110": [],
@@ -9006,32 +7234,34 @@
   "ENGR 148": [],
   "ENGR 154": [
     [
-      "ENGR 21"
-    ],
-    [
-      "ENGR 2"
+      "MATH 21"
     ]
   ],
   "ENGR 155A": [
     [
-      "ENGR 21"
-    ],
-    [
-      "ENGR 2"
+      "MATH 21"
     ]
   ],
-  "ENGR 155B": [],
-  "ENGR 155C": [],
+  "ENGR 155B": [
+    [
+      "CME 102",
+      "ENGR 155A"
+    ]
+  ],
+  "ENGR 155C": [
+    [
+      "CME 100",
+      "ENGR 154",
+      "MATH 51",
+      "MATH 52"
+    ]
+  ],
   "ENGR 159Q": [],
   "ENGR 180": [],
   "ENGR 193": [],
   "ENGR 199": [],
   "ENGR 199A": [],
-  "ENGR 199W": [
-    [
-      "ENGR 2"
-    ]
-  ],
+  "ENGR 199W": [],
   "ENGR 202C": [],
   "ENGR 202S": [],
   "ENGR 202W": [],
@@ -9103,38 +7333,14 @@
   "EPI 223": [],
   "EPI 224": [],
   "EPI 225": [],
-  "EPI 226": [
-    [
-      "EPI 225"
-    ]
-  ],
-  "EPI 227": [
-    [
-      "EPI 225"
-    ],
-    [
-      "EPI 226"
-    ],
-    [
-      "EPI 261"
-    ]
-  ],
+  "EPI 226": [],
+  "EPI 227": [],
   "EPI 229": [],
   "EPI 231": [],
   "EPI 236": [],
   "EPI 237": [],
   "EPI 238": [],
-  "EPI 240": [
-    [
-      "EPI 225"
-    ],
-    [
-      "EPI 226"
-    ],
-    [
-      "EPI 259"
-    ]
-  ],
+  "EPI 240": [],
   "EPI 244": [],
   "EPI 245": [],
   "EPI 246": [],
@@ -9151,19 +7357,11 @@
   "EPI 264": [],
   "EPI 265": [],
   "EPI 267": [],
-  "EPI 270": [
-    [
-      "EPI 258"
-    ]
-  ],
+  "EPI 270": [],
   "EPI 271": [],
   "EPI 272": [],
   "EPI 273": [],
-  "EPI 282": [
-    [
-      "EPI 272"
-    ]
-  ],
+  "EPI 282": [],
   "EPI 291": [],
   "EPI 297": [],
   "EPI 299": [],
@@ -9183,19 +7381,8 @@
   "EPS 42": [],
   "EPS 101": [],
   "EPS 102": [],
-  "EPS 104": [
-    [
-      "EPS 101"
-    ]
-  ],
-  "EPS 105": [
-    [
-      "EPS 1"
-    ],
-    [
-      "EPS 102"
-    ]
-  ],
+  "EPS 104": [],
+  "EPS 105": [],
   "EPS 107": [],
   "EPS 111": [],
   "EPS 112": [],
@@ -9218,27 +7405,10 @@
   "EPS 161": [],
   "EPS 164": [],
   "EPS 171": [],
-  "EPS 180": [
-    [
-      "EPS 1"
-    ],
-    [
-      "EPS 2"
-    ]
-  ],
+  "EPS 180": [],
   "EPS 183": [],
   "EPS 189": [],
-  "EPS 190": [
-    [
-      "EPS 1"
-    ],
-    [
-      "EPS 102"
-    ],
-    [
-      "EPS 105"
-    ]
-  ],
+  "EPS 190": [],
   "EPS 192": [],
   "EPS 193": [],
   "EPS 194": [],
@@ -9264,11 +7434,7 @@
   "EPS 227": [],
   "EPS 228": [],
   "EPS 229": [],
-  "EPS 230": [
-    [
-      "CME 100"
-    ]
-  ],
+  "EPS 230": [],
   "EPS 231": [],
   "EPS 232": [],
   "EPS 233": [],
@@ -9284,14 +7450,7 @@
   "EPS 262": [],
   "EPS 264": [],
   "EPS 271": [],
-  "EPS 280": [
-    [
-      "EPS 1"
-    ],
-    [
-      "EPS 2"
-    ]
-  ],
+  "EPS 280": [],
   "EPS 281": [],
   "EPS 282": [],
   "EPS 283": [],
@@ -9301,17 +7460,7 @@
   "EPS 290": [],
   "EPS 292": [],
   "EPS 293D": [],
-  "EPS 295": [
-    [
-      "EPS 1"
-    ],
-    [
-      "EPS 102"
-    ],
-    [
-      "EPS 105"
-    ]
-  ],
+  "EPS 295": [],
   "EPS 296": [],
   "EPS 299": [],
   "EPS 304": [],
@@ -9325,14 +7474,7 @@
   "EPS 398": [],
   "EPS 399": [],
   "EPS 400": [],
-  "EPS 405": [
-    [
-      "EPS 1"
-    ],
-    [
-      "EPS 102"
-    ]
-  ],
+  "EPS 405": [],
   "EPS 801": [],
   "EPS 802": [],
   "ESF 7": [],
@@ -9404,11 +7546,7 @@
   "ESS 106": [],
   "ESS 107": [],
   "ESS 108": [],
-  "ESS 111": [
-    [
-      "BIO 81"
-    ]
-  ],
+  "ESS 111": [],
   "ESS 112": [],
   "ESS 114": [],
   "ESS 122": [],
@@ -9419,11 +7557,7 @@
   "ESS 136": [],
   "ESS 137": [],
   "ESS 141": [],
-  "ESS 148": [
-    [
-      "PHYSICS 41"
-    ]
-  ],
+  "ESS 148": [],
   "ESS 150": [],
   "ESS 151": [],
   "ESS 152": [],
@@ -9442,23 +7576,13 @@
   "ESS 208": [],
   "ESS 210": [],
   "ESS 220": [],
-  "ESS 221": [
-    [
-      "ESS 220",
-      "CEE 260A"
-    ]
-  ],
+  "ESS 221": [],
   "ESS 222": [],
   "ESS 223": [],
   "ESS 224": [],
   "ESS 226": [],
   "ESS 227": [],
-  "ESS 228": [
-    [
-      "ESS 246A",
-      "ESS 246B"
-    ]
-  ],
+  "ESS 228": [],
   "ESS 232": [],
   "ESS 233": [],
   "ESS 234": [],
@@ -9469,37 +7593,10 @@
   "ESS 241": [],
   "ESS 244": [],
   "ESS 245": [],
-  "ESS 246A": [
-    [
-      "MATH 51",
-      "PHYSICS 41"
-    ]
-  ],
-  "ESS 246B": [
-    [
-      "MATH 51"
-    ],
-    [
-      "PHYSICS 41"
-    ]
-  ],
-  "ESS 247": [
-    [
-      "ESS 246A",
-      "ESS 246B"
-    ]
-  ],
-  "ESS 248": [
-    [
-      "ESS 246A"
-    ],
-    [
-      "ESS 246B"
-    ],
-    [
-      "MATH 51"
-    ]
-  ],
+  "ESS 246A": [],
+  "ESS 246B": [],
+  "ESS 247": [],
+  "ESS 248": [],
   "ESS 249": [],
   "ESS 251": [],
   "ESS 252": [],
@@ -9530,11 +7627,7 @@
   "ESS 333": [],
   "ESS 348": [],
   "ESS 360": [],
-  "ESS 363F": [
-    [
-      "CEE 262A"
-    ]
-  ],
+  "ESS 363F": [],
   "ESS 400": [],
   "ESS 401": [],
   "ESS 801": [],
@@ -9577,7 +7670,11 @@
   "ETHICSOC 175W": [],
   "ETHICSOC 176": [],
   "ETHICSOC 178M": [],
-  "ETHICSOC 182": [],
+  "ETHICSOC 182": [
+    [
+      "CS 106A"
+    ]
+  ],
   "ETHICSOC 182M": [],
   "ETHICSOC 185M": [],
   "ETHICSOC 190": [],
@@ -9616,11 +7713,7 @@
   "FEMGEN 1B": [],
   "FEMGEN 5C": [],
   "FEMGEN 6W": [],
-  "FEMGEN 7W": [
-    [
-      "FEMGEN 6W"
-    ]
-  ],
+  "FEMGEN 7W": [],
   "FEMGEN 10SC": [],
   "FEMGEN 11": [],
   "FEMGEN 12D": [],
@@ -9807,11 +7900,7 @@
   "FEMGEN 255": [],
   "FEMGEN 255B": [],
   "FEMGEN 255M": [],
-  "FEMGEN 256": [
-    [
-      "HUMBIO 125"
-    ]
-  ],
+  "FEMGEN 256": [],
   "FEMGEN 257X": [],
   "FEMGEN 258X": [],
   "FEMGEN 260": [],
@@ -9842,12 +7931,7 @@
   "FEMGEN 307D": [],
   "FEMGEN 308": [],
   "FEMGEN 312F": [],
-  "FEMGEN 312G": [
-    [
-      "DLCL 312",
-      "FEMGEN 312F"
-    ]
-  ],
+  "FEMGEN 312G": [],
   "FEMGEN 313": [],
   "FEMGEN 314": [],
   "FEMGEN 314A": [],
@@ -9878,31 +7962,11 @@
   "FEMGEN 466A": [],
   "FEMGEN 477": [],
   "FILILANG 1": [],
-  "FILILANG 2": [
-    [
-      "FILILANG 1"
-    ]
-  ],
-  "FILILANG 3": [
-    [
-      "FILILANG 2"
-    ]
-  ],
-  "FILILANG 21": [
-    [
-      "FILILANG 3"
-    ]
-  ],
-  "FILILANG 22": [
-    [
-      "FILILANG 21"
-    ]
-  ],
-  "FILILANG 23": [
-    [
-      "FILILANG 22"
-    ]
-  ],
+  "FILILANG 2": [],
+  "FILILANG 3": [],
+  "FILILANG 21": [],
+  "FILILANG 22": [],
+  "FILILANG 23": [],
   "FILILANG 395": [],
   "FILMEDIA 4": [],
   "FILMEDIA 4S": [],
@@ -9917,11 +7981,7 @@
   "FILMEDIA 100A": [],
   "FILMEDIA 100B": [],
   "FILMEDIA 101": [],
-  "FILMEDIA 102": [
-    [
-      "FILMEDIA 4"
-    ]
-  ],
+  "FILMEDIA 102": [],
   "FILMEDIA 107N": [],
   "FILMEDIA 110N": [],
   "FILMEDIA 112": [],
@@ -9964,11 +8024,7 @@
   "FILMEDIA 299": [],
   "FILMEDIA 300A": [],
   "FILMEDIA 301": [],
-  "FILMEDIA 302": [
-    [
-      "FILMEDIA 4"
-    ]
-  ],
+  "FILMEDIA 302": [],
   "FILMEDIA 306": [],
   "FILMEDIA 307": [],
   "FILMEDIA 314": [],
@@ -10201,33 +8257,15 @@
   "FRENLANG 1": [],
   "FRENLANG 1A": [],
   "FRENLANG 2": [],
-  "FRENLANG 2A": [
-    [
-      "FRENLANG 1A"
-    ]
-  ],
-  "FRENLANG 3": [
-    [
-      "FRENLANG 2"
-    ]
-  ],
+  "FRENLANG 2A": [],
+  "FRENLANG 3": [],
   "FRENLANG 10SC": [],
   "FRENLANG 15": [],
-  "FRENLANG 21C": [
-    [
-      "FRENLANG 2A",
-      "FRENLANG 3"
-    ]
-  ],
+  "FRENLANG 21C": [],
   "FRENLANG 22C": [],
   "FRENLANG 23C": [],
   "FRENLANG 30": [],
-  "FRENLANG 120": [
-    [
-      "FRENLANG 22C",
-      "FRENLANG 23C"
-    ]
-  ],
+  "FRENLANG 120": [],
   "FRENLANG 124": [],
   "FRENLANG 199": [],
   "FRENLANG 250": [],
@@ -10254,26 +8292,11 @@
   "GENE 207": [],
   "GENE 208": [],
   "GENE 211": [],
-  "GENE 212": [
-    [
-      "GENE 214",
-      "GENE 215",
-      "GENE 217",
-      "GENE 260"
-    ]
-  ],
+  "GENE 212": [],
   "GENE 213": [],
-  "GENE 214": [
-    [
-      "CS 106B"
-    ]
-  ],
+  "GENE 214": [],
   "GENE 215": [],
-  "GENE 217": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "GENE 217": [],
   "GENE 219": [],
   "GENE 220": [],
   "GENE 222": [],
@@ -10287,23 +8310,12 @@
   "GENE 232": [],
   "GENE 234": [],
   "GENE 235": [],
-  "GENE 236": [
-    [
-      "CS 109"
-    ],
-    [
-      "CS 229"
-    ]
-  ],
+  "GENE 236": [],
   "GENE 237": [],
   "GENE 240": [],
   "GENE 242": [],
   "GENE 246": [],
-  "GENE 247": [
-    [
-      "BIO 82"
-    ]
-  ],
+  "GENE 247": [],
   "GENE 260": [],
   "GENE 268": [],
   "GENE 271": [],
@@ -10355,28 +8367,15 @@
   "GEOPHYS 120": [],
   "GEOPHYS 124": [],
   "GEOPHYS 126": [],
-  "GEOPHYS 128": [
-    [
-      "CME 100",
-      "MATH 51"
-    ]
-  ],
+  "GEOPHYS 128": [],
   "GEOPHYS 130": [],
-  "GEOPHYS 133": [
-    [
-      "MATH 51"
-    ]
-  ],
+  "GEOPHYS 133": [],
   "GEOPHYS 139": [],
   "GEOPHYS 141": [],
   "GEOPHYS 145": [],
   "GEOPHYS 148": [],
   "GEOPHYS 150": [],
-  "GEOPHYS 162": [
-    [
-      "CME 100"
-    ]
-  ],
+  "GEOPHYS 162": [],
   "GEOPHYS 162A": [],
   "GEOPHYS 165": [],
   "GEOPHYS 181": [],
@@ -10400,32 +8399,12 @@
   "GEOPHYS 219": [],
   "GEOPHYS 220": [],
   "GEOPHYS 226": [],
-  "GEOPHYS 228": [
-    [
-      "CME 100",
-      "MATH 51"
-    ]
-  ],
+  "GEOPHYS 228": [],
   "GEOPHYS 229": [],
   "GEOPHYS 230": [],
   "GEOPHYS 231": [],
-  "GEOPHYS 233": [
-    [
-      "MATH 51"
-    ]
-  ],
-  "GEOPHYS 234": [
-    [
-      "ESS 246A"
-    ],
-    [
-      "ESS 363F"
-    ],
-    [
-      "GEOPHYS 238",
-      "ME 347"
-    ]
-  ],
+  "GEOPHYS 233": [],
+  "GEOPHYS 234": [],
   "GEOPHYS 236": [],
   "GEOPHYS 238": [],
   "GEOPHYS 239": [],
@@ -10437,42 +8416,19 @@
   "GEOPHYS 250": [],
   "GEOPHYS 254": [],
   "GEOPHYS 255": [],
-  "GEOPHYS 258J": [
-    [
-      "EE 102A"
-    ],
-    [
-      "EE 178"
-    ]
-  ],
-  "GEOPHYS 259": [
-    [
-      "CME 100"
-    ]
-  ],
+  "GEOPHYS 258J": [],
+  "GEOPHYS 259": [],
   "GEOPHYS 260G": [],
   "GEOPHYS 262": [],
   "GEOPHYS 265": [],
   "GEOPHYS 274": [],
   "GEOPHYS 280": [],
-  "GEOPHYS 281": [
-    [
-      "MATH 51"
-    ]
-  ],
-  "GEOPHYS 287": [
-    [
-      "GEOPHYS 130"
-    ]
-  ],
+  "GEOPHYS 281": [],
+  "GEOPHYS 287": [],
   "GEOPHYS 288": [],
   "GEOPHYS 288A": [],
   "GEOPHYS 288B": [],
-  "GEOPHYS 289": [
-    [
-      "CEE 203"
-    ]
-  ],
+  "GEOPHYS 289": [],
   "GEOPHYS 300": [],
   "GEOPHYS 304": [],
   "GEOPHYS 308": [],
@@ -10499,20 +8455,7 @@
   "GEP 106": [],
   "GEP 115": [],
   "GEP 130": [],
-  "GEP 135": [
-    [
-      "CS 129"
-    ],
-    [
-      "HUMBIO 88"
-    ],
-    [
-      "POLISCI 150C"
-    ],
-    [
-      "STATS 60"
-    ]
-  ],
+  "GEP 135": [],
   "GEP 160": [],
   "GEP 198": [],
   "GEP 199": [],
@@ -10521,20 +8464,7 @@
   "GEP 229": [],
   "GEP 230": [],
   "GEP 233": [],
-  "GEP 235": [
-    [
-      "CS 129"
-    ],
-    [
-      "HUMBIO 88"
-    ],
-    [
-      "POLISCI 150C"
-    ],
-    [
-      "STATS 60"
-    ]
-  ],
+  "GEP 235": [],
   "GEP 248": [],
   "GEP 253": [],
   "GEP 268": [],
@@ -10554,11 +8484,7 @@
   "GERLANG 1": [],
   "GERLANG 1A": [],
   "GERLANG 2": [],
-  "GERLANG 2A": [
-    [
-      "GERLANG 1A"
-    ]
-  ],
+  "GERLANG 2A": [],
   "GERLANG 3": [],
   "GERLANG 21": [],
   "GERLANG 22": [],
@@ -10576,16 +8502,8 @@
   "GERMAN 113": [],
   "GERMAN 114": [],
   "GERMAN 116": [],
-  "GERMAN 120A": [
-    [
-      "GERLANG 3"
-    ]
-  ],
-  "GERMAN 120B": [
-    [
-      "GERLANG 3"
-    ]
-  ],
+  "GERMAN 120A": [],
+  "GERMAN 120B": [],
   "GERMAN 122": [],
   "GERMAN 124": [],
   "GERMAN 125": [],
@@ -10749,46 +8667,14 @@
   "GLOBAL 275": [],
   "GLOBAL 391": [],
   "GREELANG 1": [],
-  "GREELANG 2": [
-    [
-      "GREELANG 1"
-    ]
-  ],
-  "GREELANG 3": [
-    [
-      "GREELANG 2"
-    ]
-  ],
-  "GREELANG 21": [
-    [
-      "GREELANG 3"
-    ]
-  ],
-  "GREELANG 22": [
-    [
-      "GREELANG 21"
-    ]
-  ],
-  "GREELANG 23": [
-    [
-      "GREELANG 22"
-    ]
-  ],
-  "GREELANG 101": [
-    [
-      "GREELANG 23"
-    ]
-  ],
-  "GREELANG 102": [
-    [
-      "GREELANG 101"
-    ]
-  ],
-  "GREELANG 103": [
-    [
-      "GREELANG 102"
-    ]
-  ],
+  "GREELANG 2": [],
+  "GREELANG 3": [],
+  "GREELANG 21": [],
+  "GREELANG 22": [],
+  "GREELANG 23": [],
+  "GREELANG 101": [],
+  "GREELANG 102": [],
+  "GREELANG 103": [],
   "GREELANG 395": [],
   "GSBGEN 113N": [],
   "GSBGEN 208": [],
@@ -10890,11 +8776,7 @@
   "GSBGID 502": [],
   "GSBGID 503": [],
   "GSBGID 504": [],
-  "GSBGID 506": [
-    [
-      "ACCT 210"
-    ]
-  ],
+  "GSBGID 506": [],
   "GSBGID 508": [],
   "GSBGID 509": [],
   "GSBGID 512": [],
@@ -10903,104 +8785,32 @@
   "GSBGID 535": [],
   "GSBGID 575": [],
   "HAITLANG 1": [],
-  "HAITLANG 2": [
-    [
-      "HAITLANG 1"
-    ]
-  ],
-  "HAITLANG 3": [
-    [
-      "HAITLANG 2"
-    ]
-  ],
-  "HAITLANG 21": [
-    [
-      "HAITLANG 3"
-    ]
-  ],
-  "HAITLANG 22": [
-    [
-      "HAITLANG 21"
-    ]
-  ],
-  "HAITLANG 23": [
-    [
-      "HAITLANG 22"
-    ]
-  ],
+  "HAITLANG 2": [],
+  "HAITLANG 3": [],
+  "HAITLANG 21": [],
+  "HAITLANG 22": [],
+  "HAITLANG 23": [],
   "HAITLANG 395": [],
   "HAWALANG 1": [],
-  "HAWALANG 2": [
-    [
-      "HAWALANG 1"
-    ]
-  ],
-  "HAWALANG 3": [
-    [
-      "HAWALANG 2"
-    ]
-  ],
+  "HAWALANG 2": [],
+  "HAWALANG 3": [],
   "HAWALANG 395": [],
   "HEBRLANG 1": [],
-  "HEBRLANG 2": [
-    [
-      "HEBRLANG 2"
-    ]
-  ],
-  "HEBRLANG 3": [
-    [
-      "HEBRLANG 2"
-    ]
-  ],
+  "HEBRLANG 2": [],
+  "HEBRLANG 3": [],
   "HEBRLANG 21": [],
-  "HEBRLANG 22": [
-    [
-      "HEBRLANG 22"
-    ]
-  ],
-  "HEBRLANG 23": [
-    [
-      "HEBRLANG 22"
-    ]
-  ],
+  "HEBRLANG 22": [],
+  "HEBRLANG 23": [],
   "HEBRLANG 395": [],
   "HINDLANG 1": [],
-  "HINDLANG 2": [
-    [
-      "HINDLANG 1"
-    ]
-  ],
-  "HINDLANG 3": [
-    [
-      "HINDLANG 2"
-    ]
-  ],
-  "HINDLANG 21": [
-    [
-      "HINDLANG 3"
-    ]
-  ],
-  "HINDLANG 22": [
-    [
-      "HINDLANG 21"
-    ]
-  ],
-  "HINDLANG 23": [
-    [
-      "HINDLANG 22"
-    ]
-  ],
+  "HINDLANG 2": [],
+  "HINDLANG 3": [],
+  "HINDLANG 21": [],
+  "HINDLANG 22": [],
+  "HINDLANG 23": [],
   "HINDLANG 101": [],
-  "HINDLANG 102": [
-    [
-      "HINDLANG 101"
-    ]
-  ],
-  "HINDLANG 103": [
-    [
-      "HINDLANG 102"
-    ]
-  ],
+  "HINDLANG 102": [],
+  "HINDLANG 103": [],
   "HINDLANG 395": [],
   "HISTORY 1": [],
   "HISTORY 1A": [],
@@ -11021,11 +8831,7 @@
   "HISTORY 6W": [],
   "HISTORY 7Q": [],
   "HISTORY 7S": [],
-  "HISTORY 7W": [
-    [
-      "FEMGEN 6W"
-    ]
-  ],
+  "HISTORY 7W": [],
   "HISTORY 8N": [],
   "HISTORY 8S": [],
   "HISTORY 9N": [],
@@ -11741,11 +9547,7 @@
   "HISTORY 399W": [],
   "HISTORY 399Y": [],
   "HISTORY 401A": [],
-  "HISTORY 401B": [
-    [
-      "HISTORY 401A"
-    ]
-  ],
+  "HISTORY 401B": [],
   "HISTORY 402B": [],
   "HISTORY 402D": [],
   "HISTORY 403A": [],
@@ -11753,28 +9555,12 @@
   "HISTORY 424A": [],
   "HISTORY 424B": [],
   "HISTORY 425A": [],
-  "HISTORY 425B": [
-    [
-      "HISTORY 425A"
-    ]
-  ],
-  "HISTORY 430": [
-    [
-      "HISTORY 402B"
-    ]
-  ],
+  "HISTORY 425B": [],
+  "HISTORY 430": [],
   "HISTORY 432A": [],
-  "HISTORY 432B": [
-    [
-      "HISTORY 432A"
-    ]
-  ],
+  "HISTORY 432B": [],
   "HISTORY 433A": [],
-  "HISTORY 433B": [
-    [
-      "HISTORY 433A"
-    ]
-  ],
+  "HISTORY 433B": [],
   "HISTORY 435A": [],
   "HISTORY 435B": [],
   "HISTORY 435C": [],
@@ -11786,34 +9572,18 @@
   "HISTORY 443D": [],
   "HISTORY 444F": [],
   "HISTORY 445A": [],
-  "HISTORY 445B": [
-    [
-      "HISTORY 445A"
-    ]
-  ],
+  "HISTORY 445B": [],
   "HISTORY 446A": [],
-  "HISTORY 446B": [
-    [
-      "HISTORY 446A"
-    ]
-  ],
+  "HISTORY 446B": [],
   "HISTORY 448A": [],
   "HISTORY 448B": [],
   "HISTORY 449A": [],
   "HISTORY 449B": [],
   "HISTORY 452A": [],
-  "HISTORY 452B": [
-    [
-      "HISTORY 452A"
-    ]
-  ],
+  "HISTORY 452B": [],
   "HISTORY 460": [],
   "HISTORY 468A": [],
-  "HISTORY 468B": [
-    [
-      "HISTORY 468A"
-    ]
-  ],
+  "HISTORY 468B": [],
   "HISTORY 473A": [],
   "HISTORY 481": [],
   "HISTORY 486A": [],
@@ -11823,63 +9593,23 @@
   "HISTORY 495A": [],
   "HISTORY 495B": [],
   "HISTORY 496A": [],
-  "HISTORY 496B": [
-    [
-      "HISTORY 496A"
-    ]
-  ],
+  "HISTORY 496B": [],
   "HISTORY 498C": [],
-  "HISTORY 498D": [
-    [
-      "HISTORY 498C"
-    ]
-  ],
+  "HISTORY 498D": [],
   "HISTORY 499X": [],
   "HISTORY 802": [],
   "HITTLANG 1": [],
   "HITTLANG 2": [],
   "HITTLANG 3": [],
   "HNGRLANG 1": [],
-  "HNGRLANG 2": [
-    [
-      "HNGRLANG 1"
-    ]
-  ],
-  "HNGRLANG 3": [
-    [
-      "HNGRLANG 2"
-    ]
-  ],
-  "HNGRLANG 21": [
-    [
-      "HNGRLANG 3"
-    ]
-  ],
-  "HNGRLANG 22": [
-    [
-      "HNGRLANG 21"
-    ]
-  ],
-  "HNGRLANG 23": [
-    [
-      "HNGRLANG 22"
-    ]
-  ],
-  "HNGRLANG 101": [
-    [
-      "HNGRLANG 23"
-    ]
-  ],
-  "HNGRLANG 102": [
-    [
-      "HNGRLANG 101"
-    ]
-  ],
-  "HNGRLANG 103": [
-    [
-      "HNGRLANG 102"
-    ]
-  ],
+  "HNGRLANG 2": [],
+  "HNGRLANG 3": [],
+  "HNGRLANG 21": [],
+  "HNGRLANG 22": [],
+  "HNGRLANG 23": [],
+  "HNGRLANG 101": [],
+  "HNGRLANG 102": [],
+  "HNGRLANG 103": [],
   "HNGRLANG 211": [],
   "HNGRLANG 212": [],
   "HNGRLANG 213": [],
@@ -11916,28 +9646,14 @@
   "HRP 218": [],
   "HRP 221": [],
   "HRP 224": [],
-  "HRP 227": [
-    [
-      "ECON 50",
-      "ECON 102B"
-    ]
-  ],
+  "HRP 227": [],
   "HRP 237": [],
   "HRP 243A": [],
   "HRP 249": [],
   "HRP 252": [],
   "HRP 255": [],
-  "HRP 256": [
-    [
-      "ECON 50",
-      "ECON 102A"
-    ]
-  ],
-  "HRP 263": [
-    [
-      "HRP 392"
-    ]
-  ],
+  "HRP 256": [],
+  "HRP 263": [],
   "HRP 276": [],
   "HRP 285": [],
   "HRP 291": [],
@@ -11974,129 +9690,25 @@
   "HUMBIO 88": [],
   "HUMBIO 89": [],
   "HUMBIO 112": [],
-  "HUMBIO 113": [
-    [
-      "HUMBIO 2A"
-    ],
-    [
-      "BIO 81"
-    ]
-  ],
-  "HUMBIO 113S": [
-    [
-      "HUMBIO 2A"
-    ],
-    [
-      "HUMBIO 3A"
-    ],
-    [
-      "HUMBIO 4A"
-    ]
-  ],
+  "HUMBIO 113": [],
+  "HUMBIO 113S": [],
   "HUMBIO 114": [],
-  "HUMBIO 122": [
-    [
-      "HUMBIO 122"
-    ]
-  ],
-  "HUMBIO 122A": [
-    [
-      "HUMBIO 122A"
-    ]
-  ],
+  "HUMBIO 122": [],
+  "HUMBIO 122A": [],
   "HUMBIO 122E": [],
   "HUMBIO 122H": [],
   "HUMBIO 122M": [],
   "HUMBIO 123G": [],
   "HUMBIO 124": [],
   "HUMBIO 124C": [],
-  "HUMBIO 125": [
-    [
-      "HUMBIO 125"
-    ]
-  ],
-  "HUMBIO 127": [
-    [
-      "HUMBIO 2A"
-    ],
-    [
-      "HUMBIO 2B"
-    ],
-    [
-      "HUMBIO 3A"
-    ],
-    [
-      "HUMBIO 3B"
-    ],
-    [
-      "HUMBIO 4A"
-    ],
-    [
-      "HUMBIO 4B"
-    ]
-  ],
-  "HUMBIO 130": [
-    [
-      "HUMBIO 2A"
-    ],
-    [
-      "HUMBIO 2B"
-    ],
-    [
-      "HUMBIO 3A"
-    ],
-    [
-      "HUMBIO 3B"
-    ],
-    [
-      "HUMBIO 4A"
-    ],
-    [
-      "HUMBIO 4B",
-      "BIO 82"
-    ]
-  ],
-  "HUMBIO 131": [
-    [
-      "HUMBIO 2A",
-      "HUMBIO 2B",
-      "HUMBIO 3A",
-      "HUMBIO 3B",
-      "HUMBIO 4A",
-      "HUMBIO 4B",
-      "BIO 82"
-    ]
-  ],
-  "HUMBIO 132": [
-    [
-      "HUMBIO 2A"
-    ],
-    [
-      "HUMBIO 3A"
-    ],
-    [
-      "HUMBIO 4A",
-      "BIO 83"
-    ],
-    [
-      "BIO 84"
-    ],
-    [
-      "BIO 86"
-    ]
-  ],
-  "HUMBIO 133": [
-    [
-      "HUMBIO 3A",
-      "HUMBIO 4A"
-    ]
-  ],
+  "HUMBIO 125": [],
+  "HUMBIO 127": [],
+  "HUMBIO 130": [],
+  "HUMBIO 131": [],
+  "HUMBIO 132": [],
+  "HUMBIO 133": [],
   "HUMBIO 134": [],
-  "HUMBIO 135": [
-    [
-      "HUMBIO 4A"
-    ]
-  ],
+  "HUMBIO 135": [],
   "HUMBIO 139S": [],
   "HUMBIO 140": [],
   "HUMBIO 142": [],
@@ -12106,35 +9718,15 @@
   "HUMBIO 146": [],
   "HUMBIO 149": [],
   "HUMBIO 149L": [],
-  "HUMBIO 151R": [
-    [
-      "HUMBIO 2A",
-      "HUMBIO 3A",
-      "BIO 82",
-      "BIO 83"
-    ]
-  ],
+  "HUMBIO 151R": [],
   "HUMBIO 154B": [],
   "HUMBIO 154C": [],
   "HUMBIO 156": [],
   "HUMBIO 159": [],
   "HUMBIO 160": [],
-  "HUMBIO 161": [
-    [
-      "HUMBIO 161"
-    ]
-  ],
-  "HUMBIO 163": [
-    [
-      "HUMBIO 4A"
-    ]
-  ],
-  "HUMBIO 164": [
-    [
-      "BIO 82",
-      "BIO 84"
-    ]
-  ],
+  "HUMBIO 161": [],
+  "HUMBIO 163": [],
+  "HUMBIO 164": [],
   "HUMBIO 166": [],
   "HUMBIO 171E": [],
   "HUMBIO 172": [],
@@ -12150,11 +9742,7 @@
   "HUMBIO 192S": [],
   "HUMBIO 192W": [],
   "HUMBIO 193": [],
-  "HUMBIO 194": [
-    [
-      "HUMBIO 193"
-    ]
-  ],
+  "HUMBIO 194": [],
   "HUMBIO 198": [],
   "HUMBIO 199": [],
   "HUMCORE 13": [],
@@ -12176,11 +9764,7 @@
   "HUMCORE 139": [],
   "HUMNTIES 175": [],
   "HUMRTS 6W": [],
-  "HUMRTS 7W": [
-    [
-      "FEMGEN 6W"
-    ]
-  ],
+  "HUMRTS 7W": [],
   "HUMRTS 101": [],
   "HUMRTS 102": [],
   "HUMRTS 103": [],
@@ -12210,31 +9794,11 @@
   "HUMSCI 2": [],
   "HUMSCI 326": [],
   "IGBOLANG 1": [],
-  "IGBOLANG 2": [
-    [
-      "IGBOLANG 1"
-    ]
-  ],
-  "IGBOLANG 3": [
-    [
-      "IGBOLANG 2"
-    ]
-  ],
-  "IGBOLANG 21": [
-    [
-      "IGBOLANG 3"
-    ]
-  ],
-  "IGBOLANG 22": [
-    [
-      "IGBOLANG 21"
-    ]
-  ],
-  "IGBOLANG 23": [
-    [
-      "IGBOLANG 22"
-    ]
-  ],
+  "IGBOLANG 2": [],
+  "IGBOLANG 3": [],
+  "IGBOLANG 21": [],
+  "IGBOLANG 22": [],
+  "IGBOLANG 23": [],
   "IGBOLANG 395": [],
   "IIS 198": [],
   "IIS 199": [],
@@ -12361,17 +9925,9 @@
   "ILAC 680": [],
   "ILAC 802": [],
   "IMMUNOL 199": [],
-  "IMMUNOL 200": [
-    [
-      "BIO 83"
-    ]
-  ],
+  "IMMUNOL 200": [],
   "IMMUNOL 201": [],
-  "IMMUNOL 202": [
-    [
-      "IMMUNOL 201"
-    ]
-  ],
+  "IMMUNOL 202": [],
   "IMMUNOL 203": [],
   "IMMUNOL 205": [],
   "IMMUNOL 206": [],
@@ -12379,17 +9935,9 @@
   "IMMUNOL 209": [],
   "IMMUNOL 210": [],
   "IMMUNOL 223": [],
-  "IMMUNOL 258": [
-    [
-      "MED 255"
-    ]
-  ],
+  "IMMUNOL 258": [],
   "IMMUNOL 275": [],
-  "IMMUNOL 280": [
-    [
-      "IMMUNOL 205"
-    ]
-  ],
+  "IMMUNOL 280": [],
   "IMMUNOL 290": [],
   "IMMUNOL 299": [],
   "IMMUNOL 305": [],
@@ -12415,16 +9963,8 @@
   "INDE 218": [],
   "INDE 221": [],
   "INDE 222A": [],
-  "INDE 222B": [
-    [
-      "INDE 221"
-    ]
-  ],
-  "INDE 223A": [
-    [
-      "INDE 221"
-    ]
-  ],
+  "INDE 222B": [],
+  "INDE 223A": [],
   "INDE 223B": [],
   "INDE 224": [],
   "INDE 225": [],
@@ -12463,18 +10003,9 @@
   "INDOLANG 3": [],
   "INDOLANG 395": [],
   "INTLPOL 200": [],
-  "INTLPOL 203": [
-    [
-      "ECON 1"
-    ]
-  ],
+  "INTLPOL 203": [],
   "INTLPOL 204A": [],
-  "INTLPOL 204B": [
-    [
-      "ECON 102B",
-      "PUBLPOL 303D"
-    ]
-  ],
+  "INTLPOL 204B": [],
   "INTLPOL 207": [],
   "INTLPOL 207B": [],
   "INTLPOL 211": [],
@@ -12651,19 +10182,11 @@
   "INTNLREL 191": [],
   "INTNLREL 192": [],
   "INTNLREL 193A": [],
-  "INTNLREL 193B": [
-    [
-      "INTNLREL 193A"
-    ]
-  ],
+  "INTNLREL 193B": [],
   "INTNLREL 197": [],
   "INTNLREL 198": [],
   "INTNLREL 200A": [],
-  "INTNLREL 200B": [
-    [
-      "INTNLREL 200A"
-    ]
-  ],
+  "INTNLREL 200B": [],
   "INTNLREL 200C": [],
   "INTNLREL 246A": [],
   "INTNLREL 247": [],
@@ -12768,47 +10291,12 @@
   "ITALIC 101": [],
   "ITALLANG 1": [],
   "ITALLANG 1A": [],
-  "ITALLANG 2": [
-    [
-      "ITALLANG 1"
-    ],
-    [
-      "OSPFLOR 1F"
-    ]
-  ],
-  "ITALLANG 2A": [
-    [
-      "OSPFLOR 1A"
-    ]
-  ],
-  "ITALLANG 3": [
-    [
-      "ITALLANG 2",
-      "OSPFLOR 2F"
-    ]
-  ],
-  "ITALLANG 20": [
-    [
-      "ITALLANG 2A"
-    ],
-    [
-      "ITALLANG 3"
-    ]
-  ],
-  "ITALLANG 21A": [
-    [
-      "ITALLANG 2A"
-    ],
-    [
-      "ITALLANG 3"
-    ]
-  ],
-  "ITALLANG 22A": [
-    [
-      "ITALLANG 21A",
-      "OSPFLOR 21F"
-    ]
-  ],
+  "ITALLANG 2": [],
+  "ITALLANG 2A": [],
+  "ITALLANG 3": [],
+  "ITALLANG 20": [],
+  "ITALLANG 21A": [],
+  "ITALLANG 22A": [],
   "ITALLANG 99": [],
   "ITALLANG 115": [],
   "ITALLANG 250": [],
@@ -12839,11 +10327,7 @@
   "JAPAN 223": [],
   "JAPAN 225": [],
   "JAPAN 226": [],
-  "JAPAN 235": [
-    [
-      "JAPANLNG 103"
-    ]
-  ],
+  "JAPAN 235": [],
   "JAPAN 238": [],
   "JAPAN 239": [],
   "JAPAN 241": [],
@@ -12851,21 +10335,13 @@
   "JAPAN 251B": [],
   "JAPAN 264": [],
   "JAPAN 265": [],
-  "JAPAN 279": [
-    [
-      "JAPANLNG 103"
-    ]
-  ],
+  "JAPAN 279": [],
   "JAPAN 288": [],
   "JAPAN 291": [],
   "JAPAN 292": [],
   "JAPAN 293": [],
   "JAPAN 294": [],
-  "JAPAN 296": [
-    [
-      "JAPANLNG 213"
-    ]
-  ],
+  "JAPAN 296": [],
   "JAPAN 297": [],
   "JAPAN 298": [],
   "JAPAN 317B": [],
@@ -12878,92 +10354,28 @@
   "JAPAN 396D": [],
   "JAPANLNG 1": [],
   "JAPANLNG 1A": [],
-  "JAPANLNG 2": [
-    [
-      "JAPANLNG 1"
-    ]
-  ],
-  "JAPANLNG 3": [
-    [
-      "JAPANLNG 2"
-    ]
-  ],
-  "JAPANLNG 11A": [
-    [
-      "JAPANLNG 3"
-    ]
-  ],
-  "JAPANLNG 11B": [
-    [
-      "JAPANLNG 11A"
-    ]
-  ],
-  "JAPANLNG 11C": [
-    [
-      "JAPANLNG 11B"
-    ]
-  ],
+  "JAPANLNG 2": [],
+  "JAPANLNG 3": [],
+  "JAPANLNG 11A": [],
+  "JAPANLNG 11B": [],
+  "JAPANLNG 11C": [],
   "JAPANLNG 15": [],
-  "JAPANLNG 21": [
-    [
-      "JAPANLNG 3"
-    ]
-  ],
-  "JAPANLNG 22": [
-    [
-      "JAPANLNG 21"
-    ]
-  ],
-  "JAPANLNG 23": [
-    [
-      "JAPANLNG 22"
-    ]
-  ],
+  "JAPANLNG 21": [],
+  "JAPANLNG 22": [],
+  "JAPANLNG 23": [],
   "JAPANLNG 99": [],
-  "JAPANLNG 100": [
-    [
-      "JAPANLNG 2"
-    ]
-  ],
-  "JAPANLNG 101": [
-    [
-      "JAPANLNG 23"
-    ]
-  ],
-  "JAPANLNG 102": [
-    [
-      "JAPANLNG 101"
-    ]
-  ],
-  "JAPANLNG 103": [
-    [
-      "JAPANLNG 102"
-    ]
-  ],
+  "JAPANLNG 100": [],
+  "JAPANLNG 101": [],
+  "JAPANLNG 102": [],
+  "JAPANLNG 103": [],
   "JAPANLNG 105": [],
   "JAPANLNG 111A": [],
   "JAPANLNG 111B": [],
   "JAPANLNG 111C": [],
-  "JAPANLNG 200": [
-    [
-      "JAPANLNG 213"
-    ]
-  ],
-  "JAPANLNG 211": [
-    [
-      "JAPANLNG 103"
-    ]
-  ],
-  "JAPANLNG 212": [
-    [
-      "JAPANLNG 211"
-    ]
-  ],
-  "JAPANLNG 213": [
-    [
-      "JAPANLNG 212"
-    ]
-  ],
+  "JAPANLNG 200": [],
+  "JAPANLNG 211": [],
+  "JAPANLNG 212": [],
+  "JAPANLNG 213": [],
   "JAPANLNG 394": [],
   "JAPANLNG 395": [],
   "JEWISHST 1": [],
@@ -12985,34 +10397,14 @@
   "JEWISHST 88": [],
   "JEWISHST 88S": [],
   "JEWISHST 101A": [],
-  "JEWISHST 101B": [
-    [
-      "HEBRLANG 2"
-    ]
-  ],
-  "JEWISHST 101C": [
-    [
-      "HEBRLANG 2"
-    ]
-  ],
+  "JEWISHST 101B": [],
+  "JEWISHST 101C": [],
   "JEWISHST 102A": [],
   "JEWISHST 102B": [],
-  "JEWISHST 102C": [
-    [
-      "HEBRLANG 22"
-    ]
-  ],
+  "JEWISHST 102C": [],
   "JEWISHST 104A": [],
-  "JEWISHST 104B": [
-    [
-      "YDDSHLNG 1"
-    ]
-  ],
-  "JEWISHST 104C": [
-    [
-      "YDDSHLNG 2"
-    ]
-  ],
+  "JEWISHST 104B": [],
+  "JEWISHST 104C": [],
   "JEWISHST 106": [],
   "JEWISHST 112": [],
   "JEWISHST 115": [],
@@ -13101,29 +10493,13 @@
   "JEWISHST 486A": [],
   "JEWISHST 486B": [],
   "KAZKHLNG 1": [],
-  "KAZKHLNG 2": [
-    [
-      "KAZKHLNG 1"
-    ]
-  ],
+  "KAZKHLNG 2": [],
   "KHMRLANG 1": [],
   "KHMRLANG 2": [],
   "KHMRLANG 3": [],
-  "KHMRLANG 21": [
-    [
-      "KHMRLANG 3"
-    ]
-  ],
-  "KHMRLANG 22": [
-    [
-      "KHMRLANG 21"
-    ]
-  ],
-  "KHMRLANG 23": [
-    [
-      "KHMRLANG 22"
-    ]
-  ],
+  "KHMRLANG 21": [],
+  "KHMRLANG 22": [],
+  "KHMRLANG 23": [],
   "KHMRLANG 395": [],
   "KINYLANG 3": [],
   "KOREA 24": [],
@@ -13143,104 +10519,29 @@
   "KOREA 350": [],
   "KORLANG 1": [],
   "KORLANG 1A": [],
-  "KORLANG 2": [
-    [
-      "KORLANG 1"
-    ]
-  ],
-  "KORLANG 2A": [
-    [
-      "KORLANG 1A"
-    ]
-  ],
+  "KORLANG 2": [],
+  "KORLANG 2A": [],
   "KORLANG 3": [],
-  "KORLANG 21": [
-    [
-      "KORLANG 3"
-    ]
-  ],
-  "KORLANG 22": [
-    [
-      "KORLANG 21"
-    ]
-  ],
+  "KORLANG 21": [],
+  "KORLANG 22": [],
   "KORLANG 22A": [],
-  "KORLANG 23": [
-    [
-      "KORLANG 22"
-    ]
-  ],
-  "KORLANG 40": [
-    [
-      "KORLANG 23"
-    ]
-  ],
-  "KORLANG 101": [
-    [
-      "KORLANG 23"
-    ],
-    [
-      "KORLANG 22A"
-    ]
-  ],
-  "KORLANG 102": [
-    [
-      "KORLANG 101"
-    ]
-  ],
-  "KORLANG 103": [
-    [
-      "KORLANG 102"
-    ]
-  ],
-  "KORLANG 130": [
-    [
-      "KORLANG 103"
-    ]
-  ],
+  "KORLANG 23": [],
+  "KORLANG 40": [],
+  "KORLANG 101": [],
+  "KORLANG 102": [],
+  "KORLANG 103": [],
+  "KORLANG 130": [],
   "KORLANG 200": [],
-  "KORLANG 211": [
-    [
-      "KORLANG 103"
-    ]
-  ],
-  "KORLANG 212": [
-    [
-      "KORLANG 103"
-    ]
-  ],
-  "KORLANG 213": [
-    [
-      "KORLANG 103"
-    ]
-  ],
+  "KORLANG 211": [],
+  "KORLANG 212": [],
+  "KORLANG 213": [],
   "KORLANG 395": [],
   "LAKOTLNG 1": [],
-  "LAKOTLNG 2": [
-    [
-      "LAKOTLNG 1"
-    ]
-  ],
-  "LAKOTLNG 3": [
-    [
-      "LAKOTLNG 2"
-    ]
-  ],
-  "LAKOTLNG 21": [
-    [
-      "LAKOTLNG 3"
-    ]
-  ],
-  "LAKOTLNG 22": [
-    [
-      "LAKOTLNG 21"
-    ]
-  ],
-  "LAKOTLNG 23": [
-    [
-      "LAKOTLNG 22"
-    ]
-  ],
+  "LAKOTLNG 2": [],
+  "LAKOTLNG 3": [],
+  "LAKOTLNG 21": [],
+  "LAKOTLNG 22": [],
+  "LAKOTLNG 23": [],
   "LAKOTLNG 395": [],
   "LATINAM 177A": [],
   "LATINAM 197": [],
@@ -13389,11 +10690,7 @@
   "LAW 514": [],
   "LAW 539": [],
   "LAW 549": [],
-  "LAW 550": [
-    [
-      "LAW 383"
-    ]
-  ],
+  "LAW 550": [],
   "LAW 565": [],
   "LAW 576": [],
   "LAW 581": [],
@@ -13550,12 +10847,7 @@
   "LAW 1008": [],
   "LAW 1009": [],
   "LAW 1010": [],
-  "LAW 1011": [
-    [
-      "LAW 1009",
-      "LAW 1036"
-    ]
-  ],
+  "LAW 1011": [],
   "LAW 1012": [],
   "LAW 1013": [],
   "LAW 1013A": [],
@@ -13759,12 +11051,7 @@
   "LAW 4009": [],
   "LAW 4010": [],
   "LAW 4010A": [],
-  "LAW 4011": [
-    [
-      "LAW 4005",
-      "LAW 4010"
-    ]
-  ],
+  "LAW 4011": [],
   "LAW 4012": [],
   "LAW 4013": [],
   "LAW 4014": [],
@@ -13819,11 +11106,7 @@
   "LAW 5003": [],
   "LAW 5005": [],
   "LAW 5006": [],
-  "LAW 5007": [
-    [
-      "LAW 7821"
-    ]
-  ],
+  "LAW 5007": [],
   "LAW 5008": [],
   "LAW 5009": [],
   "LAW 5010": [],
@@ -13831,11 +11114,7 @@
   "LAW 5012": [],
   "LAW 5013": [],
   "LAW 5014": [],
-  "LAW 5015": [
-    [
-      "LAW 7821"
-    ]
-  ],
+  "LAW 5015": [],
   "LAW 5016": [],
   "LAW 5017": [],
   "LAW 5018": [],
@@ -14017,11 +11296,7 @@
   "LAW 7113": [],
   "LAW 7114": [],
   "LAW 7115": [],
-  "LAW 7116": [
-    [
-      "LAW 7026"
-    ]
-  ],
+  "LAW 7116": [],
   "LAW 7117": [],
   "LAW 7118": [],
   "LAW 7119": [],
@@ -14103,11 +11378,7 @@
   "LAW 7821": [],
   "LAW 7822": [],
   "LAW 7823": [],
-  "LAW 7824": [
-    [
-      "LAW 7821"
-    ]
-  ],
+  "LAW 7824": [],
   "LAW 7825": [],
   "LAW 7826": [],
   "LAW 7827": [],
@@ -14127,11 +11398,7 @@
   "LAW 7847": [],
   "LAW 7848": [],
   "LAW 7849": [],
-  "LAW 7850": [
-    [
-      "LAW 4005"
-    ]
-  ],
+  "LAW 7850": [],
   "LAW 7851": [],
   "LAW 7853": [],
   "LAW 7854": [],
@@ -14172,109 +11439,30 @@
   "LINGUIST 107": [],
   "LINGUIST 108": [],
   "LINGUIST 110": [],
-  "LINGUIST 116A": [
-    [
-      "LINGUIST 1"
-    ],
-    [
-      "LINGUIST 20N"
-    ],
-    [
-      "LINGUIST 110"
-    ],
-    [
-      "LINGUIST 121A"
-    ],
-    [
-      "LINGUIST 121B"
-    ],
-    [
-      "LINGUIST 130A"
-    ],
-    [
-      "LINGUIST 130B"
-    ]
-  ],
+  "LINGUIST 116A": [],
   "LINGUIST 120A": [],
   "LINGUIST 120B": [],
-  "LINGUIST 121A": [
-    [
-      "LINGUIST 121B"
-    ]
-  ],
-  "LINGUIST 121B": [
-    [
-      "LINGUIST 121A"
-    ]
-  ],
+  "LINGUIST 121A": [],
+  "LINGUIST 121B": [],
   "LINGUIST 130A": [],
   "LINGUIST 130B": [],
   "LINGUIST 132": [],
   "LINGUIST 134A": [],
-  "LINGUIST 142B": [
-    [
-      "LINGUIST 1"
-    ],
-    [
-      "LINGUIST 105"
-    ],
-    [
-      "LINGUIST 110"
-    ],
-    [
-      "LINGUIST 121A",
-      "LINGUIST 121B"
-    ],
-    [
-      "LINGUIST 145"
-    ]
-  ],
+  "LINGUIST 142B": [],
   "LINGUIST 145": [],
   "LINGUIST 150": [],
   "LINGUIST 150E": [],
   "LINGUIST 154": [],
   "LINGUIST 155F": [],
   "LINGUIST 156": [],
-  "LINGUIST 157": [
-    [
-      "LINGUIST 105"
-    ],
-    [
-      "LINGUIST 110"
-    ]
-  ],
-  "LINGUIST 160": [
-    [
-      "LINGUIST 1"
-    ]
-  ],
+  "LINGUIST 157": [],
+  "LINGUIST 160": [],
   "LINGUIST 165A": [],
   "LINGUIST 167": [],
-  "LINGUIST 168": [
-    [
-      "LINGUIST 110"
-    ],
-    [
-      "LINGUIST 121A"
-    ],
-    [
-      "LINGUIST 121B"
-    ],
-    [
-      "LINGUIST 130A"
-    ],
-    [
-      "LINGUIST 130B"
-    ]
-  ],
+  "LINGUIST 168": [],
   "LINGUIST 173": [],
   "LINGUIST 180": [],
-  "LINGUIST 188": [
-    [
-      "CS 224N",
-      "CS 224S"
-    ]
-  ],
+  "LINGUIST 188": [],
   "LINGUIST 192": [],
   "LINGUIST 195A": [],
   "LINGUIST 196": [],
@@ -14292,12 +11480,7 @@
   "LINGUIST 210B": [],
   "LINGUIST 210L": [],
   "LINGUIST 212": [],
-  "LINGUIST 215": [
-    [
-      "LINGUIST 210A",
-      "LINGUIST 110"
-    ]
-  ],
+  "LINGUIST 215": [],
   "LINGUIST 216": [],
   "LINGUIST 217": [],
   "LINGUIST 220": [],
@@ -14308,63 +11491,19 @@
   "LINGUIST 225S": [],
   "LINGUIST 230A": [],
   "LINGUIST 230B": [],
-  "LINGUIST 230C": [
-    [
-      "LINGUIST 230B"
-    ]
-  ],
-  "LINGUIST 231A": [
-    [
-      "LINGUIST 130A"
-    ],
-    [
-      "LINGUIST 130B"
-    ]
-  ],
-  "LINGUIST 232A": [
-    [
-      "LINGUIST 130A"
-    ],
-    [
-      "LINGUIST 130B"
-    ]
-  ],
-  "LINGUIST 232B": [
-    [
-      "LINGUIST 222A",
-      "LINGUIST 232A"
-    ]
-  ],
+  "LINGUIST 230C": [],
+  "LINGUIST 231A": [],
+  "LINGUIST 232A": [],
+  "LINGUIST 232B": [],
   "LINGUIST 234": [],
   "LINGUIST 236": [],
   "LINGUIST 236S": [],
   "LINGUIST 238B": [],
   "LINGUIST 241L": [],
-  "LINGUIST 242B": [
-    [
-      "LINGUIST 1"
-    ],
-    [
-      "LINGUIST 105"
-    ],
-    [
-      "LINGUIST 110"
-    ],
-    [
-      "LINGUIST 121A",
-      "LINGUIST 121B"
-    ],
-    [
-      "LINGUIST 145"
-    ]
-  ],
+  "LINGUIST 242B": [],
   "LINGUIST 245A": [],
   "LINGUIST 245B": [],
-  "LINGUIST 247": [
-    [
-      "LINGUIST 145"
-    ]
-  ],
+  "LINGUIST 247": [],
   "LINGUIST 247L": [],
   "LINGUIST 247N": [],
   "LINGUIST 247R": [],
@@ -14374,92 +11513,27 @@
   "LINGUIST 251F": [],
   "LINGUIST 253": [],
   "LINGUIST 254": [],
-  "LINGUIST 255C": [
-    [
-      "LINGUIST 1"
-    ],
-    [
-      "LINGUIST 150"
-    ],
-    [
-      "LINGUIST 105"
-    ]
-  ],
+  "LINGUIST 255C": [],
   "LINGUIST 255E": [],
   "LINGUIST 255F": [],
-  "LINGUIST 255J": [
-    [
-      "LINGUIST 250"
-    ],
-    [
-      "LINGUIST 258"
-    ],
-    [
-      "LINGUIST 255F"
-    ],
-    [
-      "LINGUIST 257"
-    ],
-    [
-      "LINGUIST 234"
-    ]
-  ],
-  "LINGUIST 255K": [
-    [
-      "LINGUIST 134A",
-      "LINGUIST 258"
-    ]
-  ],
-  "LINGUIST 255L": [
-    [
-      "LINGUIST 258"
-    ]
-  ],
+  "LINGUIST 255J": [],
+  "LINGUIST 255K": [],
+  "LINGUIST 255L": [],
   "LINGUIST 255N": [],
   "LINGUIST 256": [],
-  "LINGUIST 257": [
-    [
-      "LINGUIST 105"
-    ],
-    [
-      "LINGUIST 110"
-    ]
-  ],
-  "LINGUIST 257L": [
-    [
-      "LINGUIST 250"
-    ],
-    [
-      "LINGUIST 258"
-    ],
-    [
-      "LINGUIST 258A"
-    ]
-  ],
+  "LINGUIST 257": [],
+  "LINGUIST 257L": [],
   "LINGUIST 258": [],
   "LINGUIST 258A": [],
   "LINGUIST 259A": [],
   "LINGUIST 259L": [],
   "LINGUIST 267": [],
   "LINGUIST 272": [],
-  "LINGUIST 272A": [
-    [
-      "LINGUIST 222A",
-      "LINGUIST 210A"
-    ]
-  ],
+  "LINGUIST 272A": [],
   "LINGUIST 272C": [],
   "LINGUIST 274A": [],
-  "LINGUIST 274B": [
-    [
-      "LINGUIST 274A"
-    ]
-  ],
-  "LINGUIST 274L": [
-    [
-      "LINGUIST 274A"
-    ]
-  ],
+  "LINGUIST 274B": [],
+  "LINGUIST 274L": [],
   "LINGUIST 276E": [],
   "LINGUIST 277A": [],
   "LINGUIST 278": [],
@@ -14467,17 +11541,8 @@
   "LINGUIST 281A": [],
   "LINGUIST 284": [],
   "LINGUIST 285": [],
-  "LINGUIST 287": [
-    [
-      "CS 224N"
-    ]
-  ],
-  "LINGUIST 288": [
-    [
-      "CS 224N",
-      "CS 224S"
-    ]
-  ],
+  "LINGUIST 287": [],
+  "LINGUIST 288": [],
   "LINGUIST 289L": [],
   "LINGUIST 292A": [],
   "LINGUIST 294": [],
@@ -14520,14 +11585,15 @@
   "MATH 51ACE": [],
   "MATH 52": [
     [
+      "MATH 21",
       "MATH 51"
     ]
   ],
   "MATH 52ACE": [],
   "MATH 53": [
     [
-      "MATH 52",
-      "CME 100"
+      "MATH 21",
+      "MATH 51"
     ]
   ],
   "MATH 53ACE": [],
@@ -14562,8 +11628,8 @@
   "MATH 101": [],
   "MATH 104": [
     [
-      "MATH 53",
-      "CME 100"
+      "MATH 51",
+      "MATH 53"
     ]
   ],
   "MATH 106": [],
@@ -14573,24 +11639,26 @@
   "MATH 110": [],
   "MATH 113": [
     [
-      "MATH 52"
+      "MATH 51"
     ]
   ],
   "MATH 115": [
     [
-      "MATH 113"
+      "MATH 51",
+      "MATH 56"
     ]
   ],
   "MATH 116": [
     [
-      "MATH 51"
+      "MATH 51",
+      "MATH 61CM"
     ],
     [
       "MATH 52",
-      "MATH 171"
+      "MATH 62CM"
     ],
     [
-      "MATH 61CM",
+      "MATH 171",
       "MATH 62CM"
     ]
   ],
@@ -14601,7 +11669,9 @@
   ],
   "MATH 118": [
     [
-      "MATH 51",
+      "MATH 51"
+    ],
+    [
       "MATH 53"
     ]
   ],
@@ -14612,13 +11682,17 @@
   ],
   "MATH 121": [
     [
-      "MATH 120",
+      "MATH 120"
+    ],
+    [
       "MATH 113"
     ]
   ],
   "MATH 122": [
     [
-      "MATH 113",
+      "MATH 113"
+    ],
+    [
       "MATH 120"
     ]
   ],
@@ -14630,7 +11704,7 @@
   "MATH 136": [
     [
       "MATH 151",
-      "MATH 117"
+      "STATS 117"
     ],
     [
       "MATH 115"
@@ -14645,7 +11719,10 @@
   "MATH 144": [
     [
       "MATH 61CM",
-      "MATH 113",
+      "MATH 113"
+    ],
+    [
+      "MATH 61CM",
       "MATH 171"
     ]
   ],
@@ -14659,10 +11736,11 @@
   "MATH 149": [],
   "MATH 151": [
     [
-      "MATH 61CM"
+      "MATH 61CM",
+      "MATH 52"
     ],
     [
-      "MATH 52",
+      "MATH 61CM",
       "MATH 56",
       "MATH 115"
     ]
@@ -14672,11 +11750,11 @@
   "MATH 155": [],
   "MATH 158": [
     [
-      "MATH 53",
-      "MATH 151"
+      "MATH 53"
     ],
     [
-      "MATH 117"
+      "MATH 151",
+      "STATS 117"
     ]
   ],
   "MATH 159": [
@@ -14684,7 +11762,7 @@
       "MATH 151"
     ],
     [
-      "MATH 117"
+      "STATS 117"
     ]
   ],
   "MATH 161": [
@@ -14717,11 +11795,7 @@
   "MATH 199": [],
   "MATH 205A": [],
   "MATH 205B": [],
-  "MATH 205C": [
-    [
-      "MATH 205B"
-    ]
-  ],
+  "MATH 205C": [],
   "MATH 210A": [],
   "MATH 210B": [],
   "MATH 210C": [
@@ -14731,12 +11805,7 @@
   ],
   "MATH 215A": [],
   "MATH 215B": [],
-  "MATH 215C": [
-    [
-      "MATH 147",
-      "MATH 215B"
-    ]
-  ],
+  "MATH 215C": [],
   "MATH 216A": [],
   "MATH 216B": [],
   "MATH 216C": [],
@@ -14753,15 +11822,10 @@
   ],
   "MATH 230C": [
     [
-      "STATS 310B",
-      "MATH 230B"
+      "STATS 310B"
     ]
   ],
-  "MATH 231": [
-    [
-      "MATH 116"
-    ]
-  ],
+  "MATH 231": [],
   "MATH 232": [],
   "MATH 233A": [],
   "MATH 233B": [],
@@ -14787,9 +11851,6 @@
     [
       "MATH 106",
       "MATH 116"
-    ],
-    [
-      "MATH 143"
     ],
     [
       "MATH 147"
@@ -14821,7 +11882,14 @@
   "MATH 275A": [],
   "MATH 275B": [],
   "MATH 275C": [],
-  "MATH 276": [],
+  "MATH 276": [
+    [
+      "EE 364A"
+    ],
+    [
+      "STATS 310A"
+    ]
+  ],
   "MATH 282A": [],
   "MATH 282B": [],
   "MATH 282C": [],
@@ -14850,7 +11918,18 @@
   "ME 1": [],
   "ME 14AX": [],
   "ME 30": [],
-  "ME 70": [],
+  "ME 70": [
+    [
+      "CME 102",
+      "MATH 53"
+    ],
+    [
+      "ENGR 14"
+    ],
+    [
+      "ME 30"
+    ]
+  ],
   "ME 80": [
     [
       "ENGR 14"
@@ -14862,8 +11941,31 @@
       "ENGR 14"
     ]
   ],
-  "ME 103": [],
-  "ME 104": [],
+  "ME 103": [
+    [
+      "ME 102"
+    ]
+  ],
+  "ME 104": [
+    [
+      "PHYSICS 41",
+      "PHYSICS 61",
+      "PHYSICS 41E"
+    ],
+    [
+      "ENGR 14"
+    ],
+    [
+      "ME 80"
+    ],
+    [
+      "ME 102"
+    ],
+    [
+      "ME 103",
+      "ME 203"
+    ]
+  ],
   "ME 106": [],
   "ME 108": [],
   "ME 123": [
@@ -14872,30 +11974,99 @@
     ],
     [
       "ME 131"
+    ],
+    [
+      "CS 106A",
+      "CS 106B"
     ]
   ],
   "ME 127": [],
-  "ME 128": [
+  "ME 128": [],
+  "ME 129": [],
+  "ME 131": [
     [
-      "ME 103"
+      "CME 102",
+      "MATH 53"
+    ],
+    [
+      "ME 30"
+    ],
+    [
+      "ME 70"
     ]
   ],
-  "ME 129": [],
-  "ME 131": [],
   "ME 132": [],
   "ME 133": [
     [
       "ME 70"
     ]
   ],
-  "ME 149": [],
-  "ME 152": [],
-  "ME 161": [],
-  "ME 170A": [],
-  "ME 170B": [],
+  "ME 149": [
+    [
+      "ME 70"
+    ],
+    [
+      "ME 80"
+    ],
+    [
+      "CME 102",
+      "MATH 53"
+    ]
+  ],
+  "ME 152": [
+    [
+      "ME 80",
+      "CEE 101A"
+    ]
+  ],
+  "ME 161": [
+    [
+      "CME 102",
+      "MATH 53"
+    ],
+    [
+      "PHYSICS 43",
+      "ENGR 40A",
+      "ENGR 40M"
+    ],
+    [
+      "ENGR 15"
+    ]
+  ],
+  "ME 170A": [
+    [
+      "ME 104"
+    ],
+    [
+      "ME 131"
+    ]
+  ],
+  "ME 170B": [
+    [
+      "ME 170A"
+    ]
+  ],
   "ME 170C": [],
-  "ME 172A": [],
-  "ME 172B": [],
+  "ME 172A": [
+    [
+      "ME 70"
+    ],
+    [
+      "ME 80"
+    ],
+    [
+      "ME 103"
+    ],
+    [
+      "ME 281",
+      "ME 283"
+    ]
+  ],
+  "ME 172B": [
+    [
+      "ME 172A"
+    ]
+  ],
   "ME 191": [],
   "ME 191H": [],
   "ME 195A": [],
@@ -14905,11 +12076,17 @@
   "ME 206A": [],
   "ME 206B": [],
   "ME 210": [],
-  "ME 213": [],
+  "ME 213": [
+    [
+      "ME 128",
+      "ME 318"
+    ]
+  ],
   "ME 214": [],
   "ME 217": [
     [
-      "ME 103"
+      "ME 103",
+      "ME 203"
     ]
   ],
   "ME 218A": [],
@@ -14936,7 +12113,11 @@
   "ME 227": [],
   "ME 228": [],
   "ME 228T": [],
-  "ME 233": [],
+  "ME 233": [
+    [
+      "ME 80"
+    ]
+  ],
   "ME 234": [],
   "ME 235": [],
   "ME 236": [],
@@ -14954,6 +12135,7 @@
   "ME 258": [],
   "ME 263": [
     [
+      "ME 103",
       "ME 203"
     ]
   ],
@@ -14972,6 +12154,9 @@
   ],
   "ME 274B": [
     [
+      "CS 106A"
+    ],
+    [
       "CME 100"
     ],
     [
@@ -14982,14 +12167,25 @@
   "ME 281": [],
   "ME 283": [],
   "ME 285": [],
-  "ME 286": [],
+  "ME 286": [
+    [
+      "ENGR 205"
+    ],
+    [
+      "EE 263"
+    ]
+  ],
   "ME 287": [],
   "ME 288": [],
   "ME 297": [],
   "ME 298": [],
   "ME 299A": [],
   "ME 299B": [],
-  "ME 300A": [],
+  "ME 300A": [
+    [
+      "MATH 51"
+    ]
+  ],
   "ME 300B": [
     [
       "CME 200",
@@ -15007,7 +12203,11 @@
     ]
   ],
   "ME 302B": [],
-  "ME 303": [],
+  "ME 303": [
+    [
+      "ME 80"
+    ]
+  ],
   "ME 305": [],
   "ME 306": [],
   "ME 308": [],
@@ -15017,19 +12217,20 @@
   "ME 311": [],
   "ME 313": [],
   "ME 314": [],
-  "ME 318": [],
+  "ME 318": [
+    [
+      "ME 103"
+    ]
+  ],
   "ME 320": [],
   "ME 321": [],
   "ME 323": [],
-  "ME 324": [
+  "ME 324": [],
+  "ME 325": [
     [
-      "ME 103"
-    ],
-    [
-      "ME 203"
+      "ME 318"
     ]
   ],
-  "ME 325": [],
   "ME 326": [],
   "ME 327": [],
   "ME 329": [],
@@ -15037,10 +12238,19 @@
   "ME 331B": [],
   "ME 334": [
     [
+      "ENGR 15"
+    ],
+    [
       "CME 104"
     ],
     [
       "ENGR 154"
+    ],
+    [
+      "MATH 113"
+    ],
+    [
+      "CME 302"
     ]
   ],
   "ME 335A": [],
@@ -15078,11 +12288,7 @@
   "ME 361": [],
   "ME 362A": [],
   "ME 362B": [],
-  "ME 362C": [
-    [
-      "ME 362A"
-    ]
-  ],
+  "ME 362C": [],
   "ME 363": [
     [
       "ME 362A"
@@ -15159,11 +12365,7 @@
   ],
   "ME 451A": [],
   "ME 451B": [],
-  "ME 451C": [
-    [
-      "ME 361"
-    ]
-  ],
+  "ME 451C": [],
   "ME 451D": [
     [
       "CHEMENG 120A"
@@ -15189,11 +12391,7 @@
   ],
   "ME 463": [],
   "ME 469": [],
-  "ME 470": [
-    [
-      "CME 106"
-    ]
-  ],
+  "ME 470": [],
   "ME 471": [],
   "ME 485": [
     [
@@ -15226,11 +12424,7 @@
   "MGTECON 601": [],
   "MGTECON 602": [],
   "MGTECON 603": [],
-  "MGTECON 604": [
-    [
-      "MGTECON 603"
-    ]
-  ],
+  "MGTECON 604": [],
   "MGTECON 605": [],
   "MGTECON 606": [],
   "MGTECON 607": [],
@@ -15260,11 +12454,7 @@
   "MI 175": [],
   "MI 198": [],
   "MI 199": [],
-  "MI 200": [
-    [
-      "BIO 83"
-    ]
-  ],
+  "MI 200": [],
   "MI 210": [],
   "MI 215": [],
   "MI 221": [],
@@ -15404,11 +12594,7 @@
   "MUSIC 17PZ": [],
   "MUSIC 18A": [],
   "MUSIC 18AX": [],
-  "MUSIC 18B": [
-    [
-      "MUSIC 18A"
-    ]
-  ],
+  "MUSIC 18B": [],
   "MUSIC 18N": [],
   "MUSIC 19A": [],
   "MUSIC 19AX": [],
@@ -15418,27 +12604,11 @@
   "MUSIC 20AX": [],
   "MUSIC 20AY": [],
   "MUSIC 20AZ": [],
-  "MUSIC 20B": [
-    [
-      "MUSIC 20A"
-    ]
-  ],
-  "MUSIC 20C": [
-    [
-      "MUSIC 20A"
-    ]
-  ],
+  "MUSIC 20B": [],
+  "MUSIC 20C": [],
   "MUSIC 21": [],
-  "MUSIC 22": [
-    [
-      "MUSIC 21"
-    ]
-  ],
-  "MUSIC 23": [
-    [
-      "MUSIC 22"
-    ]
-  ],
+  "MUSIC 22": [],
+  "MUSIC 23": [],
   "MUSIC 24A": [],
   "MUSIC 24B": [],
   "MUSIC 24C": [],
@@ -15452,55 +12622,25 @@
   "MUSIC 35N": [],
   "MUSIC 39B": [],
   "MUSIC 40": [],
-  "MUSIC 41": [
-    [
-      "MUSIC 22"
-    ]
-  ],
+  "MUSIC 41": [],
   "MUSIC 42": [],
   "MUSIC 60": [],
   "MUSIC 65A": [],
   "MUSIC 65AS": [],
   "MUSIC 65AZ": [],
-  "MUSIC 65B": [
-    [
-      "MUSIC 65A"
-    ]
-  ],
+  "MUSIC 65B": [],
   "MUSIC 65BS": [],
-  "MUSIC 65BZ": [
-    [
-      "MUSIC 65A"
-    ]
-  ],
-  "MUSIC 72A": [
-    [
-      "MUSIC 12C"
-    ]
-  ],
-  "MUSIC 72AZ": [
-    [
-      "MUSIC 12C"
-    ]
-  ],
+  "MUSIC 65BZ": [],
+  "MUSIC 72A": [],
+  "MUSIC 72AZ": [],
   "MUSIC 72C": [],
   "MUSIC 72CZ": [],
   "MUSIC 72D": [],
   "MUSIC 72DZ": [],
   "MUSIC 72G": [],
   "MUSIC 72GZ": [],
-  "MUSIC 73": [
-    [
-      "MUSIC 65B",
-      "MUSIC 65BZ"
-    ]
-  ],
-  "MUSIC 73Z": [
-    [
-      "MUSIC 65B",
-      "MUSIC 65BZ"
-    ]
-  ],
+  "MUSIC 73": [],
+  "MUSIC 73Z": [],
   "MUSIC 74C": [],
   "MUSIC 74CZ": [],
   "MUSIC 74D": [],
@@ -15514,86 +12654,37 @@
   "MUSIC 77Z": [],
   "MUSIC 80A": [],
   "MUSIC 100": [],
-  "MUSIC 101": [
-    [
-      "MUSIC 192A"
-    ]
-  ],
+  "MUSIC 101": [],
   "MUSIC 105": [],
   "MUSIC 106": [],
-  "MUSIC 106B": [
-    [
-      "MUSIC 106"
-    ]
-  ],
+  "MUSIC 106B": [],
   "MUSIC 107": [],
   "MUSIC 110": [],
   "MUSIC 112": [],
-  "MUSIC 113": [
-    [
-      "MUSIC 19A"
-    ]
-  ],
+  "MUSIC 113": [],
   "MUSIC 113N": [],
   "MUSIC 113P": [],
-  "MUSIC 115": [
-    [
-      "MUSIC 20A"
-    ]
-  ],
+  "MUSIC 115": [],
   "MUSIC 116J": [],
   "MUSIC 118": [],
   "MUSIC 120D": [],
   "MUSIC 120DZ": [],
   "MUSIC 120E": [],
   "MUSIC 120EZ": [],
-  "MUSIC 122A": [
-    [
-      "MUSIC 23",
-      "MUSIC 24C"
-    ]
-  ],
-  "MUSIC 122B": [
-    [
-      "MUSIC 23",
-      "MUSIC 24C"
-    ]
-  ],
-  "MUSIC 122C": [
-    [
-      "MUSIC 23"
-    ],
-    [
-      "MUSIC 24C"
-    ]
-  ],
-  "MUSIC 122D": [
-    [
-      "MUSIC 23"
-    ]
-  ],
+  "MUSIC 122A": [],
+  "MUSIC 122B": [],
+  "MUSIC 122C": [],
+  "MUSIC 122D": [],
   "MUSIC 122M": [],
   "MUSIC 123A": [],
   "MUSIC 123B": [],
-  "MUSIC 123C": [
-    [
-      "MUSIC 19A"
-    ]
-  ],
-  "MUSIC 123D": [
-    [
-      "MUSIC 127A"
-    ]
-  ],
+  "MUSIC 123C": [],
+  "MUSIC 123D": [],
   "MUSIC 123G": [],
   "MUSIC 123I": [],
   "MUSIC 124A": [],
   "MUSIC 125": [],
-  "MUSIC 126A": [
-    [
-      "MUSIC 21"
-    ]
-  ],
+  "MUSIC 126A": [],
   "MUSIC 127A": [],
   "MUSIC 127B": [],
   "MUSIC 127C": [],
@@ -15605,31 +12696,13 @@
   "MUSIC 130C": [],
   "MUSIC 131A": [],
   "MUSIC 132": [],
-  "MUSIC 136": [
-    [
-      "MUSIC 130B"
-    ],
-    [
-      "MUSIC 130C"
-    ]
-  ],
+  "MUSIC 136": [],
   "MUSIC 139": [],
   "MUSIC 140L": [],
   "MUSIC 143F": [],
-  "MUSIC 143J": [
-    [
-      "MUSIC 22"
-    ],
-    [
-      "MUSIC 41"
-    ]
-  ],
+  "MUSIC 143J": [],
   "MUSIC 144J": [],
-  "MUSIC 144N": [
-    [
-      "MUSIC 22"
-    ]
-  ],
+  "MUSIC 144N": [],
   "MUSIC 146N": [],
   "MUSIC 146S": [],
   "MUSIC 147J": [],
@@ -15648,20 +12721,7 @@
   "MUSIC 153E": [],
   "MUSIC 154A": [],
   "MUSIC 154G": [],
-  "MUSIC 155": [
-    [
-      "FILMPROD 114"
-    ],
-    [
-      "ARTSTUDI 131"
-    ],
-    [
-      "MUSIC 167"
-    ],
-    [
-      "MUSIC 177"
-    ]
-  ],
+  "MUSIC 155": [],
   "MUSIC 155A": [],
   "MUSIC 155AZ": [],
   "MUSIC 156": [],
@@ -15766,11 +12826,7 @@
   "MUSIC 184CZ": [],
   "MUSIC 184F": [],
   "MUSIC 186E": [],
-  "MUSIC 192A": [
-    [
-      "MUSIC 101"
-    ]
-  ],
+  "MUSIC 192A": [],
   "MUSIC 192C": [],
   "MUSIC 192F": [],
   "MUSIC 197": [],
@@ -15786,59 +12842,23 @@
   "MUSIC 214": [],
   "MUSIC 216J": [],
   "MUSIC 220A": [],
-  "MUSIC 220B": [
-    [
-      "MUSIC 220A"
-    ]
-  ],
-  "MUSIC 220C": [
-    [
-      "MUSIC 220B"
-    ]
-  ],
-  "MUSIC 220D": [
-    [
-      "MUSIC 220C"
-    ]
-  ],
+  "MUSIC 220B": [],
+  "MUSIC 220C": [],
+  "MUSIC 220D": [],
   "MUSIC 222": [],
   "MUSIC 222A": [],
   "MUSIC 222B": [],
   "MUSIC 223A": [],
   "MUSIC 223Q": [],
-  "MUSIC 228": [
-    [
-      "MUSIC 228X"
-    ]
-  ],
+  "MUSIC 228": [],
   "MUSIC 228X": [],
-  "MUSIC 230": [
-    [
-      "MUSIC 130B",
-      "MUSIC 136"
-    ]
-  ],
-  "MUSIC 231": [
-    [
-      "MUSIC 130C"
-    ]
-  ],
+  "MUSIC 230": [],
+  "MUSIC 231": [],
   "MUSIC 236": [],
   "MUSIC 243F": [],
-  "MUSIC 243J": [
-    [
-      "MUSIC 22"
-    ],
-    [
-      "MUSIC 41"
-    ]
-  ],
+  "MUSIC 243J": [],
   "MUSIC 244J": [],
-  "MUSIC 244N": [
-    [
-      "MUSIC 22"
-    ]
-  ],
+  "MUSIC 244N": [],
   "MUSIC 246N": [],
   "MUSIC 247J": [],
   "MUSIC 250A": [],
@@ -15846,25 +12866,8 @@
   "MUSIC 250D": [],
   "MUSIC 251": [],
   "MUSIC 253": [],
-  "MUSIC 254": [
-    [
-      "MUSIC 253"
-    ]
-  ],
-  "MUSIC 255": [
-    [
-      "FILMPROD 114"
-    ],
-    [
-      "ARTSTUDI 131"
-    ],
-    [
-      "MUSIC 167"
-    ],
-    [
-      "MUSIC 177"
-    ]
-  ],
+  "MUSIC 254": [],
+  "MUSIC 255": [],
   "MUSIC 255A": [],
   "MUSIC 256A": [],
   "MUSIC 257": [],
@@ -15922,11 +12925,7 @@
   "MUSIC 320": [],
   "MUSIC 320C": [],
   "MUSIC 320D": [],
-  "MUSIC 320E": [
-    [
-      "MUSIC 320"
-    ]
-  ],
+  "MUSIC 320E": [],
   "MUSIC 321": [],
   "MUSIC 322": [],
   "MUSIC 323": [],
@@ -15943,58 +12942,21 @@
   "MUSIC 405": [],
   "MUSIC 422": [],
   "MUSIC 423": [],
-  "MUSIC 424": [
-    [
-      "MUSIC 320",
-      "EE 261"
-    ]
-  ],
+  "MUSIC 424": [],
   "MUSIC 424L": [],
   "MUSIC 428": [],
   "MUSIC 451A": [],
-  "MUSIC 451B": [
-    [
-      "MUSIC 451A"
-    ]
-  ],
-  "MUSIC 451C": [
-    [
-      "MUSIC 451A"
-    ]
-  ],
+  "MUSIC 451B": [],
+  "MUSIC 451C": [],
   "MUSIC 801": [],
   "MUSIC 802": [],
   "NAHUALNG 1": [],
-  "NAHUALNG 2": [
-    [
-      "NAHUALNG 1"
-    ]
-  ],
-  "NAHUALNG 3": [
-    [
-      "NAHUALNG 2"
-    ]
-  ],
-  "NAHUALNG 21": [
-    [
-      "NAHUALNG 3"
-    ]
-  ],
-  "NAHUALNG 22": [
-    [
-      "NAHUALNG 21"
-    ]
-  ],
-  "NAHUALNG 23": [
-    [
-      "NAHUALNG 22"
-    ]
-  ],
-  "NAHUALNG 101": [
-    [
-      "NAHUALNG 23"
-    ]
-  ],
+  "NAHUALNG 2": [],
+  "NAHUALNG 3": [],
+  "NAHUALNG 21": [],
+  "NAHUALNG 22": [],
+  "NAHUALNG 23": [],
+  "NAHUALNG 101": [],
   "NAHUALNG 102": [],
   "NAHUALNG 103": [],
   "NAHUALNG 395": [],
@@ -16041,12 +13003,7 @@
   "NBIO 201": [],
   "NBIO 206": [],
   "NBIO 215": [],
-  "NBIO 220": [
-    [
-      "STATS 202",
-      "CS 229"
-    ]
-  ],
+  "NBIO 220": [],
   "NBIO 225": [],
   "NBIO 227": [],
   "NBIO 228": [],
@@ -16112,16 +13069,8 @@
   "NSUR 399": [],
   "NSUR 802": [],
   "NVJOLANG 1": [],
-  "NVJOLANG 2": [
-    [
-      "NVJOLANG 1"
-    ]
-  ],
-  "NVJOLANG 3": [
-    [
-      "NVJOLANG 2"
-    ]
-  ],
+  "NVJOLANG 2": [],
+  "NVJOLANG 3": [],
   "NVJOLANG 21": [],
   "NVJOLANG 22": [],
   "NVJOLANG 23": [],
@@ -16231,16 +13180,8 @@
   "OCEANS 157H": [],
   "OCEANS 159H": [],
   "OCEANS 161H": [],
-  "OCEANS 162D": [
-    [
-      "PHYSICS 41"
-    ]
-  ],
-  "OCEANS 162F": [
-    [
-      "CEE 262A"
-    ]
-  ],
+  "OCEANS 162D": [],
+  "OCEANS 162F": [],
   "OCEANS 162H": [],
   "OCEANS 164H": [],
   "OCEANS 165": [],
@@ -16276,24 +13217,9 @@
   "OCEANS 259H": [],
   "OCEANS 261H": [],
   "OCEANS 262B": [],
-  "OCEANS 262C": [
-    [
-      "CEE 262A"
-    ],
-    [
-      "CME 206"
-    ]
-  ],
-  "OCEANS 262D": [
-    [
-      "PHYSICS 41"
-    ]
-  ],
-  "OCEANS 262F": [
-    [
-      "CEE 262A"
-    ]
-  ],
+  "OCEANS 262C": [],
+  "OCEANS 262D": [],
+  "OCEANS 262F": [],
   "OCEANS 262G": [],
   "OCEANS 262H": [],
   "OCEANS 264H": [],
@@ -16321,14 +13247,7 @@
   "OCEANS 323H": [],
   "OCEANS 330": [],
   "OCEANS 350H": [],
-  "OCEANS 363C": [
-    [
-      "CME 200"
-    ],
-    [
-      "CME 206"
-    ]
-  ],
+  "OCEANS 363C": [],
   "OCEANS 399": [],
   "OCEANS 801": [],
   "OCEANS 802": [],
@@ -16371,11 +13290,7 @@
   "OIT 664": [],
   "OIT 666": [],
   "OIT 668": [],
-  "OIT 676": [
-    [
-      "MATH 113"
-    ]
-  ],
+  "OIT 676": [],
   "OIT 677": [],
   "OIT 678": [],
   "OIT 691": [],
@@ -16469,19 +13384,8 @@
   "OSPBEIJ 199A": [],
   "OSPBEIJ 199B": [],
   "OSPBER 1Z": [],
-  "OSPBER 2Z": [
-    [
-      "GERLANG 1"
-    ],
-    [
-      "GERLANG 1A"
-    ]
-  ],
-  "OSPBER 3B": [
-    [
-      "GERLANG 2"
-    ]
-  ],
+  "OSPBER 2Z": [],
+  "OSPBER 3B": [],
   "OSPBER 8": [],
   "OSPBER 10": [],
   "OSPBER 11G": [],
@@ -16489,28 +13393,16 @@
   "OSPBER 14": [],
   "OSPBER 17": [],
   "OSPBER 19": [],
-  "OSPBER 21B": [
-    [
-      "GERLANG 3"
-    ]
-  ],
+  "OSPBER 21B": [],
   "OSPBER 22": [],
   "OSPBER 24": [],
-  "OSPBER 24B": [
-    [
-      "GERLANG 21"
-    ]
-  ],
+  "OSPBER 24B": [],
   "OSPBER 29": [],
   "OSPBER 30": [],
   "OSPBER 31": [],
   "OSPBER 33": [],
   "OSPBER 33B": [],
-  "OSPBER 40M": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "OSPBER 40M": [],
   "OSPBER 50M": [],
   "OSPBER 55": [],
   "OSPBER 60": [],
@@ -16537,11 +13429,7 @@
   "OSPBER 105": [],
   "OSPBER 106": [],
   "OSPBER 126X": [],
-  "OSPBER 174": [
-    [
-      "GERLANG 3"
-    ]
-  ],
+  "OSPBER 174": [],
   "OSPBER 198H": [],
   "OSPBER 199A": [],
   "OSPBER 199B": [],
@@ -16576,21 +13464,9 @@
   "OSPCPTWN 100S": [],
   "OSPFLOR 1A": [],
   "OSPFLOR 1F": [],
-  "OSPFLOR 2A": [
-    [
-      "ITALLANG 1A"
-    ]
-  ],
-  "OSPFLOR 2F": [
-    [
-      "ITALLANG 2"
-    ]
-  ],
-  "OSPFLOR 3F": [
-    [
-      "ITALLANG 2"
-    ]
-  ],
+  "OSPFLOR 2A": [],
+  "OSPFLOR 2F": [],
+  "OSPFLOR 3F": [],
   "OSPFLOR 11": [],
   "OSPFLOR 12": [],
   "OSPFLOR 13": [],
@@ -16600,12 +13476,7 @@
   "OSPFLOR 21": [],
   "OSPFLOR 21F": [],
   "OSPFLOR 22A": [],
-  "OSPFLOR 22F": [
-    [
-      "ITALLANG 21A",
-      "OSPFLOR 21F"
-    ]
-  ],
+  "OSPFLOR 22F": [],
   "OSPFLOR 25": [],
   "OSPFLOR 25F": [],
   "OSPFLOR 26": [],
@@ -16614,11 +13485,7 @@
   "OSPFLOR 29": [],
   "OSPFLOR 29F": [],
   "OSPFLOR 30F": [],
-  "OSPFLOR 31F": [
-    [
-      "ITALLANG 22A"
-    ]
-  ],
+  "OSPFLOR 31F": [],
   "OSPFLOR 33": [],
   "OSPFLOR 34F": [],
   "OSPFLOR 35F": [],
@@ -16831,32 +13698,15 @@
   "OSPKYOCT 179": [],
   "OSPKYOCT 199": [],
   "OSPKYOTO 1K": [],
-  "OSPKYOTO 2K": [
-    [
-      "JAPANLNG 1"
-    ]
-  ],
-  "OSPKYOTO 3K": [
-    [
-      "JAPANLNG 2",
-      "OSPKYOTO 2K"
-    ]
-  ],
+  "OSPKYOTO 2K": [],
+  "OSPKYOTO 3K": [],
   "OSPKYOTO 5B": [],
   "OSPKYOTO 9": [],
   "OSPKYOTO 13": [],
   "OSPKYOTO 16": [],
   "OSPKYOTO 19": [],
-  "OSPKYOTO 21K": [
-    [
-      "JAPANLNG 3"
-    ]
-  ],
-  "OSPKYOTO 23K": [
-    [
-      "JAPANLNG 22"
-    ]
-  ],
+  "OSPKYOTO 21K": [],
+  "OSPKYOTO 23K": [],
   "OSPKYOTO 25": [],
   "OSPKYOTO 28": [],
   "OSPKYOTO 33": [],
@@ -16870,36 +13720,16 @@
   "OSPKYOTO 79": [],
   "OSPKYOTO 88": [],
   "OSPKYOTO 92": [],
-  "OSPKYOTO 101K": [
-    [
-      "JAPANLNG 23"
-    ]
-  ],
-  "OSPKYOTO 103K": [
-    [
-      "JAPANLNG 102"
-    ]
-  ],
+  "OSPKYOTO 101K": [],
+  "OSPKYOTO 103K": [],
   "OSPKYOTO 210K": [],
   "OSPMADRD 8A": [],
   "OSPMADRD 8B": [],
   "OSPMADRD 8C": [],
   "OSPMADRD 10": [],
-  "OSPMADRD 11": [
-    [
-      "SPANLANG 102"
-    ]
-  ],
-  "OSPMADRD 12M": [
-    [
-      "OSPMADRD 11"
-    ]
-  ],
-  "OSPMADRD 13M": [
-    [
-      "OSPMADRD 11"
-    ]
-  ],
+  "OSPMADRD 11": [],
+  "OSPMADRD 12M": [],
+  "OSPMADRD 13M": [],
   "OSPMADRD 14": [],
   "OSPMADRD 15": [],
   "OSPMADRD 17": [],
@@ -16972,11 +13802,7 @@
   "OSPOXFRD 40": [],
   "OSPOXFRD 41": [],
   "OSPOXFRD 44": [],
-  "OSPOXFRD 45": [
-    [
-      "ECON 50"
-    ]
-  ],
+  "OSPOXFRD 45": [],
   "OSPOXFRD 46": [],
   "OSPOXFRD 48": [],
   "OSPOXFRD 49": [],
@@ -17058,11 +13884,7 @@
   "OSPOXFRD 199X": [],
   "OSPPARIS 1A": [],
   "OSPPARIS 2": [],
-  "OSPPARIS 2A": [
-    [
-      "OSPPARIS 1A"
-    ]
-  ],
+  "OSPPARIS 2A": [],
   "OSPPARIS 3": [],
   "OSPPARIS 10": [],
   "OSPPARIS 10A": [],
@@ -17081,20 +13903,8 @@
   "OSPPARIS 20": [],
   "OSPPARIS 20W": [],
   "OSPPARIS 21": [],
-  "OSPPARIS 22P": [
-    [
-      "FRENLANG 21C"
-    ]
-  ],
-  "OSPPARIS 23P": [
-    [
-      "FRENLANG 21C"
-    ],
-    [
-      "FRENLANG 22C",
-      "OSPPARIS 22P"
-    ]
-  ],
+  "OSPPARIS 22P": [],
+  "OSPPARIS 23P": [],
   "OSPPARIS 24": [],
   "OSPPARIS 25": [],
   "OSPPARIS 27": [],
@@ -17103,11 +13913,7 @@
   "OSPPARIS 36": [],
   "OSPPARIS 37": [],
   "OSPPARIS 40": [],
-  "OSPPARIS 40M": [
-    [
-      "CS 106A"
-    ]
-  ],
+  "OSPPARIS 40M": [],
   "OSPPARIS 41": [],
   "OSPPARIS 41E": [],
   "OSPPARIS 42": [],
@@ -17117,11 +13923,7 @@
   "OSPPARIS 50": [],
   "OSPPARIS 50M": [],
   "OSPPARIS 52": [],
-  "OSPPARIS 53": [
-    [
-      "PHYSICS 21"
-    ]
-  ],
+  "OSPPARIS 53": [],
   "OSPPARIS 54": [],
   "OSPPARIS 55P": [],
   "OSPPARIS 56": [],
@@ -17164,16 +13966,8 @@
   "OSPPARIS 199A": [],
   "OSPSANTG 1A": [],
   "OSPSANTG 1S": [],
-  "OSPSANTG 2A": [
-    [
-      "SPANLANG 1A"
-    ]
-  ],
-  "OSPSANTG 3S": [
-    [
-      "SPANLANG 1"
-    ]
-  ],
+  "OSPSANTG 2A": [],
+  "OSPSANTG 3S": [],
   "OSPSANTG 12S": [],
   "OSPSANTG 13S": [],
   "OSPSANTG 14": [],
@@ -17204,14 +13998,7 @@
   "OSPSANTG 89": [],
   "OSPSANTG 90": [],
   "OSPSANTG 100S": [],
-  "OSPSANTG 102S": [
-    [
-      "SPANLANG 13C"
-    ],
-    [
-      "OSPSANTG 13S"
-    ]
-  ],
+  "OSPSANTG 102S": [],
   "OSPSANTG 116X": [],
   "OSPSANTG 118X": [],
   "OSPSANTG 119X": [],
@@ -17241,80 +14028,31 @@
   "OUTDOOR 103": [],
   "OUTDOOR 105": [],
   "OUTDOOR 106": [],
-  "OUTDOOR 119": [
-    [
-      "OUTDOOR 106"
-    ]
-  ],
+  "OUTDOOR 119": [],
   "OUTDOOR 195": [],
   "OUTDOOR 199": [],
   "PAS 201": [],
-  "PAS 202": [
-    [
-      "PAS 201"
-    ]
-  ],
+  "PAS 202": [],
   "PAS 212": [],
   "PAS 213A": [],
   "PAS 213B": [],
-  "PAS 214": [
-    [
-      "PAS 213A",
-      "PAS 213B"
-    ]
-  ],
-  "PAS 215": [
-    [
-      "PAS 214"
-    ]
-  ],
+  "PAS 214": [],
+  "PAS 215": [],
   "PAS 222": [],
   "PAS 223": [],
-  "PAS 224": [
-    [
-      "PAS 223"
-    ]
-  ],
-  "PAS 225": [
-    [
-      "PAS 224"
-    ]
-  ],
+  "PAS 224": [],
+  "PAS 225": [],
   "PAS 255": [],
-  "PAS 256": [
-    [
-      "PAS 255"
-    ]
-  ],
+  "PAS 256": [],
   "PAS 257": [],
-  "PAS 258": [
-    [
-      "PAS 257"
-    ]
-  ],
+  "PAS 258": [],
   "PAS 275": [],
   "PAS 282": [],
   "PAS 291": [],
-  "PAS 292": [
-    [
-      "PAS 291"
-    ]
-  ],
-  "PAS 293": [
-    [
-      "PAS 292"
-    ]
-  ],
-  "PAS 294": [
-    [
-      "PAS 293"
-    ]
-  ],
-  "PAS 299": [
-    [
-      "PAS 214"
-    ]
-  ],
+  "PAS 292": [],
+  "PAS 293": [],
+  "PAS 294": [],
+  "PAS 299": [],
   "PAS 301": [],
   "PAS 302": [],
   "PAS 303": [],
@@ -17339,11 +14077,7 @@
   "PATH 151D": [],
   "PATH 199": [],
   "PATH 240": [],
-  "PATH 241": [
-    [
-      "PATH 240"
-    ]
-  ],
+  "PATH 241": [],
   "PATH 280": [],
   "PATH 299": [],
   "PATH 302A": [],
@@ -17352,59 +14086,18 @@
   "PATH 399": [],
   "PERSLANG 1": [],
   "PERSLANG 1A": [],
-  "PERSLANG 1B": [
-    [
-      "PERSLANG 1A"
-    ]
-  ],
-  "PERSLANG 2": [
-    [
-      "PERSLANG 1"
-    ]
-  ],
-  "PERSLANG 2A": [
-    [
-      "PERSLANG 1A"
-    ]
-  ],
-  "PERSLANG 3": [
-    [
-      "PERSLANG 2"
-    ]
-  ],
+  "PERSLANG 1B": [],
+  "PERSLANG 2": [],
+  "PERSLANG 2A": [],
+  "PERSLANG 3": [],
   "PERSLANG 11A": [],
   "PERSLANG 12A": [],
-  "PERSLANG 21": [
-    [
-      "PERSLANG 3",
-      "PERSLANG 2A"
-    ]
-  ],
-  "PERSLANG 22": [
-    [
-      "PERSLANG 21"
-    ]
-  ],
-  "PERSLANG 23": [
-    [
-      "PERSLANG 22"
-    ]
-  ],
-  "PERSLANG 101": [
-    [
-      "PERSLANG 23"
-    ]
-  ],
-  "PERSLANG 102": [
-    [
-      "PERSLANG 101"
-    ]
-  ],
-  "PERSLANG 103": [
-    [
-      "PERSLANG 102"
-    ]
-  ],
+  "PERSLANG 21": [],
+  "PERSLANG 22": [],
+  "PERSLANG 23": [],
+  "PERSLANG 101": [],
+  "PERSLANG 102": [],
+  "PERSLANG 103": [],
   "PERSLANG 395": [],
   "PHIL 1": [],
   "PHIL 2": [],
@@ -17446,29 +14139,16 @@
   "PHIL 60S": [],
   "PHIL 72": [],
   "PHIL 74A": [],
-  "PHIL 80": [
-    [
-      "SYMSYS 1",
-      "PHIL 99"
-    ]
-  ],
+  "PHIL 80": [],
   "PHIL 81": [],
   "PHIL 82": [],
-  "PHIL 86": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 86": [],
   "PHIL 99": [],
   "PHIL 100": [],
   "PHIL 102": [],
   "PHIL 104": [],
   "PHIL 106": [],
-  "PHIL 107B": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 107B": [],
   "PHIL 107C": [],
   "PHIL 108": [],
   "PHIL 108A": [],
@@ -17487,18 +14167,9 @@
   "PHIL 117": [],
   "PHIL 118": [],
   "PHIL 119": [],
-  "PHIL 124P": [
-    [
-      "PHIL 1"
-    ]
-  ],
+  "PHIL 124P": [],
   "PHIL 125": [],
-  "PHIL 127": [
-    [
-      "PHIL 125",
-      "PHIL 225"
-    ]
-  ],
+  "PHIL 127": [],
   "PHIL 128": [],
   "PHIL 131": [],
   "PHIL 132": [],
@@ -17512,55 +14183,19 @@
   "PHIL 141F": [],
   "PHIL 148": [],
   "PHIL 150": [],
-  "PHIL 151": [
-    [
-      "PHIL 150"
-    ]
-  ],
+  "PHIL 151": [],
   "PHIL 151D": [],
-  "PHIL 152": [
-    [
-      "PHIL 151",
-      "PHIL 251"
-    ]
-  ],
-  "PHIL 154": [
-    [
-      "PHIL 150",
-      "PHIL 151"
-    ]
-  ],
+  "PHIL 152": [],
+  "PHIL 154": [],
   "PHIL 155": [],
-  "PHIL 157": [
-    [
-      "PHIL 150"
-    ]
-  ],
+  "PHIL 157": [],
   "PHIL 158": [],
   "PHIL 160": [],
   "PHIL 161C": [],
   "PHIL 162": [],
-  "PHIL 164": [
-    [
-      "PHIL 60"
-    ],
-    [
-      "PHIL 80"
-    ],
-    [
-      "PHIL 150"
-    ],
-    [
-      "PHIL 180",
-      "PHIL 189"
-    ]
-  ],
+  "PHIL 164": [],
   "PHIL 165": [],
-  "PHIL 167D": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 167D": [],
   "PHIL 167E": [],
   "PHIL 170": [],
   "PHIL 170B": [],
@@ -17570,21 +14205,10 @@
   "PHIL 172B": [],
   "PHIL 173": [],
   "PHIL 173A": [],
-  "PHIL 173B": [
-    [
-      "PHIL 80"
-    ],
-    [
-      "PHIL 181"
-    ]
-  ],
+  "PHIL 173B": [],
   "PHIL 174": [],
   "PHIL 174L": [],
-  "PHIL 175": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 175": [],
   "PHIL 175W": [],
   "PHIL 176": [],
   "PHIL 176A": [],
@@ -17598,86 +14222,26 @@
   "PHIL 178M": [],
   "PHIL 179B": [],
   "PHIL 179R": [],
-  "PHIL 180": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 181": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 181A": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 180": [],
+  "PHIL 181": [],
+  "PHIL 181A": [],
   "PHIL 181B": [],
   "PHIL 181C": [],
   "PHIL 181E": [],
   "PHIL 182D": [],
-  "PHIL 182H": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 182H": [],
   "PHIL 182J": [],
-  "PHIL 184": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 184B": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 184D": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 184": [],
+  "PHIL 184B": [],
+  "PHIL 184D": [],
   "PHIL 184P": [],
-  "PHIL 185J": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 186": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 187": [
-    [
-      "PHIL 80",
-      "PHIL 100"
-    ]
-  ],
-  "PHIL 187B": [
-    [
-      "PHIL 80",
-      "PHIL 99"
-    ]
-  ],
+  "PHIL 185J": [],
+  "PHIL 186": [],
+  "PHIL 187": [],
+  "PHIL 187B": [],
   "PHIL 188A": [],
   "PHIL 188B": [],
-  "PHIL 189": [
-    [
-      "PHIL 60"
-    ],
-    [
-      "PHIL 80"
-    ],
-    [
-      "PHIL 150"
-    ],
-    [
-      "PHIL 180",
-      "PHIL 189"
-    ]
-  ],
+  "PHIL 189": [],
   "PHIL 193C": [],
   "PHIL 194A": [],
   "PHIL 194C": [],
@@ -17685,42 +14249,19 @@
   "PHIL 194E": [],
   "PHIL 194F": [],
   "PHIL 194G": [],
-  "PHIL 194H": [
-    [
-      "PHIL 80"
-    ],
-    [
-      "PHIL 150"
-    ],
-    [
-      "PHIL 180",
-      "PHIL 189"
-    ]
-  ],
+  "PHIL 194H": [],
   "PHIL 194J": [],
   "PHIL 194K": [],
   "PHIL 194P": [],
-  "PHIL 194T": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 194W": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 194T": [],
+  "PHIL 194W": [],
   "PHIL 194Y": [],
   "PHIL 196": [],
   "PHIL 197": [],
   "PHIL 199": [],
   "PHIL 204": [],
   "PHIL 206": [],
-  "PHIL 207B": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 207B": [],
   "PHIL 207C": [],
   "PHIL 208": [],
   "PHIL 208A": [],
@@ -17740,12 +14281,7 @@
   "PHIL 218": [],
   "PHIL 219": [],
   "PHIL 225": [],
-  "PHIL 227": [
-    [
-      "PHIL 125",
-      "PHIL 225"
-    ]
-  ],
+  "PHIL 227": [],
   "PHIL 228": [],
   "PHIL 231": [],
   "PHIL 232": [],
@@ -17760,55 +14296,19 @@
   "PHIL 241": [],
   "PHIL 241F": [],
   "PHIL 250": [],
-  "PHIL 251": [
-    [
-      "PHIL 150"
-    ]
-  ],
+  "PHIL 251": [],
   "PHIL 251D": [],
-  "PHIL 252": [
-    [
-      "PHIL 151",
-      "PHIL 251"
-    ]
-  ],
-  "PHIL 254": [
-    [
-      "PHIL 150",
-      "PHIL 151"
-    ]
-  ],
+  "PHIL 252": [],
+  "PHIL 254": [],
   "PHIL 255": [],
-  "PHIL 257": [
-    [
-      "PHIL 150"
-    ]
-  ],
+  "PHIL 257": [],
   "PHIL 258": [],
   "PHIL 260": [],
   "PHIL 261C": [],
   "PHIL 262": [],
-  "PHIL 264": [
-    [
-      "PHIL 60"
-    ],
-    [
-      "PHIL 80"
-    ],
-    [
-      "PHIL 150"
-    ],
-    [
-      "PHIL 180",
-      "PHIL 189"
-    ]
-  ],
+  "PHIL 264": [],
   "PHIL 265": [],
-  "PHIL 267D": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 267D": [],
   "PHIL 267E": [],
   "PHIL 270": [],
   "PHIL 270B": [],
@@ -17816,17 +14316,9 @@
   "PHIL 272B": [],
   "PHIL 273": [],
   "PHIL 273A": [],
-  "PHIL 273B": [
-    [
-      "PHIL 281"
-    ]
-  ],
+  "PHIL 273B": [],
   "PHIL 274": [],
-  "PHIL 275": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 275": [],
   "PHIL 275W": [],
   "PHIL 276": [],
   "PHIL 276A": [],
@@ -17838,74 +14330,22 @@
   "PHIL 278M": [],
   "PHIL 279B": [],
   "PHIL 279R": [],
-  "PHIL 280": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 281": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 281A": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 280": [],
+  "PHIL 281": [],
+  "PHIL 281A": [],
   "PHIL 281B": [],
   "PHIL 281C": [],
   "PHIL 281E": [],
   "PHIL 282D": [],
-  "PHIL 282H": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 284": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 284B": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "PHIL 282H": [],
+  "PHIL 284": [],
+  "PHIL 284B": [],
   "PHIL 284P": [],
-  "PHIL 286": [
-    [
-      "PHIL 80"
-    ]
-  ],
-  "PHIL 287": [
-    [
-      "PHIL 80",
-      "PHIL 100"
-    ]
-  ],
-  "PHIL 287B": [
-    [
-      "PHIL 80",
-      "PHIL 99"
-    ]
-  ],
+  "PHIL 286": [],
+  "PHIL 287": [],
+  "PHIL 287B": [],
   "PHIL 288A": [],
-  "PHIL 289": [
-    [
-      "PHIL 60"
-    ],
-    [
-      "PHIL 80"
-    ],
-    [
-      "PHIL 150"
-    ],
-    [
-      "PHIL 180",
-      "PHIL 189"
-    ]
-  ],
+  "PHIL 289": [],
   "PHIL 297C": [],
   "PHIL 298": [],
   "PHIL 300": [],
@@ -17922,11 +14362,7 @@
   "PHIL 319": [],
   "PHIL 322": [],
   "PHIL 325": [],
-  "PHIL 327": [
-    [
-      "PHIL 225"
-    ]
-  ],
+  "PHIL 327": [],
   "PHIL 331": [],
   "PHIL 331M": [],
   "PHIL 333": [],
@@ -17937,11 +14373,7 @@
   "PHIL 350": [],
   "PHIL 352": [],
   "PHIL 355": [],
-  "PHIL 359": [
-    [
-      "PHIL 151"
-    ]
-  ],
+  "PHIL 359": [],
   "PHIL 361": [],
   "PHIL 362": [],
   "PHIL 365": [],
@@ -17984,11 +14416,7 @@
   "PHIL 500": [],
   "PHIL 801": [],
   "PHIL 802": [],
-  "PHOTON 172": [
-    [
-      "MATSCI 143"
-    ]
-  ],
+  "PHOTON 172": [],
   "PHOTON 201": [],
   "PHOTON 205": [],
   "PHOTON 222": [],
@@ -17999,15 +14427,7 @@
   "PHOTON 325": [],
   "PHOTON 326": [],
   "PHOTON 329": [],
-  "PHOTON 345": [
-    [
-      "CME 104"
-    ],
-    [
-      "CHEMENG 110A",
-      "CHEM 171"
-    ]
-  ],
+  "PHOTON 345": [],
   "PHOTON 366": [],
   "PHOTON 384": [],
   "PHYSICS 11N": [],
@@ -18032,38 +14452,47 @@
   "PHYSICS 26": [],
   "PHYSICS 41": [
     [
-      "MATH 19",
+      "MATH 20",
       "MATH 41"
     ]
   ],
-  "PHYSICS 41E": [],
+  "PHYSICS 41E": [
+    [
+      "MATH 19"
+    ]
+  ],
   "PHYSICS 41S": [],
   "PHYSICS 42": [],
   "PHYSICS 43": [
     [
-      "PHYSICS 41"
+      "PHYSICS 41",
+      "PHYSICS 41E"
     ],
     [
-      "MATH 20",
-      "MATH 42"
+      "MATH 21",
+      "MATH 51",
+      "CME 100"
     ]
   ],
   "PHYSICS 43S": [],
   "PHYSICS 44": [],
   "PHYSICS 45": [
     [
-      "PHYSICS 43"
-    ]
-  ],
-  "PHYSICS 46": [
+      "PHYSICS 41",
+      "PHYSICS 41E"
+    ],
     [
-      "PHYSICS 43"
+      "MATH 21",
+      "MATH 51",
+      "CME 100"
     ]
   ],
+  "PHYSICS 46": [],
   "PHYSICS 59": [],
   "PHYSICS 61": [
     [
-      "PHYSICS 41"
+      "PHYSICS 41",
+      "PHYSICS 41E"
     ],
     [
       "MATH 21"
@@ -18079,15 +14508,9 @@
   "PHYSICS 104": [],
   "PHYSICS 106": [
     [
-      "PHYSICS 61"
-    ],
-    [
-      "PHYSICS 61L"
-    ],
-    [
-      "PHYSICS 71"
-    ],
-    [
+      "PHYSICS 61",
+      "PHYSICS 61L",
+      "PHYSICS 71",
       "PHYSICS 81"
     ],
     [
@@ -18108,8 +14531,7 @@
   "PHYSICS 111": [],
   "PHYSICS 112": [
     [
-      "MATH 53",
-      "PHYSICS 111"
+      "MATH 53"
     ]
   ],
   "PHYSICS 113": [],
@@ -18118,19 +14540,27 @@
       "PHYSICS 81"
     ],
     [
-      "MATH 52",
+      "MATH 52"
+    ],
+    [
       "MATH 53"
     ]
   ],
   "PHYSICS 121": [],
   "PHYSICS 130": [
     [
-      "PHYSICS 71",
-      "PHYSICS 81",
+      "PHYSICS 71"
+    ],
+    [
+      "PHYSICS 81"
+    ],
+    [
       "PHYSICS 111",
       "MATH 131P",
       "MATH 173",
-      "MATH 220A",
+      "MATH 220A"
+    ],
+    [
       "PHYSICS 120",
       "EE 142"
     ]
@@ -18142,11 +14572,7 @@
   ],
   "PHYSICS 134": [],
   "PHYSICS 152": [],
-  "PHYSICS 155": [
-    [
-      "PHYSICS 61"
-    ]
-  ],
+  "PHYSICS 155": [],
   "PHYSICS 160": [],
   "PHYSICS 161": [
     [
@@ -18157,7 +14583,9 @@
   "PHYSICS 170": [],
   "PHYSICS 171": [
     [
-      "PHYSICS 170",
+      "PHYSICS 170"
+    ],
+    [
       "PHYSICS 130",
       "EE 222"
     ]
@@ -18165,11 +14593,7 @@
   "PHYSICS 172": [],
   "PHYSICS 182": [],
   "PHYSICS 190": [],
-  "PHYSICS 191": [
-    [
-      "PHYSICS 120"
-    ]
-  ],
+  "PHYSICS 191": [],
   "PHYSICS 192": [],
   "PHYSICS 205": [],
   "PHYSICS 210": [],
@@ -18185,7 +14609,9 @@
   "PHYSICS 216": [],
   "PHYSICS 220": [
     [
-      "PHYSICS 121",
+      "PHYSICS 121"
+    ],
+    [
       "PHYSICS 210"
     ],
     [
@@ -18217,24 +14643,12 @@
   ],
   "PHYSICS 262": [],
   "PHYSICS 266": [],
-  "PHYSICS 269": [
-    [
-      "PHYSICS 121"
-    ],
-    [
-      "PHYSICS 131",
-      "PHYSICS 171"
-    ]
-  ],
+  "PHYSICS 269": [],
   "PHYSICS 276": [],
   "PHYSICS 282": [],
   "PHYSICS 290": [],
   "PHYSICS 291": [],
-  "PHYSICS 293": [
-    [
-      "PHYSICS 25"
-    ]
-  ],
+  "PHYSICS 293": [],
   "PHYSICS 294": [],
   "PHYSICS 295": [],
   "PHYSICS 301": [],
@@ -18289,92 +14703,24 @@
   "PHYSWELL 16": [],
   "PHYSWELL 17": [],
   "PHYSWELL 20": [],
-  "PHYSWELL 21": [
-    [
-      "PHYSWELL 20"
-    ]
-  ],
+  "PHYSWELL 21": [],
   "PHYSWELL 23": [],
-  "PHYSWELL 24": [
-    [
-      "PHYSWELL 23"
-    ]
-  ],
+  "PHYSWELL 24": [],
   "PHYSWELL 26": [],
-  "PHYSWELL 27": [
-    [
-      "PHYSWELL 26"
-    ]
-  ],
-  "PHYSWELL 28": [
-    [
-      "PHYSWELL 27"
-    ]
-  ],
-  "PHYSWELL 29": [
-    [
-      "PHYSWELL 28"
-    ]
-  ],
+  "PHYSWELL 27": [],
+  "PHYSWELL 28": [],
+  "PHYSWELL 29": [],
   "PHYSWELL 33": [],
   "PHYSWELL 34": [],
-  "PHYSWELL 35": [
-    [
-      "PHYSWELL 5",
-      "PHYSWELL 4"
-    ]
-  ],
-  "PHYSWELL 36": [
-    [
-      "PHYSWELL 7"
-    ]
-  ],
+  "PHYSWELL 35": [],
+  "PHYSWELL 36": [],
   "PHYSWELL 43": [],
   "PHYSWELL 50": [],
-  "PHYSWELL 51": [
-    [
-      "PHYSWELL 12"
-    ],
-    [
-      "PHYSWELL 12"
-    ],
-    [
-      "PHYSWELL 50"
-    ]
-  ],
-  "PHYSWELL 52": [
-    [
-      "PHYSWELL 50",
-      "PHYSWELL 2"
-    ],
-    [
-      "PHYSWELL 2"
-    ],
-    [
-      "PHYSWELL 2"
-    ],
-    [
-      "PHYSWELL 2"
-    ]
-  ],
-  "PHYSWELL 53": [
-    [
-      "PHYSWELL 52"
-    ]
-  ],
-  "PHYSWELL 54": [
-    [
-      "PHYSWELL 5"
-    ],
-    [
-      "PHYSWELL 5"
-    ]
-  ],
-  "PHYSWELL 55": [
-    [
-      "PHYSWELL 5"
-    ]
-  ],
+  "PHYSWELL 51": [],
+  "PHYSWELL 52": [],
+  "PHYSWELL 53": [],
+  "PHYSWELL 54": [],
+  "PHYSWELL 55": [],
   "PHYSWELL 56": [],
   "PHYSWELL 69": [],
   "PHYSWELL 70": [],
@@ -18507,22 +14853,10 @@
   "POLISCI 149S": [],
   "POLISCI 149T": [],
   "POLISCI 150A": [],
-  "POLISCI 150B": [
-    [
-      "POLISCI 150A"
-    ]
-  ],
-  "POLISCI 150C": [
-    [
-      "POLISCI 150A"
-    ]
-  ],
+  "POLISCI 150B": [],
+  "POLISCI 150C": [],
   "POLISCI 150R": [],
-  "POLISCI 151": [
-    [
-      "POLISCI 150A"
-    ]
-  ],
+  "POLISCI 151": [],
   "POLISCI 153": [],
   "POLISCI 154": [],
   "POLISCI 156": [],
@@ -18680,16 +15014,8 @@
   "POLISCI 354": [],
   "POLISCI 355": [],
   "POLISCI 355A": [],
-  "POLISCI 355B": [
-    [
-      "POLISCI 150A"
-    ]
-  ],
-  "POLISCI 355C": [
-    [
-      "POLISCI 150A"
-    ]
-  ],
+  "POLISCI 355B": [],
+  "POLISCI 355C": [],
   "POLISCI 355R": [],
   "POLISCI 356A": [],
   "POLISCI 356B": [],
@@ -18697,21 +15023,9 @@
   "POLISCI 400": [],
   "POLISCI 400C": [],
   "POLISCI 410A": [],
-  "POLISCI 410B": [
-    [
-      "POLISCI 410A"
-    ]
-  ],
-  "POLISCI 410C": [
-    [
-      "POLISCI 410A"
-    ]
-  ],
-  "POLISCI 410D": [
-    [
-      "POLISCI 410A"
-    ]
-  ],
+  "POLISCI 410B": [],
+  "POLISCI 410C": [],
+  "POLISCI 410D": [],
   "POLISCI 411A": [],
   "POLISCI 411B": [],
   "POLISCI 411C": [],
@@ -18751,39 +15065,13 @@
   "POLISCI 447T": [],
   "POLISCI 448R": [],
   "POLISCI 450A": [],
-  "POLISCI 450B": [
-    [
-      "POLISCI 450A"
-    ]
-  ],
-  "POLISCI 450C": [
-    [
-      "POLISCI 450A",
-      "POLISCI 450B"
-    ]
-  ],
-  "POLISCI 450D": [
-    [
-      "POLISCI 450A"
-    ],
-    [
-      "POLISCI 450B",
-      "POLISCI 450C"
-    ]
-  ],
-  "POLISCI 451": [
-    [
-      "POLISCI 450A",
-      "POLISCI 450B"
-    ]
-  ],
+  "POLISCI 450B": [],
+  "POLISCI 450C": [],
+  "POLISCI 450D": [],
+  "POLISCI 451": [],
   "POLISCI 455": [],
   "POLISCI 460A": [],
-  "POLISCI 460B": [
-    [
-      "POLISCI 356A"
-    ]
-  ],
+  "POLISCI 460B": [],
   "POLISCI 461": [],
   "POLISCI 462": [],
   "POLISCI 464": [],
@@ -18795,85 +15083,25 @@
   "POLISCI 801": [],
   "POLISCI 802": [],
   "POLSHLNG 1": [],
-  "POLSHLNG 2": [
-    [
-      "POLSHLNG 1"
-    ]
-  ],
-  "POLSHLNG 3": [
-    [
-      "POLSHLNG 2"
-    ]
-  ],
-  "POLSHLNG 21": [
-    [
-      "POLSHLNG 3"
-    ]
-  ],
-  "POLSHLNG 22": [
-    [
-      "POLSHLNG 21"
-    ]
-  ],
+  "POLSHLNG 2": [],
+  "POLSHLNG 3": [],
+  "POLSHLNG 21": [],
+  "POLSHLNG 22": [],
   "POLSHLNG 101": [],
-  "POLSHLNG 102": [
-    [
-      "POLSHLNG 101"
-    ]
-  ],
-  "POLSHLNG 103": [
-    [
-      "POLSHLNG 102"
-    ]
-  ],
+  "POLSHLNG 102": [],
+  "POLSHLNG 103": [],
   "POLSHLNG 211": [],
   "POLSHLNG 395": [],
   "PORTLANG 1A": [],
-  "PORTLANG 2A": [
-    [
-      "PORTLANG 1A"
-    ]
-  ],
-  "PORTLANG 11A": [
-    [
-      "PORTLANG 2A"
-    ]
-  ],
-  "PORTLANG 12A": [
-    [
-      "PORTLANG 11A"
-    ]
-  ],
-  "PORTLANG 101": [
-    [
-      "PORTLANG 12A"
-    ]
-  ],
-  "PORTLANG 102": [
-    [
-      "PORTLANG 12A"
-    ]
-  ],
-  "PORTLANG 103": [
-    [
-      "PORTLANG 12A"
-    ]
-  ],
-  "PORTLANG 161": [
-    [
-      "PORTLANG 101"
-    ]
-  ],
-  "PORTLANG 162": [
-    [
-      "PORTLANG 102"
-    ]
-  ],
-  "PORTLANG 163": [
-    [
-      "PORTLANG 103"
-    ]
-  ],
+  "PORTLANG 2A": [],
+  "PORTLANG 11A": [],
+  "PORTLANG 12A": [],
+  "PORTLANG 101": [],
+  "PORTLANG 102": [],
+  "PORTLANG 103": [],
+  "PORTLANG 161": [],
+  "PORTLANG 162": [],
+  "PORTLANG 163": [],
   "PORTLANG 297": [],
   "PORTLANG 394": [],
   "PORTLANG 395": [],
@@ -18912,11 +15140,7 @@
   "PSYC 139": [],
   "PSYC 144": [],
   "PSYC 148": [],
-  "PSYC 149": [
-    [
-      "HUMBIO 161"
-    ]
-  ],
+  "PSYC 149": [],
   "PSYC 150N": [],
   "PSYC 151": [],
   "PSYC 152": [],
@@ -18946,11 +15170,7 @@
   "PSYC 248": [],
   "PSYC 249": [],
   "PSYC 250": [],
-  "PSYC 261": [
-    [
-      "HUMBIO 161"
-    ]
-  ],
+  "PSYC 261": [],
   "PSYC 265": [],
   "PSYC 270": [],
   "PSYC 278": [],
@@ -18989,21 +15209,13 @@
   "PSYCH 31A": [],
   "PSYCH 35": [],
   "PSYCH 39SI": [],
-  "PSYCH 45": [
-    [
-      "PSYCH 1"
-    ]
-  ],
+  "PSYCH 45": [],
   "PSYCH 50": [],
   "PSYCH 50A": [],
   "PSYCH 60": [],
   "PSYCH 60A": [],
   "PSYCH 70": [],
-  "PSYCH 80": [
-    [
-      "PSYCH 1"
-    ]
-  ],
+  "PSYCH 80": [],
   "PSYCH 90": [],
   "PSYCH 95": [],
   "PSYCH 102": [],
@@ -19012,16 +15224,8 @@
   "PSYCH 118A": [],
   "PSYCH 118F": [],
   "PSYCH 122": [],
-  "PSYCH 124": [
-    [
-      "PSYCH 1"
-    ]
-  ],
-  "PSYCH 125": [
-    [
-      "PSYCH 10"
-    ]
-  ],
+  "PSYCH 124": [],
+  "PSYCH 125": [],
   "PSYCH 131A": [],
   "PSYCH 131S": [],
   "PSYCH 132": [],
@@ -19045,20 +15249,11 @@
   "PSYCH 156A": [],
   "PSYCH 161": [],
   "PSYCH 163": [],
-  "PSYCH 164": [
-    [
-      "PSYCH 30",
-      "PSYCH 50"
-    ]
-  ],
+  "PSYCH 164": [],
   "PSYCH 168": [],
   "PSYCH 169": [],
   "PSYCH 170": [],
-  "PSYCH 171": [
-    [
-      "PSYCH 1"
-    ]
-  ],
+  "PSYCH 171": [],
   "PSYCH 172": [],
   "PSYCH 175": [],
   "PSYCH 178": [],
@@ -19070,14 +15265,7 @@
   "PSYCH 189": [],
   "PSYCH 190A": [],
   "PSYCH 194": [],
-  "PSYCH 195": [
-    [
-      "PSYCH 1"
-    ],
-    [
-      "PSYCH 10"
-    ]
-  ],
+  "PSYCH 195": [],
   "PSYCH 196": [],
   "PSYCH 198": [],
   "PSYCH 199": [],
@@ -19089,17 +15277,9 @@
   "PSYCH 206": [],
   "PSYCH 207": [],
   "PSYCH 209": [],
-  "PSYCH 211": [
-    [
-      "PSYCH 207"
-    ]
-  ],
+  "PSYCH 211": [],
   "PSYCH 212": [],
-  "PSYCH 213": [
-    [
-      "PSYCH 207"
-    ]
-  ],
+  "PSYCH 213": [],
   "PSYCH 215": [],
   "PSYCH 216": [],
   "PSYCH 217": [],
@@ -19109,46 +15289,20 @@
   "PSYCH 222": [],
   "PSYCH 223": [],
   "PSYCH 224": [],
-  "PSYCH 225": [
-    [
-      "PSYCH 1"
-    ],
-    [
-      "SYMSYS 1",
-      "CS 24"
-    ],
-    [
-      "CS 221"
-    ],
-    [
-      "CS 231N"
-    ]
-  ],
+  "PSYCH 225": [],
   "PSYCH 226": [],
-  "PSYCH 227": [
-    [
-      "LINGUIST 145"
-    ]
-  ],
+  "PSYCH 227": [],
   "PSYCH 228": [],
   "PSYCH 229": [],
   "PSYCH 230": [],
   "PSYCH 231": [],
   "PSYCH 232": [],
   "PSYCH 234": [],
-  "PSYCH 235": [
-    [
-      "PSYCH 207"
-    ]
-  ],
+  "PSYCH 235": [],
   "PSYCH 236": [],
   "PSYCH 236A": [],
   "PSYCH 238": [],
-  "PSYCH 240": [
-    [
-      "PSYCH 207"
-    ]
-  ],
+  "PSYCH 240": [],
   "PSYCH 240A": [],
   "PSYCH 242": [],
   "PSYCH 243": [],
@@ -19196,20 +15350,7 @@
   "PSYCH 292": [],
   "PSYCH 293": [],
   "PSYCH 294": [],
-  "PSYCH 294N": [
-    [
-      "STATS 200"
-    ],
-    [
-      "DATASCI 112",
-      "STATS 202"
-    ],
-    [
-      "ENGR 108",
-      "MATH 104",
-      "STATS 203"
-    ]
-  ],
+  "PSYCH 294N": [],
   "PSYCH 296": [],
   "PSYCH 297": [],
   "PSYCH 298": [],
@@ -19218,11 +15359,7 @@
   "PUBLPOL 1": [],
   "PUBLPOL 3": [],
   "PUBLPOL 14": [],
-  "PUBLPOL 19Q": [
-    [
-      "PUBLPOL 1"
-    ]
-  ],
+  "PUBLPOL 19Q": [],
   "PUBLPOL 21SI": [],
   "PUBLPOL 29": [],
   "PUBLPOL 31SI": [],
@@ -19237,19 +15374,9 @@
   "PUBLPOL 103C": [],
   "PUBLPOL 103D": [],
   "PUBLPOL 103F": [],
-  "PUBLPOL 104": [
-    [
-      "PUBLPOL 50",
-      "ECON 50"
-    ]
-  ],
+  "PUBLPOL 104": [],
   "PUBLPOL 105": [],
-  "PUBLPOL 106": [
-    [
-      "ECON 50",
-      "PUBLPOL 50"
-    ]
-  ],
+  "PUBLPOL 106": [],
   "PUBLPOL 108H": [],
   "PUBLPOL 109Q": [],
   "PUBLPOL 113": [],
@@ -19274,11 +15401,7 @@
   "PUBLPOL 153": [],
   "PUBLPOL 154": [],
   "PUBLPOL 155": [],
-  "PUBLPOL 156": [
-    [
-      "HUMBIO 122A"
-    ]
-  ],
+  "PUBLPOL 156": [],
   "PUBLPOL 163": [],
   "PUBLPOL 164": [],
   "PUBLPOL 165": [],
@@ -19287,21 +15410,7 @@
   "PUBLPOL 174": [],
   "PUBLPOL 182": [],
   "PUBLPOL 183": [],
-  "PUBLPOL 185": [
-    [
-      "CS 129"
-    ],
-    [
-      "HUMBIO 88"
-    ],
-    [
-      "POLISCI 150C"
-    ],
-    [
-      "STATS 60",
-      "PUBLPOL 101"
-    ]
-  ],
+  "PUBLPOL 185": [],
   "PUBLPOL 193": [],
   "PUBLPOL 197": [],
   "PUBLPOL 198": [],
@@ -19312,19 +15421,9 @@
   "PUBLPOL 200H": [],
   "PUBLPOL 201": [],
   "PUBLPOL 203F": [],
-  "PUBLPOL 204": [
-    [
-      "PUBLPOL 50",
-      "ECON 50"
-    ]
-  ],
+  "PUBLPOL 204": [],
   "PUBLPOL 205": [],
-  "PUBLPOL 206": [
-    [
-      "ECON 50",
-      "PUBLPOL 50"
-    ]
-  ],
+  "PUBLPOL 206": [],
   "PUBLPOL 209": [],
   "PUBLPOL 216": [],
   "PUBLPOL 217A": [],
@@ -19340,12 +15439,7 @@
   "PUBLPOL 291": [],
   "PUBLPOL 298": [],
   "PUBLPOL 301A": [],
-  "PUBLPOL 301B": [
-    [
-      "ECON 102B",
-      "PUBLPOL 303D"
-    ]
-  ],
+  "PUBLPOL 301B": [],
   "PUBLPOL 302B": [],
   "PUBLPOL 303D": [],
   "PUBLPOL 306": [],
@@ -19359,11 +15453,7 @@
   "PUBLPOL 315": [],
   "PUBLPOL 316": [],
   "PUBLPOL 321": [],
-  "PUBLPOL 325": [
-    [
-      "PUBLPOL 50"
-    ]
-  ],
+  "PUBLPOL 325": [],
   "PUBLPOL 339": [],
   "PUBLPOL 353A": [],
   "PUBLPOL 353B": [],
@@ -19557,31 +15647,11 @@
   "PWR 295": [],
   "PWR 194DS9": [],
   "QUECHLNG 1": [],
-  "QUECHLNG 2": [
-    [
-      "QUECHLNG 1"
-    ]
-  ],
-  "QUECHLNG 3": [
-    [
-      "QUECHLNG 2"
-    ]
-  ],
-  "QUECHLNG 21": [
-    [
-      "QUECHLNG 3"
-    ]
-  ],
-  "QUECHLNG 22": [
-    [
-      "QUECHLNG 21"
-    ]
-  ],
-  "QUECHLNG 23": [
-    [
-      "QUECHLNG 22"
-    ]
-  ],
+  "QUECHLNG 2": [],
+  "QUECHLNG 3": [],
+  "QUECHLNG 21": [],
+  "QUECHLNG 22": [],
+  "QUECHLNG 23": [],
   "QUECHLNG 101": [],
   "QUECHLNG 102": [],
   "QUECHLNG 103": [],
@@ -19606,28 +15676,12 @@
   "RAD 225": [],
   "RAD 226": [],
   "RAD 227": [],
-  "RAD 229": [
-    [
-      "EE 369B"
-    ]
-  ],
+  "RAD 229": [],
   "RAD 230": [],
   "RAD 235": [],
-  "RAD 255": [
-    [
-      "MED 255"
-    ]
-  ],
-  "RAD 260": [
-    [
-      "CS 106A"
-    ]
-  ],
-  "RAD 271": [
-    [
-      "CS 229"
-    ]
-  ],
+  "RAD 255": [],
+  "RAD 260": [],
+  "RAD 271": [],
   "RAD 280": [],
   "RAD 289": [],
   "RAD 299": [],
@@ -19912,36 +15966,12 @@
   "RESPROG 7C": [],
   "RESPROG 9B": [],
   "ROMALANG 1": [],
-  "ROMALANG 2": [
-    [
-      "ROMALANG 1"
-    ]
-  ],
-  "ROMALANG 3": [
-    [
-      "ROMALANG 2"
-    ]
-  ],
-  "ROMALANG 21": [
-    [
-      "ROMALANG 3"
-    ]
-  ],
-  "ROMALANG 22": [
-    [
-      "ROMALANG 21"
-    ]
-  ],
-  "ROMALANG 23": [
-    [
-      "ROMALANG 22"
-    ]
-  ],
-  "ROMALANG 101": [
-    [
-      "ROMALANG 23"
-    ]
-  ],
+  "ROMALANG 2": [],
+  "ROMALANG 3": [],
+  "ROMALANG 21": [],
+  "ROMALANG 22": [],
+  "ROMALANG 23": [],
+  "ROMALANG 101": [],
   "ROMALANG 395": [],
   "ROTCAF 1": [],
   "ROTCAF 11": [],
@@ -19969,137 +15999,40 @@
   "ROTCNAVY 21": [],
   "ROTCNAVY 22": [],
   "ROTCNAVY 131": [],
-  "ROTCNAVY 132": [
-    [
-      "ROTCNAVY 131"
-    ]
-  ],
+  "ROTCNAVY 132": [],
   "ROTCNAVY 141": [],
   "ROTCNAVY 142": [],
   "ROTCNAVY 154": [],
   "RUSSLANG 1": [],
   "RUSSLANG 1A": [],
-  "RUSSLANG 2": [
-    [
-      "RUSSLANG 1"
-    ]
-  ],
-  "RUSSLANG 2A": [
-    [
-      "RUSSLANG 1A"
-    ]
-  ],
-  "RUSSLANG 3": [
-    [
-      "RUSSLANG 2"
-    ]
-  ],
+  "RUSSLANG 2": [],
+  "RUSSLANG 2A": [],
+  "RUSSLANG 3": [],
   "RUSSLANG 5": [],
   "RUSSLANG 10": [],
-  "RUSSLANG 21": [
-    [
-      "RUSSLANG 2A",
-      "RUSSLANG 3"
-    ]
-  ],
-  "RUSSLANG 22": [
-    [
-      "RUSSLANG 21"
-    ]
-  ],
-  "RUSSLANG 23": [
-    [
-      "RUSSLANG 22"
-    ]
-  ],
-  "RUSSLANG 55": [
-    [
-      "RUSSLANG 2A"
-    ],
-    [
-      "RUSSLANG 3"
-    ],
-    [
-      "RUSSLANG 21"
-    ],
-    [
-      "RUSSLANG 22"
-    ],
-    [
-      "RUSSLANG 23"
-    ]
-  ],
+  "RUSSLANG 21": [],
+  "RUSSLANG 22": [],
+  "RUSSLANG 23": [],
+  "RUSSLANG 55": [],
   "RUSSLANG 70": [],
   "RUSSLANG 101": [],
-  "RUSSLANG 102": [
-    [
-      "RUSSLANG 101"
-    ]
-  ],
-  "RUSSLANG 103": [
-    [
-      "RUSSLANG 102"
-    ]
-  ],
+  "RUSSLANG 102": [],
+  "RUSSLANG 103": [],
   "RUSSLANG 111": [],
-  "RUSSLANG 112": [
-    [
-      "RUSSLANG 111"
-    ]
-  ],
-  "RUSSLANG 113": [
-    [
-      "RUSSLANG 112"
-    ]
-  ],
-  "RUSSLANG 177": [
-    [
-      "RUSSLANG 113"
-    ]
-  ],
-  "RUSSLANG 178": [
-    [
-      "RUSSLANG 177"
-    ]
-  ],
-  "RUSSLANG 179": [
-    [
-      "RUSSLANG 178"
-    ]
-  ],
+  "RUSSLANG 112": [],
+  "RUSSLANG 113": [],
+  "RUSSLANG 177": [],
+  "RUSSLANG 178": [],
+  "RUSSLANG 179": [],
   "RUSSLANG 184C": [],
   "RUSSLANG 199": [],
-  "RUSSLANG 211": [
-    [
-      "RUSSLANG 103"
-    ]
-  ],
-  "RUSSLANG 212": [
-    [
-      "RUSSLANG 211"
-    ]
-  ],
-  "RUSSLANG 213": [
-    [
-      "RUSSLANG 212"
-    ]
-  ],
+  "RUSSLANG 211": [],
+  "RUSSLANG 212": [],
+  "RUSSLANG 213": [],
   "RUSSLANG 220": [],
-  "RUSSLANG 231": [
-    [
-      "RUSSLANG 213"
-    ]
-  ],
-  "RUSSLANG 232": [
-    [
-      "RUSSLANG 231"
-    ]
-  ],
-  "RUSSLANG 233": [
-    [
-      "RUSSLANG 232"
-    ]
-  ],
+  "RUSSLANG 231": [],
+  "RUSSLANG 232": [],
+  "RUSSLANG 233": [],
   "RUSSLANG 394": [],
   "RUSSLANG 395": [],
   "SAMOALNG 1": [],
@@ -20291,16 +16224,8 @@
   "SLE 299": [],
   "SLVNLANG 1": [],
   "SNSKTLNG 1": [],
-  "SNSKTLNG 2": [
-    [
-      "SNSKTLNG 1"
-    ]
-  ],
-  "SNSKTLNG 3": [
-    [
-      "SNSKTLNG 2"
-    ]
-  ],
+  "SNSKTLNG 2": [],
+  "SNSKTLNG 3": [],
   "SNSKTLNG 395": [],
   "SOAR 10WR": [],
   "SOC 1": [],
@@ -20437,11 +16362,7 @@
   "SOC 254C": [],
   "SOC 255": [],
   "SOC 256A": [],
-  "SOC 258B": [
-    [
-      "ECON 102B"
-    ]
-  ],
+  "SOC 258B": [],
   "SOC 258C": [],
   "SOC 260": [],
   "SOC 267A": [],
@@ -20496,12 +16417,7 @@
   "SOC 349": [],
   "SOC 350": [],
   "SOC 350W": [],
-  "SOC 351": [
-    [
-      "SOC 381",
-      "SOC 382"
-    ]
-  ],
+  "SOC 351": [],
   "SOC 355": [],
   "SOC 356": [],
   "SOC 358": [],
@@ -20524,17 +16440,8 @@
   "SOC 380": [],
   "SOC 380W": [],
   "SOC 381": [],
-  "SOC 382": [
-    [
-      "SOC 381"
-    ]
-  ],
-  "SOC 383": [
-    [
-      "SOC 381",
-      "SOC 382"
-    ]
-  ],
+  "SOC 382": [],
+  "SOC 383": [],
   "SOC 384": [],
   "SOC 385A": [],
   "SOC 385B": [],
@@ -20569,185 +16476,34 @@
   "SOMGEN 299": [],
   "SPANLANG 1": [],
   "SPANLANG 1A": [],
-  "SPANLANG 2": [
-    [
-      "SPANLANG 1"
-    ]
-  ],
-  "SPANLANG 2A": [
-    [
-      "SPANLANG 1A"
-    ]
-  ],
-  "SPANLANG 3": [
-    [
-      "SPANLANG 2"
-    ]
-  ],
-  "SPANLANG 10": [
-    [
-      "SPANLANG 2"
-    ],
-    [
-      "SPANLANG 2A"
-    ],
-    [
-      "SPANLANG 3"
-    ]
-  ],
+  "SPANLANG 2": [],
+  "SPANLANG 2A": [],
+  "SPANLANG 3": [],
+  "SPANLANG 10": [],
   "SPANLANG 10SC": [],
   "SPANLANG 11C": [],
-  "SPANLANG 11R": [
-    [
-      "SPANLANG 2A",
-      "SPANLANG 3"
-    ]
-  ],
-  "SPANLANG 11SL": [
-    [
-      "SPANLANG 3",
-      "SPANLANG 2A"
-    ]
-  ],
-  "SPANLANG 12C": [
-    [
-      "SPANLANG 11C"
-    ],
-    [
-      "SPANLANG 11R"
-    ],
-    [
-      "SPANLANG 11SL"
-    ],
-    [
-      "SPANLANG 21B"
-    ]
-  ],
-  "SPANLANG 12R": [
-    [
-      "SPANLANG 11C"
-    ],
-    [
-      "SPANLANG 11R"
-    ],
-    [
-      "SPANLANG 11SL"
-    ],
-    [
-      "SPANLANG 21B"
-    ]
-  ],
-  "SPANLANG 12SL": [
-    [
-      "SPANLANG 11C"
-    ],
-    [
-      "SPANLANG 11R"
-    ],
-    [
-      "SPANLANG 11SL"
-    ],
-    [
-      "SPANLANG 21B"
-    ]
-  ],
-  "SPANLANG 13C": [
-    [
-      "SPANLANG 12C"
-    ],
-    [
-      "SPANLANG 12R",
-      "SPANLANG 12SL"
-    ]
-  ],
-  "SPANLANG 13R": [
-    [
-      "SPANLANG 12C"
-    ],
-    [
-      "SPANLANG 12R"
-    ],
-    [
-      "SPANLANG 22B"
-    ]
-  ],
+  "SPANLANG 11R": [],
+  "SPANLANG 11SL": [],
+  "SPANLANG 12C": [],
+  "SPANLANG 12R": [],
+  "SPANLANG 12SL": [],
+  "SPANLANG 13C": [],
+  "SPANLANG 13R": [],
   "SPANLANG 13SL": [],
-  "SPANLANG 15": [
-    [
-      "SPANLANG 2A"
-    ],
-    [
-      "SPANLANG 3"
-    ]
-  ],
+  "SPANLANG 15": [],
   "SPANLANG 21B": [],
-  "SPANLANG 22B": [
-    [
-      "SPANLANG 21B"
-    ]
-  ],
-  "SPANLANG 23B": [
-    [
-      "SPANLANG 22B"
-    ]
-  ],
+  "SPANLANG 22B": [],
+  "SPANLANG 23B": [],
   "SPANLANG 99": [],
-  "SPANLANG 99SL": [
-    [
-      "CHILATST 1SI"
-    ]
-  ],
+  "SPANLANG 99SL": [],
   "SPANLANG 100": [],
-  "SPANLANG 101": [
-    [
-      "SPANLANG 13C"
-    ],
-    [
-      "SPANLANG 13R"
-    ],
-    [
-      "SPANLANG 13SL"
-    ],
-    [
-      "SPANLANG 23B"
-    ]
-  ],
+  "SPANLANG 101": [],
   "SPANLANG 102": [],
-  "SPANLANG 108SL": [
-    [
-      "SPANLANG 23B"
-    ],
-    [
-      "SPANLANG 100"
-    ]
-  ],
+  "SPANLANG 108SL": [],
   "SPANLANG 110SL": [],
   "SPANLANG 121": [],
   "SPANLANG 199": [],
-  "SPANLANG 199SL": [
-    [
-      "SPANLANG 13C"
-    ],
-    [
-      "SPANLANG 13R"
-    ],
-    [
-      "SPANLANG 13SL"
-    ],
-    [
-      "SPANLANG 23B",
-      "SPANLANG 100"
-    ],
-    [
-      "SPANLANG 101"
-    ],
-    [
-      "SPANLANG 102"
-    ],
-    [
-      "SPANLANG 108SL"
-    ]
-  ],
+  "SPANLANG 199SL": [],
   "SPANLANG 250": [],
   "SPANLANG 394": [],
   "SPANLANG 395": [],
@@ -20755,14 +16511,25 @@
   "STATS 32": [],
   "STATS 48N": [],
   "STATS 60": [],
-  "STATS 100": [],
-  "STATS 110": [],
+  "STATS 100": [
+    [
+      "STATS 60"
+    ]
+  ],
+  "STATS 110": [
+    [
+      "MATH 20"
+    ]
+  ],
   "STATS 117": [
     [
       "MATH 21"
     ]
   ],
   "STATS 118": [
+    [
+      "MATH 51"
+    ],
     [
       "MATH 52"
     ],
@@ -20776,7 +16543,7 @@
   "STATS 199": [],
   "STATS 200": [
     [
-      "STATS 116"
+      "STATS 118"
     ]
   ],
   "STATS 200Q": [],
@@ -20795,6 +16562,12 @@
   "STATS 202V": [],
   "STATS 203": [
     [
+      "MATH 51"
+    ],
+    [
+      "MATH 104"
+    ],
+    [
       "STATS 200"
     ]
   ],
@@ -20810,12 +16583,19 @@
   "STATS 205": [
     [
       "STATS 191",
+      "STATS 203"
+    ],
+    [
       "STATS 200"
     ]
   ],
   "STATS 206": [
     [
-      "STATS 191"
+      "STATS 118"
+    ],
+    [
+      "STATS 191",
+      "STATS 203"
     ]
   ],
   "STATS 207": [],
@@ -20825,15 +16605,19 @@
       "STATS 118"
     ],
     [
-      "STATS 191"
+      "STATS 191",
+      "STATS 203"
     ]
   ],
   "STATS 211": [],
   "STATS 214": [
     [
-      "MATH 51",
-      "STATS 117",
-      "CS 229",
+      "MATH 51"
+    ],
+    [
+      "STATS 117"
+    ],
+    [
       "STATS 315A"
     ]
   ],
@@ -20842,6 +16626,7 @@
       "STATS 117"
     ],
     [
+      "STATS 191",
       "STATS 203"
     ]
   ],
@@ -20866,7 +16651,11 @@
   ],
   "STATS 219": [
     [
+      "MATH 151",
       "STATS 117"
+    ],
+    [
+      "MATH 115"
     ]
   ],
   "STATS 220": [
@@ -20878,43 +16667,34 @@
   "STATS 221": [
     [
       "MATH 115"
+    ],
+    [
+      "STATS 217"
     ]
   ],
   "STATS 223": [
     [
-      "STATS 223"
-    ],
-    [
       "STATS 200"
-    ],
-    [
-      "STATS 323"
-    ],
-    [
-      "STATS 300A",
-      "STATS 310A"
     ]
   ],
   "STATS 229": [
     [
+      "CS 106A",
       "CS 106B"
     ],
     [
-      "MATH 51",
-      "CME 100"
-    ],
-    [
-      "STATS 116"
+      "CS 109",
+      "MATH 151"
     ]
   ],
   "STATS 232": [],
   "STATS 242": [],
-  "STATS 250": [],
-  "STATS 251": [
+  "STATS 250": [
     [
-      "BMDS 250"
+      "MATH 136"
     ]
   ],
+  "STATS 251": [],
   "STATS 260A": [],
   "STATS 260B": [],
   "STATS 260C": [],
@@ -20922,7 +16702,11 @@
   "STATS 262": [],
   "STATS 263": [
     [
-      "STATS 191"
+      "STATS 118"
+    ],
+    [
+      "STATS 191",
+      "STATS 203"
     ]
   ],
   "STATS 264": [],
@@ -20935,7 +16719,6 @@
   "STATS 285": [],
   "STATS 290": [
     [
-      "STATS 110",
       "STATS 141"
     ]
   ],
@@ -20956,7 +16739,9 @@
   ],
   "STATS 305C": [
     [
-      "STATS 305A",
+      "STATS 305A"
+    ],
+    [
       "STATS 305B"
     ]
   ],
@@ -20970,8 +16755,7 @@
   ],
   "STATS 310C": [
     [
-      "STATS 310B",
-      "MATH 230B"
+      "STATS 310B"
     ]
   ],
   "STATS 311": [],
@@ -20990,17 +16774,7 @@
   "STATS 322": [],
   "STATS 323": [
     [
-      "STATS 223"
-    ],
-    [
       "STATS 200"
-    ],
-    [
-      "STATS 323"
-    ],
-    [
-      "STATS 300A",
-      "STATS 310A"
     ]
   ],
   "STATS 324": [],
@@ -21018,14 +16792,20 @@
   "STATS 357": [],
   "STATS 361": [
     [
-      "STATS 300A",
+      "STATS 300A"
+    ],
+    [
       "STATS 300B"
     ]
   ],
   "STATS 362": [],
   "STATS 363": [
     [
-      "STATS 191"
+      "STATS 118"
+    ],
+    [
+      "STATS 191",
+      "STATS 203"
     ]
   ],
   "STATS 365": [],
@@ -21036,7 +16816,14 @@
     ]
   ],
   "STATS 371": [],
-  "STATS 375": [],
+  "STATS 375": [
+    [
+      "EE 364A"
+    ],
+    [
+      "STATS 310A"
+    ]
+  ],
   "STATS 390": [],
   "STATS 398": [],
   "STATS 399": [],
@@ -21147,11 +16934,7 @@
   "SURG 100B": [],
   "SURG 100C": [],
   "SURG 101": [],
-  "SURG 102": [
-    [
-      "SURG 101"
-    ]
-  ],
+  "SURG 102": [],
   "SURG 143": [],
   "SURG 144": [],
   "SURG 161": [],
@@ -21199,11 +16982,7 @@
   "SURG 398A": [],
   "SURG 399": [],
   "SUST 210": [],
-  "SUST 215": [
-    [
-      "EARTHSYS 10"
-    ]
-  ],
+  "SUST 215": [],
   "SUST 220": [],
   "SUST 234": [],
   "SUST 240": [],
@@ -21248,24 +17027,12 @@
   "SWAHLANG 1": [],
   "SWAHLANG 1A": [],
   "SWAHLANG 2": [],
-  "SWAHLANG 2A": [
-    [
-      "SWAHLANG 1A"
-    ]
-  ],
-  "SWAHLANG 3": [
-    [
-      "SWAHLANG 2"
-    ]
-  ],
+  "SWAHLANG 2A": [],
+  "SWAHLANG 3": [],
   "SWAHLANG 11A": [],
   "SWAHLANG 12A": [],
   "SWAHLANG 101": [],
-  "SWAHLANG 102": [
-    [
-      "SWAHLANG 101"
-    ]
-  ],
+  "SWAHLANG 102": [],
   "SWAHLANG 299": [],
   "SWAHLANG 395": [],
   "SYMSYS 1": [],
@@ -21282,11 +17049,7 @@
   "SYMSYS 151D": [],
   "SYMSYS 161": [],
   "SYMSYS 164H": [],
-  "SYMSYS 167D": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "SYMSYS 167D": [],
   "SYMSYS 168A": [],
   "SYMSYS 176S": [],
   "SYMSYS 190": [],
@@ -21306,12 +17069,7 @@
   "SYMSYS 195R": [],
   "SYMSYS 195S": [],
   "SYMSYS 195T": [],
-  "SYMSYS 195U": [
-    [
-      "CS 224N",
-      "CS 224S"
-    ]
-  ],
+  "SYMSYS 195U": [],
   "SYMSYS 195V": [],
   "SYMSYS 195W": [],
   "SYMSYS 196": [],
@@ -21319,16 +17077,8 @@
   "SYMSYS 200": [],
   "SYMSYS 201": [],
   "SYMSYS 202": [],
-  "SYMSYS 203": [
-    [
-      "PSYCH 1"
-    ]
-  ],
-  "SYMSYS 205": [
-    [
-      "PHIL 80"
-    ]
-  ],
+  "SYMSYS 203": [],
+  "SYMSYS 205": [],
   "SYMSYS 206": [],
   "SYMSYS 207": [],
   "SYMSYS 210": [],
@@ -21389,11 +17139,7 @@
   "TAPS 110M": [],
   "TAPS 120A": [],
   "TAPS 120B": [],
-  "TAPS 120M": [
-    [
-      "TAPS 120A"
-    ]
-  ],
+  "TAPS 120M": [],
   "TAPS 121J": [],
   "TAPS 121V": [],
   "TAPS 122M": [],
@@ -21530,16 +17276,8 @@
   "TAPS 460": [],
   "TAPS 802": [],
   "TELULANG 1": [],
-  "TELULANG 2": [
-    [
-      "TELULANG 1"
-    ]
-  ],
-  "TELULANG 3": [
-    [
-      "TELULANG 2"
-    ]
-  ],
+  "TELULANG 2": [],
+  "TELULANG 3": [],
   "TELULANG 395": [],
   "TIBETLNG 1": [],
   "TIBETLNG 2": [],
@@ -21549,16 +17287,8 @@
   "TIBETLNG 23": [],
   "TIBETLNG 395": [],
   "TIGRYLNG 1": [],
-  "TIGRYLNG 2": [
-    [
-      "TIGRYLNG 1"
-    ]
-  ],
-  "TIGRYLNG 3": [
-    [
-      "TIGRYLNG 2"
-    ]
-  ],
+  "TIGRYLNG 2": [],
+  "TIGRYLNG 3": [],
   "TIGRYLNG 21": [],
   "TIGRYLNG 22": [],
   "TIGRYLNG 23": [],
@@ -21577,75 +17307,23 @@
   "TRAM 399M": [],
   "TURKLANG 1": [],
   "TURKLANG 1A": [],
-  "TURKLANG 2": [
-    [
-      "TURKLANG 1"
-    ]
-  ],
+  "TURKLANG 2": [],
   "TURKLANG 2A": [],
-  "TURKLANG 3": [
-    [
-      "TURKLANG 2"
-    ]
-  ],
+  "TURKLANG 3": [],
   "TURKLANG 15": [],
-  "TURKLANG 21": [
-    [
-      "TURKLANG 3"
-    ]
-  ],
-  "TURKLANG 22": [
-    [
-      "TURKLANG 21"
-    ]
-  ],
-  "TURKLANG 23": [
-    [
-      "TURKLANG 22"
-    ]
-  ],
-  "TURKLANG 101H": [
-    [
-      "TURKLANG 2A"
-    ]
-  ],
-  "TURKLANG 102H": [
-    [
-      "TURKLANG 101H"
-    ]
-  ],
-  "TURKLANG 103H": [
-    [
-      "TURKLANG 102H"
-    ]
-  ],
+  "TURKLANG 21": [],
+  "TURKLANG 22": [],
+  "TURKLANG 23": [],
+  "TURKLANG 101H": [],
+  "TURKLANG 102H": [],
+  "TURKLANG 103H": [],
   "TURKLANG 395": [],
   "TWILANG 1": [],
-  "TWILANG 2": [
-    [
-      "TWILANG 1"
-    ]
-  ],
-  "TWILANG 3": [
-    [
-      "TWILANG 2"
-    ]
-  ],
-  "TWILANG 21": [
-    [
-      "TWILANG 3"
-    ]
-  ],
-  "TWILANG 22": [
-    [
-      "TWILANG 21"
-    ]
-  ],
-  "TWILANG 23": [
-    [
-      "TWILANG 22"
-    ]
-  ],
+  "TWILANG 2": [],
+  "TWILANG 3": [],
+  "TWILANG 21": [],
+  "TWILANG 22": [],
+  "TWILANG 23": [],
   "TWILANG 395": [],
   "UAR 13": [],
   "UAR 14": [],
@@ -21684,11 +17362,7 @@
   "UAR 101W": [],
   "UAR 101X": [],
   "UAR 194A": [],
-  "UAR 194B": [
-    [
-      "UAR 194A"
-    ]
-  ],
+  "UAR 194B": [],
   "UAR 195": [],
   "UAR 201": [],
   "UAR 301": [],
@@ -21697,26 +17371,10 @@
   "UGXFER TCEREG": [],
   "UGXFER WRITE": [],
   "UKRNLANG 1": [],
-  "UKRNLANG 2": [
-    [
-      "UKRNLANG 1"
-    ]
-  ],
-  "UKRNLANG 3": [
-    [
-      "UKRNLANG 2"
-    ]
-  ],
-  "UKRNLANG 21": [
-    [
-      "UKRNLANG 3"
-    ]
-  ],
-  "UKRNLANG 22": [
-    [
-      "UKRNLANG 21"
-    ]
-  ],
+  "UKRNLANG 2": [],
+  "UKRNLANG 3": [],
+  "UKRNLANG 21": [],
+  "UKRNLANG 22": [],
   "UKRNLANG 60": [],
   "UKRNLANG 395": [],
   "URBANST 7": [],
@@ -21824,81 +17482,25 @@
   "UROL 399": [],
   "UYGHLANG 1": [],
   "UYGHLANG 3": [],
-  "UYGHLANG 21": [
-    [
-      "UYGHLANG 3"
-    ]
-  ],
+  "UYGHLANG 21": [],
   "VIETLANG 1": [],
-  "VIETLANG 2": [
-    [
-      "VIETLANG 1"
-    ]
-  ],
-  "VIETLANG 3": [
-    [
-      "VIETLANG 2"
-    ]
-  ],
-  "VIETLANG 21": [
-    [
-      "VIETLANG 3"
-    ]
-  ],
-  "VIETLANG 22": [
-    [
-      "VIETLANG 21"
-    ]
-  ],
-  "VIETLANG 23": [
-    [
-      "VIETLANG 22"
-    ]
-  ],
-  "VIETLANG 101": [
-    [
-      "VIETLANG 23"
-    ]
-  ],
-  "VIETLANG 102": [
-    [
-      "VIETLANG 101"
-    ]
-  ],
-  "VIETLANG 103": [
-    [
-      "VIETLANG 102"
-    ]
-  ],
+  "VIETLANG 2": [],
+  "VIETLANG 3": [],
+  "VIETLANG 21": [],
+  "VIETLANG 22": [],
+  "VIETLANG 23": [],
+  "VIETLANG 101": [],
+  "VIETLANG 102": [],
+  "VIETLANG 103": [],
   "VIETLANG 395": [],
   "WELLNESS 130": [],
   "WELLNESS 185": [],
   "YDDSHLNG 1": [],
-  "YDDSHLNG 2": [
-    [
-      "YDDSHLNG 1"
-    ]
-  ],
-  "YDDSHLNG 3": [
-    [
-      "YDDSHLNG 2"
-    ]
-  ],
-  "YDDSHLNG 21": [
-    [
-      "YDDSHLNG 3"
-    ]
-  ],
-  "YDDSHLNG 22": [
-    [
-      "YDDSHLNG 21"
-    ]
-  ],
-  "YDDSHLNG 23": [
-    [
-      "YDDSHLNG 22"
-    ]
-  ],
+  "YDDSHLNG 2": [],
+  "YDDSHLNG 3": [],
+  "YDDSHLNG 21": [],
+  "YDDSHLNG 22": [],
+  "YDDSHLNG 23": [],
   "YDDSHLNG 395": [],
   "YORULANG 1": [],
   "YORULANG 2": [],
@@ -21908,22 +17510,10 @@
   "YORULANG 23": [],
   "YORULANG 395": [],
   "YUPKLANG 1": [],
-  "YUPKLANG 2": [
-    [
-      "YUPKLANG 1"
-    ]
-  ],
+  "YUPKLANG 2": [],
   "ZULULANG 1": [],
-  "ZULULANG 2": [
-    [
-      "ZULULANG 1"
-    ]
-  ],
-  "ZULULANG 3": [
-    [
-      "ZULULANG 2"
-    ]
-  ],
+  "ZULULANG 2": [],
+  "ZULULANG 3": [],
   "ZULULANG 22": [],
   "BIO 2N": [],
   "BIO 3": [],
@@ -21961,11 +17551,7 @@
   "BIO 83": [],
   "BIO 84": [],
   "BIO 85": [],
-  "BIO 86": [
-    [
-      "BIO 83"
-    ]
-  ],
+  "BIO 86": [],
   "BIO 102": [],
   "BIO 105": [],
   "BIO 105A": [],
@@ -21975,6 +17561,8 @@
   "BIO 111": [],
   "BIO 112": [
     [
+      "HUMBIO 3A",
+      "HUMBIO 4A",
       "BIO 83",
       "BIO 84",
       "BIO 86"
@@ -21993,9 +17581,6 @@
   "BIO 115": [
     [
       "BIO 81"
-    ],
-    [
-      "BIO 85"
     ]
   ],
   "BIO 117": [
@@ -22051,31 +17636,19 @@
   "BIO 145": [
     [
       "BIO 81"
+    ],
+    [
+      "BIO 85"
     ]
   ],
   "BIO 146": [
     [
       "BIO 82"
-    ],
-    [
-      "BIO 83",
-      "BIO 86"
     ]
   ],
-  "BIO 147": [
-    [
-      "BIO 117"
-    ],
-    [
-      "BIO 111"
-    ]
-  ],
+  "BIO 147": [],
   "BIO 148": [],
-  "BIO 149": [
-    [
-      "HUMBIO 161"
-    ]
-  ],
+  "BIO 149": [],
   "BIO 150": [],
   "BIO 151": [],
   "BIO 152": [],
@@ -22108,7 +17681,9 @@
       "BIO 83"
     ],
     [
-      "BIO 82",
+      "BIO 82"
+    ],
+    [
       "BIO 84"
     ]
   ],
@@ -22145,11 +17720,7 @@
   "BIO 211": [],
   "BIO 214": [],
   "BIO 218": [],
-  "BIO 218A": [
-    [
-      "BIO 199"
-    ]
-  ],
+  "BIO 218A": [],
   "BIO 219": [],
   "BIO 220": [
     [
@@ -22168,11 +17739,7 @@
   "BIO 223": [],
   "BIO 226": [],
   "BIO 228": [],
-  "BIO 230": [
-    [
-      "BIO 83"
-    ]
-  ],
+  "BIO 230": [],
   "BIO 231": [],
   "BIO 232": [],
   "BIO 232S": [],
@@ -22183,19 +17750,9 @@
   "BIO 239": [
     [
       "BIO 81"
-    ],
-    [
-      "BIO 85"
     ]
   ],
-  "BIO 240": [
-    [
-      "BIO 117"
-    ],
-    [
-      "BIO 111"
-    ]
-  ],
+  "BIO 240": [],
   "BIO 243H": [],
   "BIO 244": [
     [
@@ -22208,6 +17765,9 @@
   "BIO 245": [
     [
       "BIO 81"
+    ],
+    [
+      "BIO 85"
     ]
   ],
   "BIO 246": [],
@@ -22216,11 +17776,7 @@
       "BIO 82"
     ]
   ],
-  "BIO 249": [
-    [
-      "HUMBIO 161"
-    ]
-  ],
+  "BIO 249": [],
   "BIO 251": [],
   "BIO 253": [],
   "BIO 255": [],
@@ -22241,7 +17797,8 @@
   ],
   "BIO 273B": [
     [
-      "CHEMENG 174"
+      "CHEMENG 174",
+      "CHEMENG 181"
     ]
   ],
   "BIO 273H": [],
@@ -22288,31 +17845,12 @@
   "MATSCI 90Q": [],
   "MATSCI 99": [],
   "MATSCI 100": [],
-  "MATSCI 122": [
-    [
-      "CS 106A"
-    ],
-    [
-      "ENGR 50"
-    ]
-  ],
+  "MATSCI 122": [],
   "MATSCI 124": [],
   "MATSCI 126": [],
   "MATSCI 131": [],
-  "MATSCI 142": [
-    [
-      "CHEM 33",
-      "CHEM 31A"
-    ],
-    [
-      "PHYSICS 41"
-    ]
-  ],
-  "MATSCI 143": [
-    [
-      "MATSCI 142"
-    ]
-  ],
+  "MATSCI 142": [],
+  "MATSCI 143": [],
   "MATSCI 144": [],
   "MATSCI 144S": [],
   "MATSCI 145": [
@@ -22323,22 +17861,14 @@
   "MATSCI 150": [],
   "MATSCI 151": [],
   "MATSCI 152": [],
-  "MATSCI 156": [
-    [
-      "MATSCI 144"
-    ]
-  ],
+  "MATSCI 156": [],
   "MATSCI 159Q": [],
   "MATSCI 160": [
     [
       "ENGR 50"
     ]
   ],
-  "MATSCI 161": [
-    [
-      "MATSCI 156"
-    ]
-  ],
+  "MATSCI 161": [],
   "MATSCI 162": [
     [
       "MATSCI 143"
@@ -22371,11 +17901,7 @@
       "ENGR 50"
     ]
   ],
-  "MATSCI 171": [
-    [
-      "MATSCI 156"
-    ]
-  ],
+  "MATSCI 171": [],
   "MATSCI 172": [
     [
       "MATSCI 143"
@@ -22403,7 +17929,12 @@
     ]
   ],
   "MATSCI 181": [],
-  "MATSCI 182": [],
+  "MATSCI 182": [
+    [
+      "MATSCI 181",
+      "MATSCI 211"
+    ]
+  ],
   "MATSCI 183": [],
   "MATSCI 184": [],
   "MATSCI 185": [],
@@ -22416,7 +17947,8 @@
   "MATSCI 198": [],
   "MATSCI 199": [
     [
-      "MATSCI 195"
+      "MATSCI 195",
+      "MATSCI 205"
     ]
   ],
   "MATSCI 200": [],
@@ -22425,7 +17957,8 @@
   "MATSCI 208": [],
   "MATSCI 209": [
     [
-      "MATSCI 195"
+      "MATSCI 195",
+      "MATSCI 205"
     ]
   ],
   "MATSCI 210": [
@@ -22434,19 +17967,17 @@
     ]
   ],
   "MATSCI 211": [],
-  "MATSCI 212": [],
+  "MATSCI 212": [
+    [
+      "MATSCI 181",
+      "MATSCI 211"
+    ]
+  ],
   "MATSCI 213": [],
   "MATSCI 214": [],
   "MATSCI 215": [],
   "MATSCI 220": [],
-  "MATSCI 222": [
-    [
-      "CS 106A"
-    ],
-    [
-      "ENGR 50"
-    ]
-  ],
+  "MATSCI 222": [],
   "MATSCI 224": [],
   "MATSCI 225": [],
   "MATSCI 226": [],
@@ -22455,11 +17986,7 @@
   "MATSCI 232": [],
   "MATSCI 236": [],
   "MATSCI 251": [],
-  "MATSCI 256": [
-    [
-      "MATSCI 144"
-    ]
-  ],
+  "MATSCI 256": [],
   "MATSCI 299": [],
   "MATSCI 300": [],
   "MATSCI 303": [],
@@ -22476,30 +18003,19 @@
   "MATSCI 323": [],
   "MATSCI 324": [],
   "MATSCI 326": [],
-  "MATSCI 327": [
+  "MATSCI 327": [],
+  "MATSCI 331": [],
+  "MATSCI 333": [
     [
-      "MATSCI 321",
-      "MATSCI 324",
-      "MATSCI 327"
+      "ME 80"
     ]
   ],
-  "MATSCI 331": [],
-  "MATSCI 333": [],
   "MATSCI 341": [],
   "MATSCI 342": [],
   "MATSCI 343": [],
   "MATSCI 346": [],
   "MATSCI 351": [],
-  "MATSCI 358": [
-    [
-      "MATSCI 151",
-      "MATSCI 251"
-    ],
-    [
-      "MATSCI 198",
-      "MATSCI 208"
-    ]
-  ],
+  "MATSCI 358": [],
   "MATSCI 380": [],
   "MATSCI 381": [],
   "MATSCI 384": [
@@ -22560,11 +18076,7 @@
   "MED 213": [],
   "MED 214": [],
   "MED 215": [],
-  "MED 216": [
-    [
-      "MED 213"
-    ]
-  ],
+  "MED 216": [],
   "MED 217": [],
   "MED 218": [],
   "MED 219": [],
@@ -22603,17 +18115,8 @@
   "MED 257": [],
   "MED 259": [],
   "MED 260": [],
-  "MED 261": [
-    [
-      "INDE 201"
-    ]
-  ],
-  "MED 262": [
-    [
-      "ECON 50",
-      "ECON 102B"
-    ]
-  ],
+  "MED 261": [],
+  "MED 262": [],
   "MED 264": [],
   "MED 265": [],
   "MED 266": [],
@@ -22643,17 +18146,7 @@
   "MED 291": [],
   "MED 292": [],
   "MED 294": [],
-  "MED 295": [
-    [
-      "MED 300A"
-    ],
-    [
-      "MED 300A"
-    ],
-    [
-      "MED 300A"
-    ]
-  ],
+  "MED 295": [],
   "MED 296": [],
   "MED 297": [],
   "MED 299": [],
@@ -22751,16 +18244,36 @@
       "MATH 51"
     ]
   ],
-  "MS&E 134": [],
+  "MS&E 134": [
+    [
+      "MS&E 108"
+    ],
+    [
+      "CS 129"
+    ],
+    [
+      "HUMBIO 88"
+    ],
+    [
+      "POLISCI 150A"
+    ],
+    [
+      "STATS 60"
+    ],
+    [
+      "SOC 180B"
+    ],
+    [
+      "MS&E 125"
+    ]
+  ],
   "MS&E 135": [],
   "MS&E 140": [],
   "MS&E 141": [],
   "MS&E 145": [
     [
       "MS&E 120",
-      "MS&E 220"
-    ],
-    [
+      "MS&E 220",
       "CS 109"
     ]
   ],
@@ -22777,7 +18290,11 @@
   "MS&E 180S": [],
   "MS&E 184": [],
   "MS&E 188": [],
-  "MS&E 206": [],
+  "MS&E 206": [
+    [
+      "CS 161"
+    ]
+  ],
   "MS&E 208A": [],
   "MS&E 208B": [],
   "MS&E 208C": [],
@@ -22813,45 +18330,21 @@
   "MS&E 229": [],
   "MS&E 230": [
     [
-      "MS&E 120"
-    ],
-    [
       "MS&E 220",
       "EE 178"
     ]
   ],
   "MS&E 232": [
     [
-      "MS&E 120",
       "EE 178"
     ]
   ],
-  "MS&E 232H": [
-    [
-      "MS&E 120"
-    ]
-  ],
+  "MS&E 232H": [],
   "MS&E 233": [],
   "MS&E 235A": [],
   "MS&E 235B": [],
   "MS&E 236": [],
-  "MS&E 237A": [
-    [
-      "MS&E 121"
-    ],
-    [
-      "EE 178",
-      "CS 109"
-    ],
-    [
-      "EE 104",
-      "CME 107"
-    ],
-    [
-      "MS&E 226",
-      "CS 229"
-    ]
-  ],
+  "MS&E 237A": [],
   "MS&E 239": [
     [
       "MS&E 230"
@@ -22932,15 +18425,14 @@
   "MS&E 311": [
     [
       "MATH 113"
+    ],
+    [
+      "MATH 115"
     ]
   ],
   "MS&E 312": [],
   "MS&E 315": [],
-  "MS&E 318": [
-    [
-      "CME 307"
-    ]
-  ],
+  "MS&E 318": [],
   "MS&E 319": [
     [
       "MS&E 212"
@@ -22956,13 +18448,21 @@
     ],
     [
       "MATH 113"
+    ],
+    [
+      "MATH 115"
     ]
   ],
   "MS&E 322": [
     [
       "MS&E 221",
-      "STATS 217",
+      "STATS 217"
+    ],
+    [
       "MATH 113"
+    ],
+    [
+      "MATH 115"
     ]
   ],
   "MS&E 323": [
@@ -22986,23 +18486,12 @@
   ],
   "MS&E 336": [
     [
-      "MS&E 212",
       "CS 161"
-    ],
-    [
-      "MS&E 221"
     ]
   ],
   "MS&E 337": [],
   "MS&E 338": [],
-  "MS&E 339": [
-    [
-      "CS 161"
-    ],
-    [
-      "MS&E 111"
-    ]
-  ],
+  "MS&E 339": [],
   "MS&E 342": [],
   "MS&E 346": [],
   "MS&E 347": [],
@@ -23023,11 +18512,7 @@
       "MS&E 245A"
     ]
   ],
-  "MS&E 355": [
-    [
-      "MS&E 220"
-    ]
-  ],
+  "MS&E 355": [],
   "MS&E 365": [],
   "MS&E 366": [],
   "MS&E 370": [],
@@ -23079,21 +18564,13 @@
   "PEDS 154": [],
   "PEDS 199": [],
   "PEDS 202A": [],
-  "PEDS 202B": [
-    [
-      "PEDS 202A"
-    ]
-  ],
+  "PEDS 202B": [],
   "PEDS 202C": [],
   "PEDS 212": [],
   "PEDS 213": [],
   "PEDS 219": [],
   "PEDS 220": [],
-  "PEDS 222": [
-    [
-      "HUMBIO 122"
-    ]
-  ],
+  "PEDS 222": [],
   "PEDS 223": [],
   "PEDS 224": [],
   "PEDS 225": [],
@@ -23148,9 +18625,5 @@
   "PEDS 370": [],
   "PEDS 398A": [],
   "PEDS 399": [],
-  "PEDS 463": [
-    [
-      "PEDS 263"
-    ]
-  ]
+  "PEDS 463": []
 }
