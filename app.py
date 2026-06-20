@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import json
+import re
 from pathlib import Path
 from streamlit_local_storage import LocalStorage
 
@@ -519,6 +520,69 @@ for col, (req_name, req) in zip(req_cols, REQUIREMENTS.items()):
         missing_req = [c for c in req["required"] if c not in codes_now and alts.get(c,"") not in codes_now]
         if missing_req:
             st.caption("Need: " + ", ".join(missing_req[:3]) + ("…" if len(missing_req) > 3 else ""))
+
+# ── Prerequisite Checker ─────────────────────────────────────────────────────
+
+def _parse_prereq_groups(desc):
+    """Return list of OR-groups from prereq text. Each group = list of alternatives (any one satisfies it)."""
+    m = re.search(r'[Pp]re(?:-?\/?[Cc]o)?requisites?:(.*?)(?:\.|Recommended|Note:|$)', desc, re.DOTALL)
+    if not m:
+        return []
+    text = m.group(1)
+    groups = []
+    for chunk in re.split(r'[,;]', text):
+        alts = re.split(r'\s+or\s+', chunk, flags=re.IGNORECASE)
+        codes = []
+        for alt in alts:
+            found = re.findall(r'\b([A-Z]{2,8}(?:&[A-Z]{1,5})?)\s+(\d{1,4}[A-Z]*)\b', alt)
+            codes.extend(f"{s} {n}" for s, n in found if f"{s} {n}" in CATALOG_BY_CODE)
+        if codes:
+            groups.append(codes)
+    return groups
+
+def _plan_timeline():
+    """Return {course_code: (year_idx, quarter_idx)} for every non-empty planned course."""
+    tl = {}
+    for yi, yr in enumerate(YEARS):
+        for qi, q in enumerate(QUARTERS):
+            for _, row in st.session_state.plan[yr][q].iterrows():
+                code = str(row["Course"]).strip()
+                if code and code not in tl:
+                    tl[code] = (yi, qi)
+    return tl
+
+def _check_prereqs():
+    tl = _plan_timeline()
+    warnings = []
+    for code, (yi, qi) in tl.items():
+        course = CATALOG_BY_CODE.get(code)
+        if not course:
+            continue
+        groups = _parse_prereq_groups(course.get("desc", ""))
+        unmet = []
+        for group in groups:
+            satisfied = any(
+                alt in tl and tl[alt] < (yi, qi)
+                for alt in group
+            )
+            if not satisfied:
+                unmet.append(" or ".join(group))
+        if unmet:
+            warnings.append({"code": code, "name": course["name"],
+                             "year": YEARS[yi], "quarter": QUARTERS[qi], "unmet": unmet})
+    return warnings
+
+st.markdown("---")
+st.markdown("### ⚠️ Prerequisite Warnings")
+prereq_warnings = _check_prereqs()
+if not prereq_warnings:
+    st.success("All prerequisites satisfied for courses in your plan.")
+else:
+    for w in prereq_warnings:
+        with st.expander(f"**{w['code']}** — {w['year']} {w['quarter']}"):
+            st.markdown(f"**{w['name']}** requires:")
+            for unmet in w["unmet"]:
+                st.markdown(f"- `{unmet}`")
 
 # ── Auto-save to browser localStorage ────────────────────────────────────────
 if st.session_state._ls_ready:
