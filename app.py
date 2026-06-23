@@ -559,16 +559,30 @@ def _check_prereqs():
     return warnings
 
 st.markdown("---")
-st.markdown("### ⚠️ Prerequisite Warnings")
 prereq_warnings = _check_prereqs()
 if not prereq_warnings:
-    st.success("All prerequisites satisfied for courses in your plan.")
+    st.success("✅ All prerequisites satisfied for every course in your plan.")
 else:
+    st.markdown(
+        f"<div style='background:#FEF2F2;border:2px solid #EF4444;border-radius:8px;"
+        f"padding:12px 18px;margin-bottom:10px'>"
+        f"<span style='font-size:18px;font-weight:700;color:#B91C1C'>"
+        f"⚠️ {len(prereq_warnings)} Prerequisite Warning{'s' if len(prereq_warnings)!=1 else ''}</span>"
+        f"</div>",
+        unsafe_allow_html=True,
+    )
     for w in prereq_warnings:
-        with st.expander(f"**{w['code']}** — {w['year']} {w['quarter']}"):
-            st.markdown(f"**{w['name']}** requires:")
-            for unmet in w["unmet"]:
-                st.markdown(f"- `{unmet}`")
+        missing_str = " &nbsp;·&nbsp; ".join(f"<code>{u}</code>" for u in w["unmet"])
+        st.markdown(
+            f"<div style='background:#FFF7ED;border-left:4px solid #F97316;"
+            f"border-radius:4px;padding:10px 14px;margin-bottom:8px'>"
+            f"<b style='color:#92400E'>{w['code']}</b> "
+            f"<span style='color:#6B7280;font-size:12px'>({w['year']} · {w['quarter']})</span> — "
+            f"{w['name']}<br>"
+            f"<span style='font-size:12px;color:#374151'>Missing prereq: {missing_str}</span>"
+            f"</div>",
+            unsafe_allow_html=True,
+        )
 
 # ── Auto-save to browser localStorage ────────────────────────────────────────
 if st.session_state._ls_ready:
